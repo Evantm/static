@@ -1,7 +1,7 @@
 {
   "abbreviation": "PST",
-  "client_ip": "52.177.8.247",
-  "datetime": "2020-11-25T22:04:53.480797-08:00",
+  "client_ip": "20.44.99.99",
+  "datetime": "2020-11-25T22:12:21.112025-08:00",
   "day_of_week": 3,
   "day_of_year": 330,
   "dst": false,
@@ -10,8 +10,8 @@
   "dst_until": null,
   "raw_offset": -28800,
   "timezone": "America/Vancouver",
-  "unixtime": 1606370693,
-  "utc_datetime": "2020-11-26T06:04:53.480797+00:00",
+  "unixtime": 1606371141,
+  "utc_datetime": "2020-11-26T06:12:21.112025+00:00",
   "utc_offset": "-08:00",
   "week_number": 48
 }
