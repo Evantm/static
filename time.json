@@ -1,0 +1,17 @@
+{
+  "abbreviation": "PST",
+  "client_ip": "52.177.8.247",
+  "datetime": "2020-11-25T22:04:53.480797-08:00",
+  "day_of_week": 3,
+  "day_of_year": 330,
+  "dst": false,
+  "dst_from": null,
+  "dst_offset": 0,
+  "dst_until": null,
+  "raw_offset": -28800,
+  "timezone": "America/Vancouver",
+  "unixtime": 1606370693,
+  "utc_datetime": "2020-11-26T06:04:53.480797+00:00",
+  "utc_offset": "-08:00",
+  "week_number": 48
+}
