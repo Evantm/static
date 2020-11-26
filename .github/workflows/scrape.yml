@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Generate jsons
         run: |-
-          curl http://worldtimeapi.org/api/timezone/America/Vancouver | jq . > incidents.json
+          curl http://worldtimeapi.org/api/timezone/America/Vancouver | jq . > time.json
       - name: Add results to config
         run: |-
           git config user.name "Automated"
