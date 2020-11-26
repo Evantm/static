@@ -1,0 +1,25 @@
+name: Fetch latest shaw outages data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "@daily"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetches repo
+        uses: actions/checkout@v2
+      - name: Generate jsons
+        run: |-
+          curl http://worldtimeapi.org/api/timezone/America/Vancouver | jq . > incidents.json
+      - name: Add results to config
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A *.json
+          timestamp=$(date -u -Is)
+          git commit -m "Update data on ${timestamp}" || exit 0
+          git push
