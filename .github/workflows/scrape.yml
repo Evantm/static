@@ -1,4 +1,4 @@
-name: Fetch latest shaw outages data
+name: TEMP: Get the time from json
 
 on:
   push:
