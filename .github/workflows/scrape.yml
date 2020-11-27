@@ -1,4 +1,4 @@
-name: TEMP: Get the time from json
+name: Get the time from json
 
 on:
   push:
