@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "30 23 * * *"
 
 jobs:
   scheduled:
@@ -12,9 +12,16 @@ jobs:
     steps:
       - name: Fetches repo
         uses: actions/checkout@v2
-      - name: Generate jsons
+      - name: Generate time jsons
         run: |-
           curl http://worldtimeapi.org/api/timezone/America/Vancouver | jq . > time.json
+      - name: Generate covid jsons
+        run: |-
+          curl https://health-infobase.canada.ca/src/data/covidLive/covid19.json | jq -r '.[] | select(.prname == "British Columbia")' > bc.json
+
+      - name: Generate covid jsons
+        run: |-
+          curl https://health-infobase.canada.ca/src/data/covidLive/covid19.json | jq -r '.[] | select(.prname == "Canada")' > Canada.json
       - name: Add results to config
         run: |-
           git config user.name "Automated"
@@ -23,3 +30,4 @@ jobs:
           timestamp=$(date -u -Is)
           git commit -m "Update data on ${timestamp}" || exit 0
           git push
+
