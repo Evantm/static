@@ -17,11 +17,11 @@ jobs:
           curl http://worldtimeapi.org/api/timezone/America/Vancouver | jq . > time.json
       - name: Generate covid jsons
         run: |-
-          curl https://health-infobase.canada.ca/src/data/covidLive/covid19.json | jq -r '.[] | select(.prname == "British Columbia")' > bc.json
+          curl https://health-infobase.canada.ca/src/data/covidLive/covid19.json | jq -r '.[] | select(.prname == "British Columbia")' | jq -s '.' > bc.json
 
       - name: Generate covid jsons
         run: |-
-          curl https://health-infobase.canada.ca/src/data/covidLive/covid19.json | jq -r '.[] | select(.prname == "Canada")' > Canada.json
+          curl https://health-infobase.canada.ca/src/data/covidLive/covid19.json | jq -r '.[] | select(.prname == "Canada")' | jq -s '.' > canada.json
       - name: Add results to config
         run: |-
           git config user.name "Automated"
