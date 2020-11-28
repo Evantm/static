@@ -2,17 +2,7 @@
 
 ## Welcome
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="http://evanmackay.ca/static/main.js"></script>
 <div id="time"></div>
-<script>
-fetch('http://evanmackay.ca/static/time.json')
-  .then((response) => {
-    return response.json()
-  })
-  .then((data) => {
-    console.log(data)
-    $("#time").html("The time is: " + data.utc_datetime);
-  })
-  .catch((err) => {
-    // Really? This code broke? Well okay then
-  })
-</script>
+<div id="active"></div>
+<div id="new"></div>
