@@ -11,7 +11,8 @@
     "numtoday": "4",
     "numconf": "4",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "400.00",
     "avgincidence_last7": "",
@@ -35,7 +36,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.01",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -49,7 +52,8 @@
     "numtoday": "3",
     "numconf": "7",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "75.00",
     "avgincidence_last7": "",
@@ -73,7 +77,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.02",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -87,7 +93,8 @@
     "numtoday": "1",
     "numconf": "8",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "14.29",
     "avgincidence_last7": "",
@@ -111,7 +118,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.02",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -125,7 +134,8 @@
     "numtoday": "1",
     "numconf": "9",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "12.50",
     "avgincidence_last7": "",
@@ -149,7 +159,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.02",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -163,7 +175,8 @@
     "numtoday": "1",
     "numconf": "10",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "11.11",
     "avgincidence_last7": "",
@@ -187,7 +200,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.03",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -201,7 +216,8 @@
     "numtoday": "1",
     "numconf": "11",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "10.00",
     "avgincidence_last7": "",
@@ -225,7 +241,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.03",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -239,7 +257,8 @@
     "numtoday": "1",
     "numconf": "12",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "9.09",
     "avgincidence_last7": "",
@@ -263,7 +282,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.03",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -277,7 +298,8 @@
     "numtoday": "1",
     "numconf": "13",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "8.33",
     "avgincidence_last7": "",
@@ -301,7 +323,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.03",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -315,7 +339,8 @@
     "numtoday": "2",
     "numconf": "15",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "15.38",
     "avgincidence_last7": "",
@@ -339,7 +364,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.04",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -353,7 +380,8 @@
     "numtoday": "9",
     "numconf": "24",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "60.00",
     "avgincidence_last7": "",
@@ -377,7 +405,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.06",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -391,7 +421,8 @@
     "numtoday": "9",
     "numconf": "33",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "37.50",
     "avgincidence_last7": "",
@@ -415,7 +446,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.09",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -429,7 +462,8 @@
     "numtoday": "12",
     "numconf": "45",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "36.36",
     "avgincidence_last7": "",
@@ -453,7 +487,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.12",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -467,7 +503,8 @@
     "numtoday": "6",
     "numconf": "51",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "13.33",
     "avgincidence_last7": "",
@@ -491,7 +528,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.13",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -505,7 +544,8 @@
     "numtoday": "6",
     "numconf": "57",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "11.76",
     "avgincidence_last7": "",
@@ -529,7 +569,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.15",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -543,7 +585,8 @@
     "numtoday": "5",
     "numconf": "62",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "8.77",
     "avgincidence_last7": "",
@@ -567,7 +610,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.16",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -581,7 +626,8 @@
     "numtoday": "15",
     "numconf": "77",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "24.19",
     "avgincidence_last7": "",
@@ -605,7 +651,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.20",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -619,7 +667,8 @@
     "numtoday": "26",
     "numconf": "103",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "33.77",
     "avgincidence_last7": "",
@@ -643,7 +692,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.27",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -657,7 +708,8 @@
     "numtoday": "38",
     "numconf": "138",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "36.89",
     "avgincidence_last7": "",
@@ -681,7 +733,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.37",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -695,7 +749,8 @@
     "numtoday": "38",
     "numconf": "176",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "26.95",
     "avgincidence_last7": "",
@@ -719,7 +774,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.47",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -733,7 +790,8 @@
     "numtoday": "20",
     "numconf": "193",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "11.17",
     "avgincidence_last7": "",
@@ -757,7 +815,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.52",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -771,7 +831,8 @@
     "numtoday": "54",
     "numconf": "249",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "27.14",
     "avgincidence_last7": "",
@@ -795,7 +856,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.66",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -809,7 +872,8 @@
     "numtoday": "88",
     "numconf": "324",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "34.78",
     "avgincidence_last7": "",
@@ -833,7 +897,9 @@
     "ratetotal_last7": "",
     "rateactive": "0.88",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -847,7 +913,8 @@
     "numtoday": "99",
     "numconf": "424",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "29.03",
     "avgincidence_last7": "",
@@ -871,7 +938,9 @@
     "ratetotal_last7": "",
     "rateactive": "1.14",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -885,7 +954,8 @@
     "numtoday": "157",
     "numconf": "569",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "35.68",
     "avgincidence_last7": "",
@@ -909,7 +979,9 @@
     "ratetotal_last7": "",
     "rateactive": "1.55",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -923,7 +995,8 @@
     "numtoday": "276",
     "numconf": "846",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "46.23",
     "avgincidence_last7": "",
@@ -947,7 +1020,9 @@
     "ratetotal_last7": "",
     "rateactive": "2.27",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -961,7 +1036,8 @@
     "numtoday": "131",
     "numconf": "971",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "15.01",
     "avgincidence_last7": "",
@@ -985,7 +1061,9 @@
     "ratetotal_last7": "",
     "rateactive": "2.61",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -999,7 +1077,8 @@
     "numtoday": "367",
     "numconf": "1302",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "36.55",
     "avgincidence_last7": "",
@@ -1023,7 +1102,9 @@
     "ratetotal_last7": "",
     "rateactive": "3.56",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -1037,7 +1118,8 @@
     "numtoday": "100",
     "numconf": "1430",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "7.29",
     "avgincidence_last7": "",
@@ -1061,7 +1143,9 @@
     "ratetotal_last7": "",
     "rateactive": "3.82",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "",
@@ -1075,7 +1159,8 @@
     "numtoday": "620",
     "numconf": "1646",
     "numrecover": "",
-    "ratedeaths_last7": "",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "42.15",
     "avgincidence_last7": "",
@@ -1099,7 +1184,9 @@
     "ratetotal_last7": "",
     "rateactive": "5.44",
     "avgdeaths_last7": "",
-    "avgtotal_last7": ""
+    "ratedeaths_last7": "",
+    "avgtotal_last7": "",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2352",
@@ -1113,7 +1200,8 @@
     "numtoday": "701",
     "numconf": "1959",
     "numrecover": "",
-    "ratedeaths_last7": "0.05",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "33.52",
     "avgincidence_last7": "0.88",
@@ -1137,7 +1225,9 @@
     "ratetotal_last7": "6.19",
     "rateactive": "7.28",
     "avgdeaths_last7": "3",
-    "avgtotal_last7": "336"
+    "ratedeaths_last7": "0.05",
+    "avgtotal_last7": "336",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2812",
@@ -1151,7 +1241,8 @@
     "numtoday": "617",
     "numconf": "3385",
     "numrecover": "",
-    "ratedeaths_last7": "0.07",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "22.10",
     "avgincidence_last7": "1.06",
@@ -1175,7 +1266,9 @@
     "ratetotal_last7": "7.40",
     "rateactive": "8.88",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "402"
+    "ratedeaths_last7": "0.07",
+    "avgtotal_last7": "402",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3170",
@@ -1189,7 +1282,8 @@
     "numtoday": "634",
     "numconf": "4018",
     "numrecover": "230",
-    "ratedeaths_last7": "0.07",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "18.60",
     "avgincidence_last7": "1.19",
@@ -1213,7 +1307,9 @@
     "ratetotal_last7": "8.34",
     "rateactive": "9.93",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "453"
+    "ratedeaths_last7": "0.07",
+    "avgtotal_last7": "453",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3685",
@@ -1227,7 +1323,8 @@
     "numtoday": "646",
     "numconf": "4675",
     "numrecover": "256",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "15.98",
     "avgincidence_last7": "1.39",
@@ -1251,7 +1348,9 @@
     "ratetotal_last7": "9.70",
     "rateactive": "11.52",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "526"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "526",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4054",
@@ -1265,7 +1364,8 @@
     "numtoday": "736",
     "numconf": "5386",
     "numrecover": "502",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "15.70",
     "avgincidence_last7": "1.52",
@@ -1289,7 +1389,9 @@
     "ratetotal_last7": "10.67",
     "rateactive": "12.80",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "579"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "579",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4787",
@@ -1303,7 +1405,8 @@
     "numtoday": "833",
     "numconf": "6255",
     "numrecover": "522",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "15.35",
     "avgincidence_last7": "1.80",
@@ -1327,7 +1430,9 @@
     "ratetotal_last7": "12.60",
     "rateactive": "14.93",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "684"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "684",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5346",
@@ -1341,7 +1446,8 @@
     "numtoday": "1179",
     "numconf": "7424",
     "numrecover": "1068",
-    "ratedeaths_last7": "0.17",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "18.84",
     "avgincidence_last7": "2.01",
@@ -1365,7 +1471,9 @@
     "ratetotal_last7": "14.07",
     "rateactive": "16.52",
     "avgdeaths_last7": "9",
-    "avgtotal_last7": "764"
+    "ratedeaths_last7": "0.17",
+    "avgtotal_last7": "764",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5756",
@@ -1379,7 +1487,8 @@
     "numtoday": "1111",
     "numconf": "8536",
     "numrecover": "1254",
-    "ratedeaths_last7": "0.18",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "14.94",
     "avgincidence_last7": "2.16",
@@ -1403,7 +1512,9 @@
     "ratetotal_last7": "15.15",
     "rateactive": "18.94",
     "avgdeaths_last7": "10",
-    "avgtotal_last7": "822"
+    "ratedeaths_last7": "0.18",
+    "avgtotal_last7": "822",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6204",
@@ -1417,7 +1528,8 @@
     "numtoday": "1065",
     "numconf": "9595",
     "numrecover": "1553",
-    "ratedeaths_last7": "0.19",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "12.46",
     "avgincidence_last7": "2.33",
@@ -1441,7 +1553,9 @@
     "ratetotal_last7": "16.32",
     "rateactive": "20.92",
     "avgdeaths_last7": "11",
-    "avgtotal_last7": "886"
+    "ratedeaths_last7": "0.19",
+    "avgtotal_last7": "886",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7240",
@@ -1455,7 +1569,8 @@
     "numtoday": "1670",
     "numconf": "11268",
     "numrecover": "1983",
-    "ratedeaths_last7": "0.26",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "17.37",
     "avgincidence_last7": "2.72",
@@ -1479,7 +1594,9 @@
     "ratetotal_last7": "19.05",
     "rateactive": "24.11",
     "avgdeaths_last7": "14",
-    "avgtotal_last7": "1034"
+    "ratedeaths_last7": "0.26",
+    "avgtotal_last7": "1034",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7848",
@@ -1493,7 +1610,8 @@
     "numtoday": "1254",
     "numconf": "12519",
     "numrecover": "",
-    "ratedeaths_last7": "0.35",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "11.11",
     "avgincidence_last7": "2.95",
@@ -1517,7 +1635,9 @@
     "ratetotal_last7": "20.65",
     "rateactive": "32.50",
     "avgdeaths_last7": "19",
-    "avgtotal_last7": "1121"
+    "ratedeaths_last7": "0.35",
+    "avgtotal_last7": "1121",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8479",
@@ -1531,7 +1651,8 @@
     "numtoday": "1367",
     "numconf": "13882",
     "numrecover": "",
-    "ratedeaths_last7": "0.45",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "10.90",
     "avgincidence_last7": "3.19",
@@ -1555,7 +1676,9 @@
     "ratetotal_last7": "22.31",
     "rateactive": "35.98",
     "avgdeaths_last7": "25",
-    "avgtotal_last7": "1211"
+    "ratedeaths_last7": "0.45",
+    "avgtotal_last7": "1211",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9254",
@@ -1569,7 +1692,8 @@
     "numtoday": "1608",
     "numconf": "15496",
     "numrecover": "2335",
-    "ratedeaths_last7": "0.58",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "11.57",
     "avgincidence_last7": "3.48",
@@ -1593,7 +1717,9 @@
     "ratetotal_last7": "24.35",
     "rateactive": "33.93",
     "avgdeaths_last7": "31",
-    "avgtotal_last7": "1322"
+    "ratedeaths_last7": "0.58",
+    "avgtotal_last7": "1322",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9230",
@@ -1607,7 +1733,8 @@
     "numtoday": "1155",
     "numconf": "16653",
     "numrecover": "3616",
-    "ratedeaths_last7": "0.62",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "7.45",
     "avgincidence_last7": "3.47",
@@ -1631,7 +1758,9 @@
     "ratetotal_last7": "24.29",
     "rateactive": "33.49",
     "avgdeaths_last7": "33",
-    "avgtotal_last7": "1319"
+    "ratedeaths_last7": "0.62",
+    "avgtotal_last7": "1319",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9349",
@@ -1645,7 +1774,8 @@
     "numtoday": "1230",
     "numconf": "17883",
     "numrecover": "",
-    "ratedeaths_last7": "0.75",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "7.38",
     "avgincidence_last7": "3.51",
@@ -1669,7 +1799,9 @@
     "ratetotal_last7": "24.60",
     "rateactive": "46.09",
     "avgdeaths_last7": "41",
-    "avgtotal_last7": "1336"
+    "ratedeaths_last7": "0.75",
+    "avgtotal_last7": "1336",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9676",
@@ -1683,7 +1815,8 @@
     "numtoday": "1392",
     "numconf": "19274",
     "numrecover": "",
-    "ratedeaths_last7": "0.86",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "7.78",
     "avgincidence_last7": "3.64",
@@ -1707,7 +1840,9 @@
     "ratetotal_last7": "25.46",
     "rateactive": "49.61",
     "avgdeaths_last7": "47",
-    "avgtotal_last7": "1382"
+    "ratedeaths_last7": "0.86",
+    "avgtotal_last7": "1382",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9482",
@@ -1721,7 +1856,8 @@
     "numtoday": "1476",
     "numconf": "20748",
     "numrecover": "",
-    "ratedeaths_last7": "0.98",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "7.65",
     "avgincidence_last7": "3.56",
@@ -1745,7 +1881,9 @@
     "ratetotal_last7": "24.95",
     "rateactive": "53.30",
     "avgdeaths_last7": "53",
-    "avgtotal_last7": "1355"
+    "ratedeaths_last7": "0.98",
+    "avgtotal_last7": "1355",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9611",
@@ -1759,7 +1897,8 @@
     "numtoday": "1383",
     "numconf": "22133",
     "numrecover": "",
-    "ratedeaths_last7": "1.01",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "6.66",
     "avgincidence_last7": "3.61",
@@ -1783,7 +1922,9 @@
     "ratetotal_last7": "25.29",
     "rateactive": "56.78",
     "avgdeaths_last7": "55",
-    "avgtotal_last7": "1373"
+    "ratedeaths_last7": "1.01",
+    "avgtotal_last7": "1373",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9414",
@@ -1797,7 +1938,8 @@
     "numtoday": "1170",
     "numconf": "23301",
     "numrecover": "",
-    "ratedeaths_last7": "1.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "5.28",
     "avgincidence_last7": "3.54",
@@ -1821,7 +1963,9 @@
     "ratetotal_last7": "24.77",
     "rateactive": "59.64",
     "avgdeaths_last7": "60",
-    "avgtotal_last7": "1345"
+    "ratedeaths_last7": "1.11",
+    "avgtotal_last7": "1345",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8871",
@@ -1835,7 +1979,8 @@
     "numtoday": "1065",
     "numconf": "24365",
     "numrecover": "",
-    "ratedeaths_last7": "1.15",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.57",
     "avgincidence_last7": "3.33",
@@ -1859,7 +2004,9 @@
     "ratetotal_last7": "23.34",
     "rateactive": "62.27",
     "avgdeaths_last7": "62",
-    "avgtotal_last7": "1267"
+    "ratedeaths_last7": "1.15",
+    "avgtotal_last7": "1267",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9013",
@@ -1873,7 +2020,8 @@
     "numtoday": "1297",
     "numconf": "25663",
     "numrecover": "",
-    "ratedeaths_last7": "1.20",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "5.32",
     "avgincidence_last7": "3.39",
@@ -1897,7 +2045,9 @@
     "ratetotal_last7": "23.72",
     "rateactive": "65.52",
     "avgdeaths_last7": "65",
-    "avgtotal_last7": "1288"
+    "ratedeaths_last7": "1.20",
+    "avgtotal_last7": "1288",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9166",
@@ -1911,7 +2061,8 @@
     "numtoday": "1383",
     "numconf": "27046",
     "numrecover": "",
-    "ratedeaths_last7": "1.38",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "5.39",
     "avgincidence_last7": "3.45",
@@ -1935,7 +2086,9 @@
     "ratetotal_last7": "24.12",
     "rateactive": "68.83",
     "avgdeaths_last7": "75",
-    "avgtotal_last7": "1309"
+    "ratedeaths_last7": "1.38",
+    "avgtotal_last7": "1309",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9092",
@@ -1949,7 +2102,8 @@
     "numtoday": "1318",
     "numconf": "28364",
     "numrecover": "",
-    "ratedeaths_last7": "1.53",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.87",
     "avgincidence_last7": "3.42",
@@ -1973,7 +2127,9 @@
     "ratetotal_last7": "23.92",
     "rateactive": "72.01",
     "avgdeaths_last7": "83",
-    "avgtotal_last7": "1299"
+    "ratedeaths_last7": "1.53",
+    "avgtotal_last7": "1299",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9327",
@@ -1987,7 +2143,8 @@
     "numtoday": "1711",
     "numconf": "30081",
     "numrecover": "",
-    "ratedeaths_last7": "1.81",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "6.03",
     "avgincidence_last7": "3.51",
@@ -2011,7 +2168,9 @@
     "ratetotal_last7": "24.54",
     "rateactive": "76.03",
     "avgdeaths_last7": "98",
-    "avgtotal_last7": "1332"
+    "ratedeaths_last7": "1.81",
+    "avgtotal_last7": "1332",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9736",
@@ -2025,7 +2184,8 @@
     "numtoday": "1792",
     "numconf": "31872",
     "numrecover": "",
-    "ratedeaths_last7": "1.96",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "5.96",
     "avgincidence_last7": "3.66",
@@ -2049,7 +2209,9 @@
     "ratetotal_last7": "25.62",
     "rateactive": "80.44",
     "avgdeaths_last7": "106",
-    "avgtotal_last7": "1391"
+    "ratedeaths_last7": "1.96",
+    "avgtotal_last7": "1391",
+    "numtests": ""
   },
   {
     "numtotal_last7": "10036",
@@ -2063,7 +2225,8 @@
     "numtoday": "1470",
     "numconf": "33341",
     "numrecover": "11178",
-    "ratedeaths_last7": "2.15",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.61",
     "avgincidence_last7": "3.77",
@@ -2087,7 +2250,9 @@
     "ratetotal_last7": "26.41",
     "rateactive": "54.48",
     "avgdeaths_last7": "117",
-    "avgtotal_last7": "1434"
+    "ratedeaths_last7": "2.15",
+    "avgtotal_last7": "1434",
+    "numtests": ""
   },
   {
     "numtotal_last7": "10403",
@@ -2101,7 +2266,8 @@
     "numtoday": "1432",
     "numconf": "34777",
     "numrecover": "11786",
-    "ratedeaths_last7": "2.28",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.29",
     "avgincidence_last7": "3.91",
@@ -2125,7 +2291,9 @@
     "ratetotal_last7": "27.37",
     "rateactive": "56.35",
     "avgdeaths_last7": "124",
-    "avgtotal_last7": "1486"
+    "ratedeaths_last7": "2.28",
+    "avgtotal_last7": "1486",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11151",
@@ -2139,7 +2307,8 @@
     "numtoday": "2045",
     "numconf": "36823",
     "numrecover": "12585",
-    "ratedeaths_last7": "2.41",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "5.88",
     "avgincidence_last7": "4.19",
@@ -2163,7 +2332,9 @@
     "ratetotal_last7": "29.34",
     "rateactive": "59.34",
     "avgdeaths_last7": "131",
-    "avgtotal_last7": "1593"
+    "ratedeaths_last7": "2.41",
+    "avgtotal_last7": "1593",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11359",
@@ -2177,7 +2348,8 @@
     "numtoday": "1591",
     "numconf": "38413",
     "numrecover": "13188",
-    "ratedeaths_last7": "2.46",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.32",
     "avgincidence_last7": "4.27",
@@ -2201,7 +2373,9 @@
     "ratetotal_last7": "29.89",
     "rateactive": "61.56",
     "avgdeaths_last7": "134",
-    "avgtotal_last7": "1623"
+    "ratedeaths_last7": "2.46",
+    "avgtotal_last7": "1623",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11809",
@@ -2215,7 +2389,8 @@
     "numtoday": "1768",
     "numconf": "40179",
     "numrecover": "13986",
-    "ratedeaths_last7": "2.54",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.60",
     "avgincidence_last7": "4.44",
@@ -2239,7 +2414,9 @@
     "ratetotal_last7": "31.07",
     "rateactive": "63.74",
     "avgdeaths_last7": "138",
-    "avgtotal_last7": "1687"
+    "ratedeaths_last7": "2.54",
+    "avgtotal_last7": "1687",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12018",
@@ -2253,7 +2430,8 @@
     "numtoday": "1920",
     "numconf": "42099",
     "numrecover": "14761",
-    "ratedeaths_last7": "2.51",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.78",
     "avgincidence_last7": "4.52",
@@ -2277,7 +2455,9 @@
     "ratetotal_last7": "31.62",
     "rateactive": "66.30",
     "avgdeaths_last7": "136",
-    "avgtotal_last7": "1717"
+    "ratedeaths_last7": "2.51",
+    "avgtotal_last7": "1717",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12004",
@@ -2291,7 +2471,8 @@
     "numtoday": "1778",
     "numconf": "43877",
     "numrecover": "15541",
-    "ratedeaths_last7": "2.61",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.22",
     "avgincidence_last7": "4.51",
@@ -2315,7 +2496,9 @@
     "ratetotal_last7": "31.59",
     "rateactive": "68.52",
     "avgdeaths_last7": "142",
-    "avgtotal_last7": "1715"
+    "ratedeaths_last7": "2.61",
+    "avgtotal_last7": "1715",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12000",
@@ -2329,7 +2512,8 @@
     "numtoday": "1466",
     "numconf": "45341",
     "numrecover": "16425",
-    "ratedeaths_last7": "2.63",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.34",
     "avgincidence_last7": "4.51",
@@ -2353,7 +2537,9 @@
     "ratetotal_last7": "31.57",
     "rateactive": "69.62",
     "avgdeaths_last7": "143",
-    "avgtotal_last7": "1714"
+    "ratedeaths_last7": "2.63",
+    "avgtotal_last7": "1714",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12109",
@@ -2367,7 +2553,8 @@
     "numtoday": "1541",
     "numconf": "46884",
     "numrecover": "17321",
-    "ratedeaths_last7": "2.58",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.40",
     "avgincidence_last7": "4.55",
@@ -2391,7 +2578,9 @@
     "ratetotal_last7": "31.86",
     "rateactive": "71.07",
     "avgdeaths_last7": "140",
-    "avgtotal_last7": "1730"
+    "ratedeaths_last7": "2.58",
+    "avgtotal_last7": "1730",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11669",
@@ -2405,7 +2594,8 @@
     "numtoday": "1605",
     "numconf": "48489",
     "numrecover": "18268",
-    "ratedeaths_last7": "2.68",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.42",
     "avgincidence_last7": "4.39",
@@ -2429,7 +2619,9 @@
     "ratetotal_last7": "30.70",
     "rateactive": "72.41",
     "avgdeaths_last7": "145",
-    "avgtotal_last7": "1667"
+    "ratedeaths_last7": "2.68",
+    "avgtotal_last7": "1667",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11604",
@@ -2443,7 +2635,8 @@
     "numtoday": "1526",
     "numconf": "50015",
     "numrecover": "19231",
-    "ratedeaths_last7": "2.70",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.15",
     "avgincidence_last7": "4.36",
@@ -2467,7 +2660,9 @@
     "ratetotal_last7": "30.53",
     "rateactive": "73.49",
     "avgdeaths_last7": "146",
-    "avgtotal_last7": "1658"
+    "ratedeaths_last7": "2.70",
+    "avgtotal_last7": "1658",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11407",
@@ -2481,7 +2676,8 @@
     "numtoday": "1571",
     "numconf": "51587",
     "numrecover": "20327",
-    "ratedeaths_last7": "2.69",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.14",
     "avgincidence_last7": "4.29",
@@ -2505,7 +2701,9 @@
     "ratetotal_last7": "30.01",
     "rateactive": "74.38",
     "avgdeaths_last7": "146",
-    "avgtotal_last7": "1630"
+    "ratedeaths_last7": "2.69",
+    "avgtotal_last7": "1630",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11126",
@@ -2519,7 +2717,8 @@
     "numtoday": "1639",
     "numconf": "53225",
     "numrecover": "21424",
-    "ratedeaths_last7": "2.73",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.18",
     "avgincidence_last7": "4.18",
@@ -2543,7 +2742,9 @@
     "ratetotal_last7": "29.27",
     "rateactive": "75.31",
     "avgdeaths_last7": "148",
-    "avgtotal_last7": "1589"
+    "ratedeaths_last7": "2.73",
+    "avgtotal_last7": "1589",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11173",
@@ -2557,7 +2758,8 @@
     "numtoday": "1825",
     "numconf": "55050",
     "numrecover": "22751",
-    "ratedeaths_last7": "2.87",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.43",
     "avgincidence_last7": "4.20",
@@ -2581,7 +2783,9 @@
     "ratetotal_last7": "29.40",
     "rateactive": "76.08",
     "avgdeaths_last7": "156",
-    "avgtotal_last7": "1596"
+    "ratedeaths_last7": "2.87",
+    "avgtotal_last7": "1596",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11360",
@@ -2595,7 +2799,8 @@
     "numtoday": "1653",
     "numconf": "56703",
     "numrecover": "23801",
-    "ratedeaths_last7": "2.90",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "3.00",
     "avgincidence_last7": "4.27",
@@ -2619,7 +2824,9 @@
     "ratetotal_last7": "29.89",
     "rateactive": "77.21",
     "avgdeaths_last7": "157",
-    "avgtotal_last7": "1623"
+    "ratedeaths_last7": "2.90",
+    "avgtotal_last7": "1623",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12579",
@@ -2633,7 +2840,8 @@
     "numtoday": "2760",
     "numconf": "59463",
     "numrecover": "24908",
-    "ratedeaths_last7": "2.95",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "4.87",
     "avgincidence_last7": "4.73",
@@ -2657,7 +2865,9 @@
     "ratetotal_last7": "33.10",
     "rateactive": "81.25",
     "avgdeaths_last7": "160",
-    "avgtotal_last7": "1797"
+    "ratedeaths_last7": "2.95",
+    "avgtotal_last7": "1797",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12272",
@@ -2671,7 +2881,8 @@
     "numtoday": "1298",
     "numconf": "60761",
     "numrecover": "26017",
-    "ratedeaths_last7": "3.02",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "2.18",
     "avgincidence_last7": "4.61",
@@ -2695,7 +2906,9 @@
     "ratetotal_last7": "32.29",
     "rateactive": "81.29",
     "avgdeaths_last7": "164",
-    "avgtotal_last7": "1753"
+    "ratedeaths_last7": "3.02",
+    "avgtotal_last7": "1753",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12020",
@@ -2709,7 +2922,8 @@
     "numtoday": "1274",
     "numconf": "62035",
     "numrecover": "26993",
-    "ratedeaths_last7": "3.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "2.10",
     "avgincidence_last7": "4.52",
@@ -2733,7 +2947,9 @@
     "ratetotal_last7": "31.63",
     "rateactive": "81.58",
     "avgdeaths_last7": "169",
-    "avgtotal_last7": "1717"
+    "ratedeaths_last7": "3.12",
+    "avgtotal_last7": "1717",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11899",
@@ -2747,7 +2963,8 @@
     "numtoday": "1450",
     "numconf": "63485",
     "numrecover": "28171",
-    "ratedeaths_last7": "3.25",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "2.34",
     "avgincidence_last7": "4.47",
@@ -2771,7 +2988,9 @@
     "ratetotal_last7": "31.31",
     "rateactive": "81.80",
     "avgdeaths_last7": "177",
-    "avgtotal_last7": "1700"
+    "ratedeaths_last7": "3.25",
+    "avgtotal_last7": "1700",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11686",
@@ -2785,7 +3004,8 @@
     "numtoday": "1426",
     "numconf": "64911",
     "numrecover": "29247",
-    "ratedeaths_last7": "3.22",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "2.25",
     "avgincidence_last7": "4.39",
@@ -2809,7 +3029,9 @@
     "ratetotal_last7": "30.75",
     "rateactive": "82.26",
     "avgdeaths_last7": "175",
-    "avgtotal_last7": "1669"
+    "ratedeaths_last7": "3.22",
+    "avgtotal_last7": "1669",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11373",
@@ -2823,7 +3045,8 @@
     "numtoday": "1512",
     "numconf": "66423",
     "numrecover": "30226",
-    "ratedeaths_last7": "3.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "2.33",
     "avgincidence_last7": "4.27",
@@ -2847,7 +3070,9 @@
     "ratetotal_last7": "29.92",
     "rateactive": "83.24",
     "avgdeaths_last7": "168",
-    "avgtotal_last7": "1625"
+    "ratedeaths_last7": "3.10",
+    "avgtotal_last7": "1625",
+    "numtests": ""
   },
   {
     "numtotal_last7": "10988",
@@ -2861,7 +3086,8 @@
     "numtoday": "1268",
     "numconf": "67691",
     "numrecover": "31249",
-    "ratedeaths_last7": "2.97",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.91",
     "avgincidence_last7": "4.13",
@@ -2885,7 +3111,9 @@
     "ratetotal_last7": "28.91",
     "rateactive": "83.55",
     "avgdeaths_last7": "161",
-    "avgtotal_last7": "1570"
+    "ratedeaths_last7": "2.97",
+    "avgtotal_last7": "1570",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9374",
@@ -2899,7 +3127,8 @@
     "numtoday": "1146",
     "numconf": "68837",
     "numrecover": "32096",
-    "ratedeaths_last7": "3.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.69",
     "avgincidence_last7": "3.52",
@@ -2923,7 +3152,9 @@
     "ratetotal_last7": "24.67",
     "rateactive": "83.87",
     "avgdeaths_last7": "170",
-    "avgtotal_last7": "1339"
+    "ratedeaths_last7": "3.13",
+    "avgtotal_last7": "1339",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9209",
@@ -2937,7 +3168,8 @@
     "numtoday": "1133",
     "numconf": "69970",
     "numrecover": "32994",
-    "ratedeaths_last7": "3.00",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.65",
     "avgincidence_last7": "3.46",
@@ -2961,7 +3193,9 @@
     "ratetotal_last7": "24.23",
     "rateactive": "84.17",
     "avgdeaths_last7": "163",
-    "avgtotal_last7": "1316"
+    "ratedeaths_last7": "3.00",
+    "avgtotal_last7": "1316",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9111",
@@ -2975,7 +3209,8 @@
     "numtoday": "1176",
     "numconf": "71146",
     "numrecover": "34042",
-    "ratedeaths_last7": "2.96",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.68",
     "avgincidence_last7": "3.42",
@@ -2999,7 +3234,9 @@
     "ratetotal_last7": "23.97",
     "rateactive": "84.04",
     "avgdeaths_last7": "161",
-    "avgtotal_last7": "1302"
+    "ratedeaths_last7": "2.96",
+    "avgtotal_last7": "1302",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8782",
@@ -3013,7 +3250,8 @@
     "numtoday": "1121",
     "numconf": "72267",
     "numrecover": "35164",
-    "ratedeaths_last7": "2.82",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.58",
     "avgincidence_last7": "3.30",
@@ -3037,7 +3275,9 @@
     "ratetotal_last7": "23.11",
     "rateactive": "83.69",
     "avgdeaths_last7": "153",
-    "avgtotal_last7": "1255"
+    "ratedeaths_last7": "2.82",
+    "avgtotal_last7": "1255",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8566",
@@ -3051,7 +3291,8 @@
     "numtoday": "1210",
     "numconf": "73477",
     "numrecover": "36091",
-    "ratedeaths_last7": "2.80",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.67",
     "avgincidence_last7": "3.22",
@@ -3075,7 +3316,9 @@
     "ratetotal_last7": "22.54",
     "rateactive": "83.99",
     "avgdeaths_last7": "152",
-    "avgtotal_last7": "1224"
+    "ratedeaths_last7": "2.80",
+    "avgtotal_last7": "1224",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8179",
@@ -3089,7 +3332,8 @@
     "numtoday": "1125",
     "numconf": "74602",
     "numrecover": "36895",
-    "ratedeaths_last7": "2.63",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.53",
     "avgincidence_last7": "3.07",
@@ -3113,7 +3357,9 @@
     "ratetotal_last7": "21.52",
     "rateactive": "84.58",
     "avgdeaths_last7": "143",
-    "avgtotal_last7": "1168"
+    "ratedeaths_last7": "2.63",
+    "avgtotal_last7": "1168",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8162",
@@ -3127,7 +3373,8 @@
     "numtoday": "1251",
     "numconf": "75853",
     "numrecover": "37819",
-    "ratedeaths_last7": "2.61",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.68",
     "avgincidence_last7": "3.07",
@@ -3151,7 +3398,9 @@
     "ratetotal_last7": "21.48",
     "rateactive": "85.14",
     "avgdeaths_last7": "142",
-    "avgtotal_last7": "1166"
+    "ratedeaths_last7": "2.61",
+    "avgtotal_last7": "1166",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8154",
@@ -3165,7 +3414,8 @@
     "numtoday": "1138",
     "numconf": "76991",
     "numrecover": "38550",
-    "ratedeaths_last7": "2.41",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.50",
     "avgincidence_last7": "3.06",
@@ -3189,7 +3439,9 @@
     "ratetotal_last7": "21.45",
     "rateactive": "85.94",
     "avgdeaths_last7": "131",
-    "avgtotal_last7": "1165"
+    "ratedeaths_last7": "2.41",
+    "avgtotal_last7": "1165",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8091",
@@ -3203,7 +3455,8 @@
     "numtoday": "1070",
     "numconf": "78061",
     "numrecover": "39238",
-    "ratedeaths_last7": "2.25",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.39",
     "avgincidence_last7": "3.04",
@@ -3227,7 +3480,9 @@
     "ratetotal_last7": "21.29",
     "rateactive": "86.78",
     "avgdeaths_last7": "122",
-    "avgtotal_last7": "1156"
+    "ratedeaths_last7": "2.25",
+    "avgtotal_last7": "1156",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7955",
@@ -3241,7 +3496,8 @@
     "numtoday": "1040",
     "numconf": "79101",
     "numrecover": "40050",
-    "ratedeaths_last7": "1.97",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.33",
     "avgincidence_last7": "2.99",
@@ -3265,7 +3521,9 @@
     "ratetotal_last7": "20.93",
     "rateactive": "87.20",
     "avgdeaths_last7": "107",
-    "avgtotal_last7": "1136"
+    "ratedeaths_last7": "1.97",
+    "avgtotal_last7": "1136",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7845",
@@ -3279,7 +3537,8 @@
     "numtoday": "1011",
     "numconf": "80112",
     "numrecover": "40693",
-    "ratedeaths_last7": "1.92",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.28",
     "avgincidence_last7": "2.95",
@@ -3303,7 +3562,9 @@
     "ratetotal_last7": "20.64",
     "rateactive": "87.86",
     "avgdeaths_last7": "104",
-    "avgtotal_last7": "1121"
+    "ratedeaths_last7": "1.92",
+    "avgtotal_last7": "1121",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7836",
@@ -3317,7 +3578,8 @@
     "numtoday": "1201",
     "numconf": "81313",
     "numrecover": "41728",
-    "ratedeaths_last7": "1.80",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.50",
     "avgincidence_last7": "2.95",
@@ -3341,7 +3603,9 @@
     "ratetotal_last7": "20.62",
     "rateactive": "87.97",
     "avgdeaths_last7": "98",
-    "avgtotal_last7": "1119"
+    "ratedeaths_last7": "1.80",
+    "avgtotal_last7": "1119",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7867",
@@ -3355,7 +3619,8 @@
     "numtoday": "1156",
     "numconf": "82469",
     "numrecover": "42607",
-    "ratedeaths_last7": "1.81",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.42",
     "avgincidence_last7": "2.96",
@@ -3379,7 +3644,9 @@
     "ratetotal_last7": "20.70",
     "rateactive": "88.44",
     "avgdeaths_last7": "98",
-    "avgtotal_last7": "1124"
+    "ratedeaths_last7": "1.81",
+    "avgtotal_last7": "1124",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7757",
@@ -3393,7 +3660,8 @@
     "numtoday": "1141",
     "numconf": "83610",
     "numrecover": "43318",
-    "ratedeaths_last7": "1.78",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.38",
     "avgincidence_last7": "2.92",
@@ -3417,7 +3685,9 @@
     "ratetotal_last7": "20.41",
     "rateactive": "89.30",
     "avgdeaths_last7": "97",
-    "avgtotal_last7": "1108"
+    "ratedeaths_last7": "1.78",
+    "avgtotal_last7": "1108",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7697",
@@ -3431,7 +3701,8 @@
     "numtoday": "1078",
     "numconf": "84688",
     "numrecover": "43998",
-    "ratedeaths_last7": "1.69",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.29",
     "avgincidence_last7": "2.89",
@@ -3455,7 +3726,9 @@
     "ratetotal_last7": "20.25",
     "rateactive": "90.16",
     "avgdeaths_last7": "92",
-    "avgtotal_last7": "1100"
+    "ratedeaths_last7": "1.69",
+    "avgtotal_last7": "1100",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7639",
@@ -3469,7 +3742,8 @@
     "numtoday": "1012",
     "numconf": "85700",
     "numrecover": "44651",
-    "ratedeaths_last7": "1.85",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.19",
     "avgincidence_last7": "2.87",
@@ -3493,7 +3767,9 @@
     "ratetotal_last7": "20.10",
     "rateactive": "90.79",
     "avgdeaths_last7": "100",
-    "avgtotal_last7": "1091"
+    "ratedeaths_last7": "1.85",
+    "avgtotal_last7": "1091",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7535",
@@ -3507,7 +3783,8 @@
     "numtoday": "936",
     "numconf": "86636",
     "numrecover": "45352",
-    "ratedeaths_last7": "1.91",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.09",
     "avgincidence_last7": "2.83",
@@ -3531,7 +3808,9 @@
     "ratetotal_last7": "19.83",
     "rateactive": "91.16",
     "avgdeaths_last7": "104",
-    "avgtotal_last7": "1076"
+    "ratedeaths_last7": "1.91",
+    "avgtotal_last7": "1076",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7396",
@@ -3545,7 +3824,8 @@
     "numtoday": "872",
     "numconf": "87508",
     "numrecover": "46177",
-    "ratedeaths_last7": "1.93",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.01",
     "avgincidence_last7": "2.78",
@@ -3569,7 +3849,9 @@
     "ratetotal_last7": "19.46",
     "rateactive": "90.95",
     "avgdeaths_last7": "105",
-    "avgtotal_last7": "1057"
+    "ratedeaths_last7": "1.93",
+    "avgtotal_last7": "1057",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7188",
@@ -3583,7 +3865,8 @@
     "numtoday": "993",
     "numconf": "88501",
     "numrecover": "46853",
-    "ratedeaths_last7": "1.91",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.13",
     "avgincidence_last7": "2.70",
@@ -3607,7 +3890,9 @@
     "ratetotal_last7": "18.91",
     "rateactive": "91.49",
     "avgdeaths_last7": "104",
-    "avgtotal_last7": "1027"
+    "ratedeaths_last7": "1.91",
+    "avgtotal_last7": "1027",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6938",
@@ -3621,7 +3906,8 @@
     "numtoday": "906",
     "numconf": "89407",
     "numrecover": "47533",
-    "ratedeaths_last7": "1.92",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.02",
     "avgincidence_last7": "2.61",
@@ -3645,7 +3931,9 @@
     "ratetotal_last7": "18.26",
     "rateactive": "91.82",
     "avgdeaths_last7": "104",
-    "avgtotal_last7": "991"
+    "ratedeaths_last7": "1.92",
+    "avgtotal_last7": "991",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6569",
@@ -3659,7 +3947,8 @@
     "numtoday": "772",
     "numconf": "90179",
     "numrecover": "48116",
-    "ratedeaths_last7": "1.89",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.86",
     "avgincidence_last7": "2.47",
@@ -3683,7 +3972,9 @@
     "ratetotal_last7": "17.28",
     "rateactive": "92.07",
     "avgdeaths_last7": "103",
-    "avgtotal_last7": "938"
+    "ratedeaths_last7": "1.89",
+    "avgtotal_last7": "938",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6248",
@@ -3697,7 +3988,8 @@
     "numtoday": "757",
     "numconf": "90936",
     "numrecover": "48892",
-    "ratedeaths_last7": "2.29",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.84",
     "avgincidence_last7": "2.35",
@@ -3721,7 +4013,9 @@
     "ratetotal_last7": "16.44",
     "rateactive": "91.43",
     "avgdeaths_last7": "124",
-    "avgtotal_last7": "893"
+    "ratedeaths_last7": "2.29",
+    "avgtotal_last7": "893",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5994",
@@ -3735,7 +4029,8 @@
     "numtoday": "758",
     "numconf": "91694",
     "numrecover": "49739",
-    "ratedeaths_last7": "2.05",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.83",
     "avgincidence_last7": "2.25",
@@ -3759,7 +4054,9 @@
     "ratetotal_last7": "15.77",
     "rateactive": "91.12",
     "avgdeaths_last7": "112",
-    "avgtotal_last7": "856"
+    "ratedeaths_last7": "2.05",
+    "avgtotal_last7": "856",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5763",
@@ -3773,7 +4070,8 @@
     "numtoday": "705",
     "numconf": "92399",
     "numrecover": "50357",
-    "ratedeaths_last7": "1.99",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.77",
     "avgincidence_last7": "2.17",
@@ -3797,7 +4095,9 @@
     "ratetotal_last7": "15.16",
     "rateactive": "91.17",
     "avgdeaths_last7": "108",
-    "avgtotal_last7": "823"
+    "ratedeaths_last7": "1.99",
+    "avgtotal_last7": "823",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5566",
@@ -3811,7 +4111,8 @@
     "numtoday": "675",
     "numconf": "93074",
     "numrecover": "51048",
-    "ratedeaths_last7": "1.93",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.73",
     "avgincidence_last7": "2.09",
@@ -3835,7 +4136,9 @@
     "ratetotal_last7": "14.65",
     "rateactive": "90.85",
     "avgdeaths_last7": "105",
-    "avgtotal_last7": "795"
+    "ratedeaths_last7": "1.93",
+    "avgtotal_last7": "795",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5214",
@@ -3849,7 +4152,8 @@
     "numtoday": "641",
     "numconf": "93715",
     "numrecover": "51739",
-    "ratedeaths_last7": "2.00",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.69",
     "avgincidence_last7": "1.96",
@@ -3873,7 +4177,9 @@
     "ratetotal_last7": "13.72",
     "rateactive": "90.36",
     "avgdeaths_last7": "109",
-    "avgtotal_last7": "745"
+    "ratedeaths_last7": "2.00",
+    "avgtotal_last7": "745",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4917",
@@ -3887,7 +4193,8 @@
     "numtoday": "609",
     "numconf": "94324",
     "numrecover": "52568",
-    "ratedeaths_last7": "1.91",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.65",
     "avgincidence_last7": "1.85",
@@ -3911,7 +4218,9 @@
     "ratetotal_last7": "12.94",
     "rateactive": "89.60",
     "avgdeaths_last7": "103",
-    "avgtotal_last7": "702"
+    "ratedeaths_last7": "1.91",
+    "avgtotal_last7": "702",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4867",
@@ -3925,7 +4234,8 @@
     "numtoday": "722",
     "numconf": "95046",
     "numrecover": "53614",
-    "ratedeaths_last7": "1.84",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.77",
     "avgincidence_last7": "1.83",
@@ -3949,7 +4259,9 @@
     "ratetotal_last7": "12.81",
     "rateactive": "88.57",
     "avgdeaths_last7": "100",
-    "avgtotal_last7": "695"
+    "ratedeaths_last7": "1.84",
+    "avgtotal_last7": "695",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4752",
@@ -3963,7 +4275,8 @@
     "numtoday": "642",
     "numconf": "95688",
     "numrecover": "54233",
-    "ratedeaths_last7": "1.33",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.68",
     "avgincidence_last7": "1.79",
@@ -3987,7 +4300,9 @@
     "ratetotal_last7": "12.50",
     "rateactive": "88.56",
     "avgdeaths_last7": "72",
-    "avgtotal_last7": "679"
+    "ratedeaths_last7": "1.33",
+    "avgtotal_last7": "679",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4539",
@@ -4001,7 +4316,8 @@
     "numtoday": "545",
     "numconf": "96233",
     "numrecover": "54833",
-    "ratedeaths_last7": "1.34",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.57",
     "avgincidence_last7": "1.71",
@@ -4025,7 +4341,9 @@
     "ratetotal_last7": "11.94",
     "rateactive": "88.32",
     "avgdeaths_last7": "73",
-    "avgtotal_last7": "648"
+    "ratedeaths_last7": "1.34",
+    "avgtotal_last7": "648",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4243",
@@ -4039,7 +4357,8 @@
     "numtoday": "409",
     "numconf": "96642",
     "numrecover": "55572",
-    "ratedeaths_last7": "1.32",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.42",
     "avgincidence_last7": "1.59",
@@ -4063,7 +4382,9 @@
     "ratetotal_last7": "11.16",
     "rateactive": "87.29",
     "avgdeaths_last7": "72",
-    "avgtotal_last7": "606"
+    "ratedeaths_last7": "1.32",
+    "avgtotal_last7": "606",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4040",
@@ -4077,7 +4398,8 @@
     "numtoday": "472",
     "numconf": "97114",
     "numrecover": "56639",
-    "ratedeaths_last7": "1.22",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.49",
     "avgincidence_last7": "1.52",
@@ -4101,7 +4423,9 @@
     "ratetotal_last7": "10.63",
     "rateactive": "85.56",
     "avgdeaths_last7": "66",
-    "avgtotal_last7": "577"
+    "ratedeaths_last7": "1.22",
+    "avgtotal_last7": "577",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3804",
@@ -4115,7 +4439,8 @@
     "numtoday": "405",
     "numconf": "97519",
     "numrecover": "57658",
-    "ratedeaths_last7": "0.94",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.42",
     "avgincidence_last7": "1.43",
@@ -4139,7 +4464,9 @@
     "ratetotal_last7": "10.01",
     "rateactive": "83.85",
     "avgdeaths_last7": "51",
-    "avgtotal_last7": "543"
+    "ratedeaths_last7": "0.94",
+    "avgtotal_last7": "543",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3608",
@@ -4153,7 +4480,8 @@
     "numtoday": "413",
     "numconf": "97932",
     "numrecover": "58523",
-    "ratedeaths_last7": "0.91",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.42",
     "avgincidence_last7": "1.36",
@@ -4177,7 +4505,9 @@
     "ratetotal_last7": "9.49",
     "rateactive": "82.52",
     "avgdeaths_last7": "49",
-    "avgtotal_last7": "515"
+    "ratedeaths_last7": "0.91",
+    "avgtotal_last7": "515",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3353",
@@ -4191,7 +4521,8 @@
     "numtoday": "467",
     "numconf": "98399",
     "numrecover": "59354",
-    "ratedeaths_last7": "0.88",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.48",
     "avgincidence_last7": "1.26",
@@ -4215,7 +4546,9 @@
     "ratetotal_last7": "8.82",
     "rateactive": "81.41",
     "avgdeaths_last7": "48",
-    "avgtotal_last7": "479"
+    "ratedeaths_last7": "0.88",
+    "avgtotal_last7": "479",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3088",
@@ -4229,7 +4562,8 @@
     "numtoday": "377",
     "numconf": "98776",
     "numrecover": "60272",
-    "ratedeaths_last7": "0.91",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.38",
     "avgincidence_last7": "1.16",
@@ -4253,7 +4587,9 @@
     "ratetotal_last7": "8.13",
     "rateactive": "79.88",
     "avgdeaths_last7": "49",
-    "avgtotal_last7": "441"
+    "ratedeaths_last7": "0.91",
+    "avgtotal_last7": "441",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2903",
@@ -4267,7 +4603,8 @@
     "numtoday": "360",
     "numconf": "99136",
     "numrecover": "61042",
-    "ratedeaths_last7": "0.91",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.36",
     "avgincidence_last7": "1.09",
@@ -4291,7 +4628,9 @@
     "ratetotal_last7": "7.64",
     "rateactive": "78.71",
     "avgdeaths_last7": "49",
-    "avgtotal_last7": "415"
+    "ratedeaths_last7": "0.91",
+    "avgtotal_last7": "415",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2814",
@@ -4305,7 +4644,8 @@
     "numtoday": "320",
     "numconf": "99456",
     "numrecover": "61443",
-    "ratedeaths_last7": "0.84",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.32",
     "avgincidence_last7": "1.06",
@@ -4329,7 +4669,9 @@
     "ratetotal_last7": "7.40",
     "rateactive": "78.40",
     "avgdeaths_last7": "46",
-    "avgtotal_last7": "402"
+    "ratedeaths_last7": "0.84",
+    "avgtotal_last7": "402",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2728",
@@ -4343,7 +4685,8 @@
     "numtoday": "386",
     "numconf": "99842",
     "numrecover": "62017",
-    "ratedeaths_last7": "0.79",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.39",
     "avgincidence_last7": "1.03",
@@ -4367,7 +4710,9 @@
     "ratetotal_last7": "7.18",
     "rateactive": "77.80",
     "avgdeaths_last7": "43",
-    "avgtotal_last7": "390"
+    "ratedeaths_last7": "0.79",
+    "avgtotal_last7": "390",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2690",
@@ -4381,7 +4726,8 @@
     "numtoday": "367",
     "numconf": "100209",
     "numrecover": "62496",
-    "ratedeaths_last7": "0.82",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.37",
     "avgincidence_last7": "1.01",
@@ -4405,7 +4751,9 @@
     "ratetotal_last7": "7.08",
     "rateactive": "77.38",
     "avgdeaths_last7": "44",
-    "avgtotal_last7": "384"
+    "ratedeaths_last7": "0.82",
+    "avgtotal_last7": "384",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2686",
@@ -4419,7 +4767,8 @@
     "numtoday": "409",
     "numconf": "100618",
     "numrecover": "63003",
-    "ratedeaths_last7": "0.79",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.41",
     "avgincidence_last7": "1.01",
@@ -4443,7 +4792,9 @@
     "ratetotal_last7": "7.07",
     "rateactive": "77.00",
     "avgdeaths_last7": "43",
-    "avgtotal_last7": "384"
+    "ratedeaths_last7": "0.79",
+    "avgtotal_last7": "384",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2609",
@@ -4457,7 +4808,8 @@
     "numtoday": "390",
     "numconf": "101008",
     "numrecover": "63488",
-    "ratedeaths_last7": "0.81",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.39",
     "avgincidence_last7": "0.98",
@@ -4481,7 +4833,9 @@
     "ratetotal_last7": "6.86",
     "rateactive": "76.58",
     "avgdeaths_last7": "44",
-    "avgtotal_last7": "373"
+    "ratedeaths_last7": "0.81",
+    "avgtotal_last7": "373",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2550",
@@ -4495,7 +4849,8 @@
     "numtoday": "318",
     "numconf": "101326",
     "numrecover": "63886",
-    "ratedeaths_last7": "0.76",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "0.96",
@@ -4519,7 +4874,9 @@
     "ratetotal_last7": "6.71",
     "rateactive": "76.32",
     "avgdeaths_last7": "41",
-    "avgtotal_last7": "364"
+    "ratedeaths_last7": "0.76",
+    "avgtotal_last7": "364",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2490",
@@ -4533,7 +4890,8 @@
     "numtoday": "300",
     "numconf": "101626",
     "numrecover": "64334",
-    "ratedeaths_last7": "0.69",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.30",
     "avgincidence_last7": "0.94",
@@ -4557,7 +4915,9 @@
     "ratetotal_last7": "6.55",
     "rateactive": "75.92",
     "avgdeaths_last7": "37",
-    "avgtotal_last7": "356"
+    "ratedeaths_last7": "0.69",
+    "avgtotal_last7": "356",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2496",
@@ -4571,7 +4931,8 @@
     "numtoday": "326",
     "numconf": "101952",
     "numrecover": "64704",
-    "ratedeaths_last7": "0.63",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.32",
     "avgincidence_last7": "0.94",
@@ -4595,7 +4956,9 @@
     "ratetotal_last7": "6.57",
     "rateactive": "75.75",
     "avgdeaths_last7": "34",
-    "avgtotal_last7": "357"
+    "ratedeaths_last7": "0.63",
+    "avgtotal_last7": "357",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2389",
@@ -4609,7 +4972,8 @@
     "numtoday": "279",
     "numconf": "102231",
     "numrecover": "65091",
-    "ratedeaths_last7": "0.61",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.27",
     "avgincidence_last7": "0.90",
@@ -4633,7 +4997,9 @@
     "ratetotal_last7": "6.29",
     "rateactive": "75.39",
     "avgdeaths_last7": "33",
-    "avgtotal_last7": "341"
+    "ratedeaths_last7": "0.61",
+    "avgtotal_last7": "341",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2402",
@@ -4647,7 +5013,8 @@
     "numtoday": "380",
     "numconf": "102611",
     "numrecover": "65425",
-    "ratedeaths_last7": "0.54",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.37",
     "avgincidence_last7": "0.90",
@@ -4671,7 +5038,9 @@
     "ratetotal_last7": "6.32",
     "rateactive": "75.46",
     "avgdeaths_last7": "29",
-    "avgtotal_last7": "343"
+    "ratedeaths_last7": "0.54",
+    "avgtotal_last7": "343",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2165",
@@ -4685,7 +5054,8 @@
     "numtoday": "172",
     "numconf": "102783",
     "numrecover": "65726",
-    "ratedeaths_last7": "0.43",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.17",
     "avgincidence_last7": "0.81",
@@ -4709,7 +5079,9 @@
     "ratetotal_last7": "5.70",
     "rateactive": "75.11",
     "avgdeaths_last7": "23",
-    "avgtotal_last7": "309"
+    "ratedeaths_last7": "0.43",
+    "avgtotal_last7": "309",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2013",
@@ -4723,7 +5095,8 @@
     "numtoday": "238",
     "numconf": "103021",
     "numrecover": "65973",
-    "ratedeaths_last7": "0.28",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.23",
     "avgincidence_last7": "0.76",
@@ -4747,7 +5120,9 @@
     "ratetotal_last7": "5.30",
     "rateactive": "75.06",
     "avgdeaths_last7": "15",
-    "avgtotal_last7": "288"
+    "ratedeaths_last7": "0.28",
+    "avgtotal_last7": "288",
+    "numtests": ""
   },
   {
     "numtotal_last7": "1913",
@@ -4761,7 +5136,8 @@
     "numtoday": "218",
     "numconf": "103239",
     "numrecover": "66191",
-    "ratedeaths_last7": "0.24",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.21",
     "avgincidence_last7": "0.72",
@@ -4785,7 +5161,9 @@
     "ratetotal_last7": "5.03",
     "rateactive": "75.05",
     "avgdeaths_last7": "13",
-    "avgtotal_last7": "273"
+    "ratedeaths_last7": "0.24",
+    "avgtotal_last7": "273",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2281",
@@ -4799,7 +5177,8 @@
     "numtoday": "668",
     "numconf": "103907",
     "numrecover": "67178",
-    "ratedeaths_last7": "0.34",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.65",
     "avgincidence_last7": "0.86",
@@ -4823,7 +5202,9 @@
     "ratetotal_last7": "6.00",
     "rateactive": "74.09",
     "avgdeaths_last7": "19",
-    "avgtotal_last7": "326"
+    "ratedeaths_last7": "0.34",
+    "avgtotal_last7": "326",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2241",
@@ -4837,7 +5218,8 @@
     "numtoday": "286",
     "numconf": "104193",
     "numrecover": "67594",
-    "ratedeaths_last7": "0.36",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.28",
     "avgincidence_last7": "0.84",
@@ -4861,7 +5243,9 @@
     "ratetotal_last7": "5.90",
     "rateactive": "73.68",
     "avgdeaths_last7": "20",
-    "avgtotal_last7": "320"
+    "ratedeaths_last7": "0.36",
+    "avgtotal_last7": "320",
+    "numtests": ""
   },
   {
     "numtotal_last7": "1962",
@@ -4875,7 +5259,8 @@
     "numtoday": "0",
     "numconf": "104193",
     "numrecover": "67594",
-    "ratedeaths_last7": "0.28",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.00",
     "avgincidence_last7": "0.74",
@@ -4899,7 +5284,9 @@
     "ratetotal_last7": "5.16",
     "rateactive": "73.68",
     "avgdeaths_last7": "15",
-    "avgtotal_last7": "280"
+    "ratedeaths_last7": "0.28",
+    "avgtotal_last7": "280",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2149",
@@ -4913,7 +5300,8 @@
     "numtoday": "567",
     "numconf": "104760",
     "numrecover": "68345",
-    "ratedeaths_last7": "0.36",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.54",
     "avgincidence_last7": "0.81",
@@ -4937,7 +5325,9 @@
     "ratetotal_last7": "5.65",
     "rateactive": "73.07",
     "avgdeaths_last7": "20",
-    "avgtotal_last7": "307"
+    "ratedeaths_last7": "0.36",
+    "avgtotal_last7": "307",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2296",
@@ -4951,7 +5341,8 @@
     "numtoday": "319",
     "numconf": "105079",
     "numrecover": "68693",
-    "ratedeaths_last7": "0.41",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.30",
     "avgincidence_last7": "0.86",
@@ -4975,7 +5366,9 @@
     "ratetotal_last7": "6.04",
     "rateactive": "72.93",
     "avgdeaths_last7": "22",
-    "avgtotal_last7": "328"
+    "ratedeaths_last7": "0.41",
+    "avgtotal_last7": "328",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2284",
@@ -4989,7 +5382,8 @@
     "numtoday": "226",
     "numconf": "105305",
     "numrecover": "68990",
-    "ratedeaths_last7": "0.42",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.22",
     "avgincidence_last7": "0.86",
@@ -5013,7 +5407,9 @@
     "ratetotal_last7": "6.01",
     "rateactive": "72.72",
     "avgdeaths_last7": "23",
-    "avgtotal_last7": "326"
+    "ratedeaths_last7": "0.42",
+    "avgtotal_last7": "326",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2285",
@@ -5027,7 +5423,8 @@
     "numtoday": "219",
     "numconf": "105524",
     "numrecover": "69239",
-    "ratedeaths_last7": "0.43",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.21",
     "avgincidence_last7": "0.86",
@@ -5051,7 +5448,9 @@
     "ratetotal_last7": "6.01",
     "rateactive": "72.61",
     "avgdeaths_last7": "23",
-    "avgtotal_last7": "326"
+    "ratedeaths_last7": "0.43",
+    "avgtotal_last7": "326",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2016",
@@ -5065,7 +5464,8 @@
     "numtoday": "399",
     "numconf": "105923",
     "numrecover": "69570",
-    "ratedeaths_last7": "0.33",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.38",
     "avgincidence_last7": "0.76",
@@ -5089,7 +5489,9 @@
     "ratetotal_last7": "5.30",
     "rateactive": "72.77",
     "avgdeaths_last7": "18",
-    "avgtotal_last7": "288"
+    "ratedeaths_last7": "0.33",
+    "avgtotal_last7": "288",
+    "numtests": ""
   },
   {
     "numtotal_last7": "1962",
@@ -5103,7 +5505,8 @@
     "numtoday": "232",
     "numconf": "106155",
     "numrecover": "69883",
-    "ratedeaths_last7": "0.32",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.22",
     "avgincidence_last7": "0.74",
@@ -5127,7 +5530,9 @@
     "ratetotal_last7": "5.16",
     "rateactive": "72.51",
     "avgdeaths_last7": "17",
-    "avgtotal_last7": "280"
+    "ratedeaths_last7": "0.32",
+    "avgtotal_last7": "280",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2229",
@@ -5141,7 +5546,8 @@
     "numtoday": "267",
     "numconf": "106422",
     "numrecover": "70247",
-    "ratedeaths_last7": "0.38",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.25",
     "avgincidence_last7": "0.84",
@@ -5165,7 +5571,9 @@
     "ratetotal_last7": "5.86",
     "rateactive": "72.18",
     "avgdeaths_last7": "21",
-    "avgtotal_last7": "318"
+    "ratedeaths_last7": "0.38",
+    "avgtotal_last7": "318",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2033",
@@ -5179,7 +5587,8 @@
     "numtoday": "371",
     "numconf": "106793",
     "numrecover": "70574",
-    "ratedeaths_last7": "0.28",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.35",
     "avgincidence_last7": "0.76",
@@ -5203,7 +5612,9 @@
     "ratetotal_last7": "5.35",
     "rateactive": "72.27",
     "avgdeaths_last7": "15",
-    "avgtotal_last7": "290"
+    "ratedeaths_last7": "0.28",
+    "avgtotal_last7": "290",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2035",
@@ -5217,7 +5628,8 @@
     "numtoday": "321",
     "numconf": "107114",
     "numrecover": "70901",
-    "ratedeaths_last7": "0.25",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.30",
     "avgincidence_last7": "0.76",
@@ -5241,7 +5653,9 @@
     "ratetotal_last7": "5.35",
     "rateactive": "72.23",
     "avgdeaths_last7": "14",
-    "avgtotal_last7": "291"
+    "ratedeaths_last7": "0.25",
+    "avgtotal_last7": "291",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2030",
@@ -5255,7 +5669,8 @@
     "numtoday": "221",
     "numconf": "107335",
     "numrecover": "71266",
-    "ratedeaths_last7": "0.26",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.21",
     "avgincidence_last7": "0.76",
@@ -5279,7 +5694,9 @@
     "ratetotal_last7": "5.34",
     "rateactive": "71.81",
     "avgdeaths_last7": "14",
-    "avgtotal_last7": "290"
+    "ratedeaths_last7": "0.26",
+    "avgtotal_last7": "290",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2055",
@@ -5293,7 +5710,8 @@
     "numtoday": "244",
     "numconf": "107579",
     "numrecover": "71467",
-    "ratedeaths_last7": "0.26",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.23",
     "avgincidence_last7": "0.77",
@@ -5317,7 +5735,9 @@
     "ratetotal_last7": "5.41",
     "rateactive": "71.90",
     "avgdeaths_last7": "14",
-    "avgtotal_last7": "294"
+    "ratedeaths_last7": "0.26",
+    "avgtotal_last7": "294",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2221",
@@ -5331,7 +5751,8 @@
     "numtoday": "565",
     "numconf": "108144",
     "numrecover": "71841",
-    "ratedeaths_last7": "0.26",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.53",
     "avgincidence_last7": "0.83",
@@ -5355,7 +5776,9 @@
     "ratetotal_last7": "5.84",
     "rateactive": "72.38",
     "avgdeaths_last7": "14",
-    "avgtotal_last7": "317"
+    "ratedeaths_last7": "0.26",
+    "avgtotal_last7": "317",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2320",
@@ -5369,7 +5792,8 @@
     "numtoday": "331",
     "numconf": "108475",
     "numrecover": "72170",
-    "ratedeaths_last7": "0.23",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "0.87",
@@ -5393,7 +5817,9 @@
     "ratetotal_last7": "6.10",
     "rateactive": "72.37",
     "avgdeaths_last7": "12",
-    "avgtotal_last7": "331"
+    "ratedeaths_last7": "0.23",
+    "avgtotal_last7": "331",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2394",
@@ -5407,7 +5833,8 @@
     "numtoday": "341",
     "numconf": "108816",
     "numrecover": "72485",
-    "ratedeaths_last7": "0.21",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "0.90",
@@ -5431,7 +5858,9 @@
     "ratetotal_last7": "6.30",
     "rateactive": "72.39",
     "avgdeaths_last7": "11",
-    "avgtotal_last7": "342"
+    "ratedeaths_last7": "0.21",
+    "avgtotal_last7": "342",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2460",
@@ -5445,7 +5874,8 @@
     "numtoday": "437",
     "numconf": "109253",
     "numrecover": "72836",
-    "ratedeaths_last7": "0.22",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.40",
     "avgincidence_last7": "0.92",
@@ -5469,7 +5899,9 @@
     "ratetotal_last7": "6.47",
     "rateactive": "72.57",
     "avgdeaths_last7": "12",
-    "avgtotal_last7": "351"
+    "ratedeaths_last7": "0.22",
+    "avgtotal_last7": "351",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2544",
@@ -5483,7 +5915,8 @@
     "numtoday": "405",
     "numconf": "109658",
     "numrecover": "96689",
-    "ratedeaths_last7": "0.22",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.37",
     "avgincidence_last7": "0.96",
@@ -5507,7 +5940,9 @@
     "ratetotal_last7": "6.69",
     "rateactive": "10.84",
     "avgdeaths_last7": "12",
-    "avgtotal_last7": "363"
+    "ratedeaths_last7": "0.22",
+    "avgtotal_last7": "363",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2653",
@@ -5521,7 +5956,8 @@
     "numtoday": "330",
     "numconf": "109988",
     "numrecover": "96914",
-    "ratedeaths_last7": "0.21",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.30",
     "avgincidence_last7": "1.00",
@@ -5545,7 +5981,9 @@
     "ratetotal_last7": "6.98",
     "rateactive": "11.10",
     "avgdeaths_last7": "11",
-    "avgtotal_last7": "379"
+    "ratedeaths_last7": "0.21",
+    "avgtotal_last7": "379",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2748",
@@ -5559,7 +5997,8 @@
     "numtoday": "339",
     "numconf": "110327",
     "numrecover": "97051",
-    "ratedeaths_last7": "0.19",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "1.03",
@@ -5583,7 +6022,9 @@
     "ratetotal_last7": "7.23",
     "rateactive": "11.62",
     "avgdeaths_last7": "11",
-    "avgtotal_last7": "393"
+    "ratedeaths_last7": "0.19",
+    "avgtotal_last7": "393",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2969",
@@ -5597,7 +6038,8 @@
     "numtoday": "786",
     "numconf": "111113",
     "numrecover": "97474",
-    "ratedeaths_last7": "0.19",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.71",
     "avgincidence_last7": "1.12",
@@ -5621,7 +6063,9 @@
     "ratetotal_last7": "7.81",
     "rateactive": "12.56",
     "avgdeaths_last7": "10",
-    "avgtotal_last7": "424"
+    "ratedeaths_last7": "0.19",
+    "avgtotal_last7": "424",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3211",
@@ -5635,7 +6079,8 @@
     "numtoday": "573",
     "numconf": "111684",
     "numrecover": "97757",
-    "ratedeaths_last7": "0.18",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.52",
     "avgincidence_last7": "1.21",
@@ -5659,7 +6104,9 @@
     "ratetotal_last7": "8.45",
     "rateactive": "13.31",
     "avgdeaths_last7": "10",
-    "avgtotal_last7": "459"
+    "ratedeaths_last7": "0.18",
+    "avgtotal_last7": "459",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3413",
@@ -5673,7 +6120,8 @@
     "numtoday": "543",
     "numconf": "112227",
     "numrecover": "98142",
-    "ratedeaths_last7": "0.16",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.49",
     "avgincidence_last7": "1.28",
@@ -5697,7 +6145,9 @@
     "ratetotal_last7": "8.98",
     "rateactive": "13.70",
     "avgdeaths_last7": "9",
-    "avgtotal_last7": "488"
+    "ratedeaths_last7": "0.16",
+    "avgtotal_last7": "488",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3408",
@@ -5711,7 +6161,8 @@
     "numtoday": "432",
     "numconf": "112659",
     "numrecover": "98519",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.38",
     "avgincidence_last7": "1.28",
@@ -5735,7 +6186,9 @@
     "ratetotal_last7": "8.97",
     "rateactive": "13.84",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "487"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "487",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3537",
@@ -5749,7 +6202,8 @@
     "numtoday": "534",
     "numconf": "113193",
     "numrecover": "98873",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.47",
     "avgincidence_last7": "1.33",
@@ -5773,7 +6227,9 @@
     "ratetotal_last7": "9.31",
     "rateactive": "14.29",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "505"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "505",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3557",
@@ -5787,7 +6243,8 @@
     "numtoday": "350",
     "numconf": "113543",
     "numrecover": "99115",
-    "ratedeaths_last7": "0.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "1.34",
@@ -5811,7 +6268,9 @@
     "ratetotal_last7": "9.36",
     "rateactive": "14.57",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "508"
+    "ratedeaths_last7": "0.10",
+    "avgtotal_last7": "508",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3573",
@@ -5825,7 +6284,8 @@
     "numtoday": "355",
     "numconf": "113898",
     "numrecover": "99355",
-    "ratedeaths_last7": "0.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "1.34",
@@ -5849,7 +6309,9 @@
     "ratetotal_last7": "9.40",
     "rateactive": "14.86",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "510"
+    "ratedeaths_last7": "0.10",
+    "avgtotal_last7": "510",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3473",
@@ -5863,7 +6325,8 @@
     "numtoday": "686",
     "numconf": "114584",
     "numrecover": "99860",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.60",
     "avgincidence_last7": "1.31",
@@ -5887,7 +6350,9 @@
     "ratetotal_last7": "9.14",
     "rateactive": "15.30",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "496"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "496",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3297",
@@ -5901,7 +6366,8 @@
     "numtoday": "397",
     "numconf": "114980",
     "numrecover": "100134",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.35",
     "avgincidence_last7": "1.24",
@@ -5925,7 +6391,9 @@
     "ratetotal_last7": "8.68",
     "rateactive": "15.60",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "471"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "471",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3166",
@@ -5939,7 +6407,8 @@
     "numtoday": "412",
     "numconf": "115392",
     "numrecover": "100465",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.36",
     "avgincidence_last7": "1.19",
@@ -5963,7 +6432,9 @@
     "ratetotal_last7": "8.33",
     "rateactive": "15.79",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "452"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "452",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3127",
@@ -5977,7 +6448,8 @@
     "numtoday": "393",
     "numconf": "115785",
     "numrecover": "100862",
-    "ratedeaths_last7": "0.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.34",
     "avgincidence_last7": "1.18",
@@ -6001,7 +6473,9 @@
     "ratetotal_last7": "8.23",
     "rateactive": "15.76",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "447"
+    "ratedeaths_last7": "0.14",
+    "avgtotal_last7": "447",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3106",
@@ -6015,7 +6489,8 @@
     "numtoday": "513",
     "numconf": "116298",
     "numrecover": "101227",
-    "ratedeaths_last7": "0.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.44",
     "avgincidence_last7": "1.17",
@@ -6039,7 +6514,9 @@
     "ratetotal_last7": "8.17",
     "rateactive": "16.13",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "444"
+    "ratedeaths_last7": "0.14",
+    "avgtotal_last7": "444",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3043",
@@ -6053,7 +6530,8 @@
     "numtoday": "287",
     "numconf": "116585",
     "numrecover": "101436",
-    "ratedeaths_last7": "0.15",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.25",
     "avgincidence_last7": "1.14",
@@ -6077,7 +6555,9 @@
     "ratetotal_last7": "8.01",
     "rateactive": "16.32",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "435"
+    "ratedeaths_last7": "0.15",
+    "avgtotal_last7": "435",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2973",
@@ -6091,7 +6571,8 @@
     "numtoday": "285",
     "numconf": "116870",
     "numrecover": "101574",
-    "ratedeaths_last7": "0.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.24",
     "avgincidence_last7": "1.12",
@@ -6115,7 +6596,9 @@
     "ratetotal_last7": "7.82",
     "rateactive": "16.70",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "425"
+    "ratedeaths_last7": "0.14",
+    "avgtotal_last7": "425",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2434",
@@ -6129,7 +6612,8 @@
     "numtoday": "147",
     "numconf": "117017",
     "numrecover": "101597",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.13",
     "avgincidence_last7": "0.91",
@@ -6153,7 +6637,9 @@
     "ratetotal_last7": "6.40",
     "rateactive": "17.02",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "348"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "348",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2798",
@@ -6167,7 +6653,8 @@
     "numtoday": "761",
     "numconf": "117777",
     "numrecover": "102450",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.65",
     "avgincidence_last7": "1.05",
@@ -6191,7 +6678,9 @@
     "ratetotal_last7": "7.36",
     "rateactive": "16.75",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "400"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "400",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2781",
@@ -6205,7 +6694,8 @@
     "numtoday": "395",
     "numconf": "118172",
     "numrecover": "102788",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.34",
     "avgincidence_last7": "1.05",
@@ -6229,7 +6719,9 @@
     "ratetotal_last7": "7.32",
     "rateactive": "16.88",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "397"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "397",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2762",
@@ -6243,7 +6735,8 @@
     "numtoday": "374",
     "numconf": "118546",
     "numrecover": "103106",
-    "ratedeaths_last7": "0.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.32",
     "avgincidence_last7": "1.04",
@@ -6267,7 +6760,9 @@
     "ratetotal_last7": "7.27",
     "rateactive": "17.02",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "395"
+    "ratedeaths_last7": "0.10",
+    "avgtotal_last7": "395",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2673",
@@ -6281,7 +6776,8 @@
     "numtoday": "424",
     "numconf": "118970",
     "numrecover": "103435",
-    "ratedeaths_last7": "0.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.36",
     "avgincidence_last7": "1.00",
@@ -6305,7 +6801,9 @@
     "ratetotal_last7": "7.03",
     "rateactive": "17.26",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "382"
+    "ratedeaths_last7": "0.09",
+    "avgtotal_last7": "382",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2622",
@@ -6319,7 +6817,8 @@
     "numtoday": "236",
     "numconf": "119206",
     "numrecover": "103566",
-    "ratedeaths_last7": "0.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.20",
     "avgincidence_last7": "0.99",
@@ -6343,7 +6842,9 @@
     "ratetotal_last7": "6.90",
     "rateactive": "17.52",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "375"
+    "ratedeaths_last7": "0.09",
+    "avgtotal_last7": "375",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2567",
@@ -6357,7 +6858,8 @@
     "numtoday": "230",
     "numconf": "119436",
     "numrecover": "103728",
-    "ratedeaths_last7": "0.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.19",
     "avgincidence_last7": "0.96",
@@ -6381,7 +6883,9 @@
     "ratetotal_last7": "6.75",
     "rateactive": "17.69",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "367"
+    "ratedeaths_last7": "0.09",
+    "avgtotal_last7": "367",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3101",
@@ -6395,7 +6899,8 @@
     "numtoday": "681",
     "numconf": "120117",
     "numrecover": "106355",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.57",
     "avgincidence_last7": "1.17",
@@ -6419,7 +6924,9 @@
     "ratetotal_last7": "8.16",
     "rateactive": "12.55",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "443"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "443",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2629",
@@ -6433,7 +6940,8 @@
     "numtoday": "289",
     "numconf": "120406",
     "numrecover": "106746",
-    "ratedeaths_last7": "0.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.24",
     "avgincidence_last7": "0.99",
@@ -6457,7 +6965,9 @@
     "ratetotal_last7": "6.92",
     "rateactive": "12.27",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "376"
+    "ratedeaths_last7": "0.09",
+    "avgtotal_last7": "376",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2657",
@@ -6471,7 +6981,8 @@
     "numtoday": "423",
     "numconf": "120829",
     "numrecover": "107148",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.35",
     "avgincidence_last7": "1.00",
@@ -6495,7 +7006,9 @@
     "ratetotal_last7": "6.99",
     "rateactive": "12.29",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "380"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "380",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2673",
@@ -6509,7 +7022,8 @@
     "numtoday": "390",
     "numconf": "121234",
     "numrecover": "107553",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.32",
     "avgincidence_last7": "1.00",
@@ -6533,7 +7047,9 @@
     "ratetotal_last7": "7.03",
     "rateactive": "12.22",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "382"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "382",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2667",
@@ -6547,7 +7063,8 @@
     "numtoday": "418",
     "numconf": "121652",
     "numrecover": "107942",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.34",
     "avgincidence_last7": "1.00",
@@ -6571,7 +7088,9 @@
     "ratetotal_last7": "7.02",
     "rateactive": "12.29",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "381"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "381",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2668",
@@ -6585,7 +7104,8 @@
     "numtoday": "237",
     "numconf": "121889",
     "numrecover": "108217",
-    "ratedeaths_last7": "0.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.19",
     "avgincidence_last7": "1.00",
@@ -6609,7 +7129,9 @@
     "ratetotal_last7": "7.02",
     "rateactive": "12.16",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "381"
+    "ratedeaths_last7": "0.14",
+    "avgtotal_last7": "381",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2636",
@@ -6623,7 +7145,8 @@
     "numtoday": "198",
     "numconf": "122087",
     "numrecover": "108484",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.16",
     "avgincidence_last7": "0.99",
@@ -6647,7 +7170,9 @@
     "ratetotal_last7": "6.94",
     "rateactive": "11.98",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "377"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "377",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2740",
@@ -6661,7 +7186,8 @@
     "numtoday": "785",
     "numconf": "122872",
     "numrecover": "109059",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.64",
     "avgincidence_last7": "1.03",
@@ -6685,7 +7211,9 @@
     "ratetotal_last7": "7.21",
     "rateactive": "12.51",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "391"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "391",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2733",
@@ -6699,7 +7227,8 @@
     "numtoday": "282",
     "numconf": "123154",
     "numrecover": "109357",
-    "ratedeaths_last7": "0.15",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.23",
     "avgincidence_last7": "1.03",
@@ -6723,7 +7252,9 @@
     "ratetotal_last7": "7.19",
     "rateactive": "12.44",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "390"
+    "ratedeaths_last7": "0.15",
+    "avgtotal_last7": "390",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2646",
@@ -6737,7 +7268,8 @@
     "numtoday": "336",
     "numconf": "123490",
     "numrecover": "109822",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.27",
     "avgincidence_last7": "0.99",
@@ -6761,7 +7293,9 @@
     "ratetotal_last7": "6.96",
     "rateactive": "12.09",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "378"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "378",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2639",
@@ -6775,7 +7309,8 @@
     "numtoday": "383",
     "numconf": "123873",
     "numrecover": "110288",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.31",
     "avgincidence_last7": "0.99",
@@ -6799,7 +7334,9 @@
     "ratetotal_last7": "6.94",
     "rateactive": "11.86",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "377"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "377",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2720",
@@ -6813,7 +7350,8 @@
     "numtoday": "499",
     "numconf": "124372",
     "numrecover": "110648",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.40",
     "avgincidence_last7": "1.02",
@@ -6837,7 +7375,9 @@
     "ratetotal_last7": "7.16",
     "rateactive": "12.20",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "389"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "389",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2740",
@@ -6851,7 +7391,8 @@
     "numtoday": "257",
     "numconf": "124629",
     "numrecover": "110878",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.21",
     "avgincidence_last7": "1.03",
@@ -6875,7 +7416,9 @@
     "ratetotal_last7": "7.21",
     "rateactive": "12.25",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "391"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "391",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2809",
@@ -6889,7 +7432,8 @@
     "numtoday": "267",
     "numconf": "124896",
     "numrecover": "111112",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.21",
     "avgincidence_last7": "1.06",
@@ -6913,7 +7457,9 @@
     "ratetotal_last7": "7.39",
     "rateactive": "12.33",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "401"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "401",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2775",
@@ -6927,7 +7473,8 @@
     "numtoday": "751",
     "numconf": "125647",
     "numrecover": "111694",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.60",
     "avgincidence_last7": "1.04",
@@ -6951,7 +7498,9 @@
     "ratetotal_last7": "7.30",
     "rateactive": "12.75",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "396"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "396",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2815",
@@ -6965,7 +7514,8 @@
     "numtoday": "322",
     "numconf": "125969",
     "numrecover": "112050",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.26",
     "avgincidence_last7": "1.06",
@@ -6989,7 +7539,9 @@
     "ratetotal_last7": "7.41",
     "rateactive": "12.64",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "402"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "402",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2927",
@@ -7003,7 +7555,8 @@
     "numtoday": "448",
     "numconf": "126417",
     "numrecover": "112455",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.36",
     "avgincidence_last7": "1.10",
@@ -7027,7 +7580,9 @@
     "ratetotal_last7": "7.70",
     "rateactive": "12.74",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "418"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "418",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2945",
@@ -7041,7 +7596,8 @@
     "numtoday": "401",
     "numconf": "126848",
     "numrecover": "112825",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.32",
     "avgincidence_last7": "1.11",
@@ -7065,7 +7621,9 @@
     "ratetotal_last7": "7.75",
     "rateactive": "12.80",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "421"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "421",
+    "numtests": ""
   },
   {
     "numtotal_last7": "2938",
@@ -7079,7 +7637,8 @@
     "numtoday": "492",
     "numconf": "127310",
     "numrecover": "113234",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.39",
     "avgincidence_last7": "1.10",
@@ -7103,7 +7662,9 @@
     "ratetotal_last7": "7.73",
     "rateactive": "12.99",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "420"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "420",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3044",
@@ -7117,7 +7678,8 @@
     "numtoday": "363",
     "numconf": "127673",
     "numrecover": "113501",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.29",
     "avgincidence_last7": "1.14",
@@ -7141,7 +7703,9 @@
     "ratetotal_last7": "8.01",
     "rateactive": "13.25",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "435"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "435",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3044",
@@ -7155,7 +7719,8 @@
     "numtoday": "267",
     "numconf": "127940",
     "numrecover": "113664",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.21",
     "avgincidence_last7": "1.14",
@@ -7179,7 +7744,9 @@
     "ratetotal_last7": "8.01",
     "rateactive": "13.51",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "435"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "435",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3301",
@@ -7193,7 +7760,8 @@
     "numtoday": "1008",
     "numconf": "128948",
     "numrecover": "114218",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.79",
     "avgincidence_last7": "1.24",
@@ -7217,7 +7785,9 @@
     "ratetotal_last7": "8.69",
     "rateactive": "14.68",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "472"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "472",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3456",
@@ -7231,7 +7801,8 @@
     "numtoday": "477",
     "numconf": "129425",
     "numrecover": "114607",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.37",
     "avgincidence_last7": "1.30",
@@ -7255,7 +7826,9 @@
     "ratetotal_last7": "9.09",
     "rateactive": "14.90",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "494"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "494",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3506",
@@ -7269,7 +7842,8 @@
     "numtoday": "498",
     "numconf": "129923",
     "numrecover": "115050",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.38",
     "avgincidence_last7": "1.32",
@@ -7293,7 +7867,9 @@
     "ratetotal_last7": "9.23",
     "rateactive": "15.03",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "501"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "501",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3675",
@@ -7307,7 +7883,8 @@
     "numtoday": "570",
     "numconf": "130493",
     "numrecover": "115444",
-    "ratedeaths_last7": "0.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.44",
     "avgincidence_last7": "1.38",
@@ -7331,7 +7908,9 @@
     "ratetotal_last7": "9.67",
     "rateactive": "15.48",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "525"
+    "ratedeaths_last7": "0.10",
+    "avgtotal_last7": "525",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3814",
@@ -7345,7 +7924,8 @@
     "numtoday": "631",
     "numconf": "131124",
     "numrecover": "115926",
-    "ratedeaths_last7": "0.07",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.48",
     "avgincidence_last7": "1.43",
@@ -7369,7 +7949,9 @@
     "ratetotal_last7": "10.04",
     "rateactive": "15.87",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "545"
+    "ratedeaths_last7": "0.07",
+    "avgtotal_last7": "545",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3822",
@@ -7383,7 +7965,8 @@
     "numtoday": "371",
     "numconf": "131495",
     "numrecover": "116136",
-    "ratedeaths_last7": "0.08",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.28",
     "avgincidence_last7": "1.44",
@@ -7407,7 +7990,9 @@
     "ratetotal_last7": "10.06",
     "rateactive": "16.29",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "546"
+    "ratedeaths_last7": "0.08",
+    "avgtotal_last7": "546",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3955",
@@ -7421,7 +8006,8 @@
     "numtoday": "400",
     "numconf": "131895",
     "numrecover": "116357",
-    "ratedeaths_last7": "0.07",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.30",
     "avgincidence_last7": "1.49",
@@ -7445,7 +8031,9 @@
     "ratetotal_last7": "10.41",
     "rateactive": "16.76",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "565"
+    "ratedeaths_last7": "0.07",
+    "avgtotal_last7": "565",
+    "numtests": ""
   },
   {
     "numtotal_last7": "3194",
@@ -7459,7 +8047,8 @@
     "numtoday": "247",
     "numconf": "132142",
     "numrecover": "116459",
-    "ratedeaths_last7": "0.05",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.19",
     "avgincidence_last7": "1.20",
@@ -7483,7 +8072,9 @@
     "ratetotal_last7": "8.40",
     "rateactive": "17.13",
     "avgdeaths_last7": "3",
-    "avgtotal_last7": "456"
+    "ratedeaths_last7": "0.05",
+    "avgtotal_last7": "456",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4323",
@@ -7497,7 +8088,8 @@
     "numtoday": "1606",
     "numconf": "133748",
     "numrecover": "117565",
-    "ratedeaths_last7": "0.06",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.22",
     "avgincidence_last7": "1.62",
@@ -7521,7 +8113,9 @@
     "ratetotal_last7": "11.37",
     "rateactive": "18.43",
     "avgdeaths_last7": "3",
-    "avgtotal_last7": "618"
+    "ratedeaths_last7": "0.06",
+    "avgtotal_last7": "618",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4371",
@@ -7535,7 +8129,8 @@
     "numtoday": "546",
     "numconf": "134294",
     "numrecover": "118271",
-    "ratedeaths_last7": "0.05",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.41",
     "avgincidence_last7": "1.64",
@@ -7559,7 +8154,9 @@
     "ratetotal_last7": "11.50",
     "rateactive": "18.01",
     "avgdeaths_last7": "3",
-    "avgtotal_last7": "624"
+    "ratedeaths_last7": "0.05",
+    "avgtotal_last7": "624",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4431",
@@ -7573,7 +8170,8 @@
     "numtoday": "630",
     "numconf": "134924",
     "numrecover": "118990",
-    "ratedeaths_last7": "0.06",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.47",
     "avgincidence_last7": "1.67",
@@ -7597,7 +8195,9 @@
     "ratetotal_last7": "11.66",
     "rateactive": "17.75",
     "avgdeaths_last7": "3",
-    "avgtotal_last7": "633"
+    "ratedeaths_last7": "0.06",
+    "avgtotal_last7": "633",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4502",
@@ -7611,7 +8211,8 @@
     "numtoday": "702",
     "numconf": "135626",
     "numrecover": "119674",
-    "ratedeaths_last7": "0.06",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.52",
     "avgincidence_last7": "1.69",
@@ -7635,7 +8236,9 @@
     "ratetotal_last7": "11.85",
     "rateactive": "17.80",
     "avgdeaths_last7": "3",
-    "avgtotal_last7": "643"
+    "ratedeaths_last7": "0.06",
+    "avgtotal_last7": "643",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4646",
@@ -7649,7 +8252,8 @@
     "numtoday": "515",
     "numconf": "136141",
     "numrecover": "120075",
-    "ratedeaths_last7": "0.07",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.38",
     "avgincidence_last7": "1.75",
@@ -7673,7 +8277,9 @@
     "ratetotal_last7": "12.22",
     "rateactive": "18.08",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "664"
+    "ratedeaths_last7": "0.07",
+    "avgtotal_last7": "664",
+    "numtests": ""
   },
   {
     "numtotal_last7": "4764",
@@ -7687,7 +8293,8 @@
     "numtoday": "518",
     "numconf": "136659",
     "numrecover": "120431",
-    "ratedeaths_last7": "0.07",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.38",
     "avgincidence_last7": "1.79",
@@ -7711,7 +8318,9 @@
     "ratetotal_last7": "12.54",
     "rateactive": "18.50",
     "avgdeaths_last7": "4",
-    "avgtotal_last7": "681"
+    "ratedeaths_last7": "0.07",
+    "avgtotal_last7": "681",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5868",
@@ -7725,7 +8334,8 @@
     "numtoday": "1351",
     "numconf": "138010",
     "numrecover": "121224",
-    "ratedeaths_last7": "0.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.99",
     "avgincidence_last7": "2.21",
@@ -7749,7 +8359,9 @@
     "ratetotal_last7": "15.44",
     "rateactive": "19.95",
     "avgdeaths_last7": "5",
-    "avgtotal_last7": "838"
+    "ratedeaths_last7": "0.09",
+    "avgtotal_last7": "838",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5055",
@@ -7763,7 +8375,8 @@
     "numtoday": "793",
     "numconf": "138803",
     "numrecover": "121840",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.57",
     "avgincidence_last7": "1.90",
@@ -7787,7 +8400,9 @@
     "ratetotal_last7": "13.30",
     "rateactive": "20.38",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "722"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "722",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5453",
@@ -7801,7 +8416,8 @@
     "numtoday": "944",
     "numconf": "139747",
     "numrecover": "122449",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.68",
     "avgincidence_last7": "2.05",
@@ -7825,7 +8441,9 @@
     "ratetotal_last7": "14.35",
     "rateactive": "21.25",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "779"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "779",
+    "numtests": ""
   },
   {
     "numtotal_last7": "5943",
@@ -7839,7 +8457,8 @@
     "numtoday": "1120",
     "numconf": "140867",
     "numrecover": "123109",
-    "ratedeaths_last7": "0.11",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.80",
     "avgincidence_last7": "2.23",
@@ -7863,7 +8482,9 @@
     "ratetotal_last7": "15.64",
     "rateactive": "22.44",
     "avgdeaths_last7": "6",
-    "avgtotal_last7": "849"
+    "ratedeaths_last7": "0.11",
+    "avgtotal_last7": "849",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6285",
@@ -7877,7 +8498,8 @@
     "numtoday": "1044",
     "numconf": "141911",
     "numrecover": "123723",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.74",
     "avgincidence_last7": "2.36",
@@ -7901,7 +8523,9 @@
     "ratetotal_last7": "16.54",
     "rateactive": "23.56",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "898"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "898",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6633",
@@ -7915,7 +8539,8 @@
     "numtoday": "863",
     "numconf": "142774",
     "numrecover": "124187",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.61",
     "avgincidence_last7": "2.49",
@@ -7939,7 +8564,9 @@
     "ratetotal_last7": "17.45",
     "rateactive": "24.59",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "948"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "948",
+    "numtests": ""
   },
   {
     "numtotal_last7": "6990",
@@ -7953,7 +8580,8 @@
     "numtoday": "875",
     "numconf": "143649",
     "numrecover": "124691",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.61",
     "avgincidence_last7": "2.63",
@@ -7977,7 +8605,9 @@
     "ratetotal_last7": "18.39",
     "rateactive": "25.55",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "999"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "999",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7405",
@@ -7991,7 +8621,8 @@
     "numtoday": "1766",
     "numconf": "145415",
     "numrecover": "125534",
-    "ratedeaths_last7": "0.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.23",
     "avgincidence_last7": "2.78",
@@ -8015,7 +8646,9 @@
     "ratetotal_last7": "19.48",
     "rateactive": "27.95",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "1058"
+    "ratedeaths_last7": "0.14",
+    "avgtotal_last7": "1058",
+    "numtests": ""
   },
   {
     "numtotal_last7": "7860",
@@ -8029,7 +8662,8 @@
     "numtoday": "1248",
     "numconf": "146663",
     "numrecover": "126904",
-    "ratedeaths_last7": "0.12",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.86",
     "avgincidence_last7": "2.95",
@@ -8053,7 +8687,9 @@
     "ratetotal_last7": "20.68",
     "rateactive": "27.61",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1123"
+    "ratedeaths_last7": "0.12",
+    "avgtotal_last7": "1123",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8006",
@@ -8067,7 +8703,8 @@
     "numtoday": "1090",
     "numconf": "147753",
     "numrecover": "127788",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.74",
     "avgincidence_last7": "3.01",
@@ -8091,7 +8728,9 @@
     "ratetotal_last7": "21.07",
     "rateactive": "28.13",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1144"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "1144",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8227",
@@ -8105,7 +8744,8 @@
     "numtoday": "1341",
     "numconf": "149094",
     "numrecover": "128707",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.91",
     "avgincidence_last7": "3.09",
@@ -8129,7 +8769,9 @@
     "ratetotal_last7": "21.65",
     "rateactive": "29.23",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1175"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "1175",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8545",
@@ -8143,7 +8785,8 @@
     "numtoday": "1362",
     "numconf": "150456",
     "numrecover": "129573",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.91",
     "avgincidence_last7": "3.21",
@@ -8167,7 +8810,9 @@
     "ratetotal_last7": "22.48",
     "rateactive": "30.52",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1221"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "1221",
+    "numtests": ""
   },
   {
     "numtotal_last7": "8897",
@@ -8181,7 +8826,8 @@
     "numtoday": "1215",
     "numconf": "151671",
     "numrecover": "130328",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.81",
     "avgincidence_last7": "3.34",
@@ -8205,7 +8851,9 @@
     "ratetotal_last7": "23.41",
     "rateactive": "31.71",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1271"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "1271",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9476",
@@ -8219,7 +8867,8 @@
     "numtoday": "1454",
     "numconf": "153125",
     "numrecover": "131098",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.96",
     "avgincidence_last7": "3.56",
@@ -8243,7 +8892,9 @@
     "ratetotal_last7": "24.93",
     "rateactive": "33.49",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1354"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "1354",
+    "numtests": ""
   },
   {
     "numtotal_last7": "9886",
@@ -8257,7 +8908,8 @@
     "numtoday": "2176",
     "numconf": "155301",
     "numrecover": "132607",
-    "ratedeaths_last7": "0.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.42",
     "avgincidence_last7": "3.72",
@@ -8281,7 +8933,9 @@
     "ratetotal_last7": "26.01",
     "rateactive": "35.22",
     "avgdeaths_last7": "7",
-    "avgtotal_last7": "1412"
+    "ratedeaths_last7": "0.13",
+    "avgtotal_last7": "1412",
+    "numtests": ""
   },
   {
     "numtotal_last7": "10298",
@@ -8295,7 +8949,8 @@
     "numtoday": "1660",
     "numconf": "156961",
     "numrecover": "133737",
-    "ratedeaths_last7": "0.15",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.07",
     "avgincidence_last7": "3.87",
@@ -8319,7 +8974,9 @@
     "ratetotal_last7": "27.10",
     "rateactive": "36.58",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "1471"
+    "ratedeaths_last7": "0.15",
+    "avgtotal_last7": "1471",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11005",
@@ -8333,7 +8990,8 @@
     "numtoday": "1797",
     "numconf": "158758",
     "numrecover": "134971",
-    "ratedeaths_last7": "0.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.14",
     "avgincidence_last7": "4.14",
@@ -8357,7 +9015,9 @@
     "ratetotal_last7": "28.96",
     "rateactive": "38.05",
     "avgdeaths_last7": "8",
-    "avgtotal_last7": "1572"
+    "ratedeaths_last7": "0.14",
+    "avgtotal_last7": "1572",
+    "numtests": ""
   },
   {
     "numtotal_last7": "11441",
@@ -8371,7 +9031,8 @@
     "numtoday": "1777",
     "numconf": "160535",
     "numrecover": "136350",
-    "ratedeaths_last7": "0.18",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.12",
     "avgincidence_last7": "4.30",
@@ -8395,7 +9056,9 @@
     "ratetotal_last7": "30.10",
     "rateactive": "39.04",
     "avgdeaths_last7": "10",
-    "avgtotal_last7": "1634"
+    "ratedeaths_last7": "0.18",
+    "avgtotal_last7": "1634",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12203",
@@ -8409,7 +9072,8 @@
     "numtoday": "2124",
     "numconf": "162659",
     "numrecover": "137614",
-    "ratedeaths_last7": "0.41",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.32",
     "avgincidence_last7": "4.59",
@@ -8433,7 +9097,9 @@
     "ratetotal_last7": "32.11",
     "rateactive": "41.06",
     "avgdeaths_last7": "22",
-    "avgtotal_last7": "1743"
+    "ratedeaths_last7": "0.41",
+    "avgtotal_last7": "1743",
+    "numtests": ""
   },
   {
     "numtotal_last7": "12800",
@@ -8447,7 +9113,8 @@
     "numtoday": "1812",
     "numconf": "164471",
     "numrecover": "138867",
-    "ratedeaths_last7": "0.53",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.11",
     "avgincidence_last7": "4.81",
@@ -8471,7 +9138,9 @@
     "ratetotal_last7": "33.68",
     "rateactive": "42.39",
     "avgdeaths_last7": "29",
-    "avgtotal_last7": "1829"
+    "ratedeaths_last7": "0.53",
+    "avgtotal_last7": "1829",
+    "numtests": ""
   },
   {
     "numtotal_last7": "13031",
@@ -8485,7 +9154,8 @@
     "numtoday": "1685",
     "numconf": "166156",
     "numrecover": "140243",
-    "ratedeaths_last7": "0.56",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.02",
     "avgincidence_last7": "4.90",
@@ -8509,7 +9179,9 @@
     "ratetotal_last7": "34.29",
     "rateactive": "43.16",
     "avgdeaths_last7": "30",
-    "avgtotal_last7": "1862"
+    "ratedeaths_last7": "0.56",
+    "avgtotal_last7": "1862",
+    "numtests": ""
   },
   {
     "numtotal_last7": "13659",
@@ -8523,7 +9195,8 @@
     "numtoday": "2804",
     "numconf": "168960",
     "numrecover": "142334",
-    "ratedeaths_last7": "0.59",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.69",
     "avgincidence_last7": "5.13",
@@ -8547,7 +9220,9 @@
     "ratetotal_last7": "35.94",
     "rateactive": "44.97",
     "avgdeaths_last7": "32",
-    "avgtotal_last7": "1951"
+    "ratedeaths_last7": "0.59",
+    "avgtotal_last7": "1951",
+    "numtests": ""
   },
   {
     "numtotal_last7": "14362",
@@ -8561,7 +9236,8 @@
     "numtoday": "2363",
     "numconf": "171323",
     "numrecover": "143994",
-    "ratedeaths_last7": "0.63",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.40",
     "avgincidence_last7": "5.40",
@@ -8585,7 +9261,9 @@
     "ratetotal_last7": "37.79",
     "rateactive": "46.75",
     "avgdeaths_last7": "34",
-    "avgtotal_last7": "2052"
+    "ratedeaths_last7": "0.63",
+    "avgtotal_last7": "2052",
+    "numtests": ""
   },
   {
     "numtotal_last7": "14365",
@@ -8599,7 +9277,8 @@
     "numtoday": "1800",
     "numconf": "173123",
     "numrecover": "145666",
-    "ratedeaths_last7": "0.64",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.05",
     "avgincidence_last7": "5.40",
@@ -8623,7 +9302,9 @@
     "ratetotal_last7": "37.80",
     "rateactive": "47.06",
     "avgdeaths_last7": "35",
-    "avgtotal_last7": "2052"
+    "ratedeaths_last7": "0.64",
+    "avgtotal_last7": "2052",
+    "numtests": ""
   },
   {
     "numtotal_last7": "15024",
@@ -8637,7 +9318,8 @@
     "numtoday": "2436",
     "numconf": "175559",
     "numrecover": "147508",
-    "ratedeaths_last7": "0.63",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.41",
     "avgincidence_last7": "5.65",
@@ -8661,7 +9343,9 @@
     "ratetotal_last7": "39.53",
     "rateactive": "48.58",
     "avgdeaths_last7": "34",
-    "avgtotal_last7": "2146"
+    "ratedeaths_last7": "0.63",
+    "avgtotal_last7": "2146",
+    "numtests": ""
   },
   {
     "numtotal_last7": "15458",
@@ -8675,7 +9359,8 @@
     "numtoday": "2558",
     "numconf": "178117",
     "numrecover": "149524",
-    "ratedeaths_last7": "0.46",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.46",
     "avgincidence_last7": "5.81",
@@ -8699,7 +9384,9 @@
     "ratetotal_last7": "40.67",
     "rateactive": "49.94",
     "avgdeaths_last7": "25",
-    "avgtotal_last7": "2208"
+    "ratedeaths_last7": "0.46",
+    "avgtotal_last7": "2208",
+    "numtests": ""
   },
   {
     "numtotal_last7": "15708",
@@ -8713,7 +9400,8 @@
     "numtoday": "2062",
     "numconf": "180179",
     "numrecover": "151357",
-    "ratedeaths_last7": "0.38",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.16",
     "avgincidence_last7": "5.90",
@@ -8737,7 +9425,9 @@
     "ratetotal_last7": "41.33",
     "rateactive": "50.48",
     "avgdeaths_last7": "21",
-    "avgtotal_last7": "2244"
+    "ratedeaths_last7": "0.38",
+    "avgtotal_last7": "2244",
+    "numtests": ""
   },
   {
     "numtotal_last7": "15708",
@@ -8751,7 +9441,8 @@
     "numtoday": "1685",
     "numconf": "181864",
     "numrecover": "153219",
-    "ratedeaths_last7": "0.35",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.94",
     "avgincidence_last7": "5.90",
@@ -8775,7 +9466,9 @@
     "ratetotal_last7": "41.33",
     "rateactive": "50.00",
     "avgdeaths_last7": "19",
-    "avgtotal_last7": "2244"
+    "ratedeaths_last7": "0.35",
+    "avgtotal_last7": "2244",
+    "numtests": ""
   },
   {
     "numtotal_last7": "13879",
@@ -8789,7 +9482,8 @@
     "numtoday": "975",
     "numconf": "182839",
     "numrecover": "154258",
-    "ratedeaths_last7": "0.32",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.54",
     "avgincidence_last7": "5.22",
@@ -8813,7 +9507,9 @@
     "ratetotal_last7": "36.52",
     "rateactive": "49.79",
     "avgdeaths_last7": "18",
-    "avgtotal_last7": "1983"
+    "ratedeaths_last7": "0.32",
+    "avgtotal_last7": "1983",
+    "numtests": ""
   },
   {
     "numtotal_last7": "15558",
@@ -8827,7 +9523,8 @@
     "numtoday": "4042",
     "numconf": "186881",
     "numrecover": "157486",
-    "ratedeaths_last7": "0.33",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "2.21",
     "avgincidence_last7": "5.85",
@@ -8851,7 +9548,9 @@
     "ratetotal_last7": "40.94",
     "rateactive": "51.86",
     "avgdeaths_last7": "18",
-    "avgtotal_last7": "2223"
+    "ratedeaths_last7": "0.33",
+    "avgtotal_last7": "2223",
+    "numtests": ""
   },
   {
     "numtotal_last7": "16264",
@@ -8865,7 +9564,8 @@
     "numtoday": "2506",
     "numconf": "189385",
     "numrecover": "159351",
-    "ratedeaths_last7": "0.32",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.34",
     "avgincidence_last7": "6.11",
@@ -8889,7 +9589,9 @@
     "ratetotal_last7": "42.79",
     "rateactive": "53.52",
     "avgdeaths_last7": "18",
-    "avgtotal_last7": "2323"
+    "ratedeaths_last7": "0.32",
+    "avgtotal_last7": "2323",
+    "numtests": ""
   },
   {
     "numtotal_last7": "16173",
@@ -8903,7 +9605,8 @@
     "numtoday": "2345",
     "numconf": "191730",
     "numrecover": "161490",
-    "ratedeaths_last7": "0.39",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.24",
     "avgincidence_last7": "6.08",
@@ -8927,7 +9630,9 @@
     "ratetotal_last7": "42.55",
     "rateactive": "53.96",
     "avgdeaths_last7": "21",
-    "avgtotal_last7": "2310"
+    "ratedeaths_last7": "0.39",
+    "avgtotal_last7": "2310",
+    "numtests": ""
   },
   {
     "numtotal_last7": "15989",
@@ -8941,7 +9646,8 @@
     "numtoday": "2374",
     "numconf": "194106",
     "numrecover": "163644",
-    "ratedeaths_last7": "0.37",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.24",
     "avgincidence_last7": "6.01",
@@ -8965,7 +9671,9 @@
     "ratetotal_last7": "42.07",
     "rateactive": "54.48",
     "avgdeaths_last7": "20",
-    "avgtotal_last7": "2284"
+    "ratedeaths_last7": "0.37",
+    "avgtotal_last7": "2284",
+    "numtests": ""
   },
   {
     "numtotal_last7": "16142",
@@ -8979,7 +9687,8 @@
     "numtoday": "2215",
     "numconf": "196321",
     "numrecover": "165446",
-    "ratedeaths_last7": "0.38",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.14",
     "avgincidence_last7": "6.07",
@@ -9003,7 +9712,9 @@
     "ratetotal_last7": "42.47",
     "rateactive": "55.50",
     "avgdeaths_last7": "20",
-    "avgtotal_last7": "2306"
+    "ratedeaths_last7": "0.38",
+    "avgtotal_last7": "2306",
+    "numtests": ""
   },
   {
     "numtotal_last7": "16284",
@@ -9017,7 +9728,8 @@
     "numtoday": "1827",
     "numconf": "198148",
     "numrecover": "167112",
-    "ratedeaths_last7": "0.40",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.93",
     "avgincidence_last7": "6.12",
@@ -9041,7 +9753,9 @@
     "ratetotal_last7": "42.85",
     "rateactive": "55.89",
     "avgdeaths_last7": "22",
-    "avgtotal_last7": "2326"
+    "ratedeaths_last7": "0.40",
+    "avgtotal_last7": "2326",
+    "numtests": ""
   },
   {
     "numtotal_last7": "18598",
@@ -9055,7 +9769,8 @@
     "numtoday": "3289",
     "numconf": "201437",
     "numrecover": "169671",
-    "ratedeaths_last7": "0.41",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.66",
     "avgincidence_last7": "6.99",
@@ -9079,7 +9794,9 @@
     "ratetotal_last7": "48.94",
     "rateactive": "57.76",
     "avgdeaths_last7": "22",
-    "avgtotal_last7": "2657"
+    "ratedeaths_last7": "0.41",
+    "avgtotal_last7": "2657",
+    "numtests": ""
   },
   {
     "numtotal_last7": "16807",
@@ -9093,7 +9810,8 @@
     "numtoday": "2251",
     "numconf": "203688",
     "numrecover": "171743",
-    "ratedeaths_last7": "0.38",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.12",
     "avgincidence_last7": "6.32",
@@ -9117,7 +9835,9 @@
     "ratetotal_last7": "44.22",
     "rateactive": "58.19",
     "avgdeaths_last7": "21",
-    "avgtotal_last7": "2401"
+    "ratedeaths_last7": "0.38",
+    "avgtotal_last7": "2401",
+    "numtests": ""
   },
   {
     "numtotal_last7": "16973",
@@ -9131,7 +9851,8 @@
     "numtoday": "2672",
     "numconf": "206360",
     "numrecover": "173748",
-    "ratedeaths_last7": "0.45",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.31",
     "avgincidence_last7": "6.38",
@@ -9155,7 +9876,9 @@
     "ratetotal_last7": "44.66",
     "rateactive": "59.85",
     "avgdeaths_last7": "24",
-    "avgtotal_last7": "2425"
+    "ratedeaths_last7": "0.45",
+    "avgtotal_last7": "2425",
+    "numtests": ""
   },
   {
     "numtotal_last7": "17416",
@@ -9169,7 +9892,8 @@
     "numtoday": "2788",
     "numconf": "209148",
     "numrecover": "175805",
-    "ratedeaths_last7": "0.43",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.35",
     "avgincidence_last7": "6.55",
@@ -9193,7 +9917,9 @@
     "ratetotal_last7": "45.83",
     "rateactive": "61.69",
     "avgdeaths_last7": "23",
-    "avgtotal_last7": "2488"
+    "ratedeaths_last7": "0.43",
+    "avgtotal_last7": "2488",
+    "numtests": ""
   },
   {
     "numtotal_last7": "17626",
@@ -9207,7 +9933,8 @@
     "numtoday": "2584",
     "numconf": "211732",
     "numrecover": "177879",
-    "ratedeaths_last7": "0.44",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.24",
     "avgincidence_last7": "6.63",
@@ -9231,7 +9958,9 @@
     "ratetotal_last7": "46.38",
     "rateactive": "62.97",
     "avgdeaths_last7": "24",
-    "avgtotal_last7": "2518"
+    "ratedeaths_last7": "0.44",
+    "avgtotal_last7": "2518",
+    "numtests": ""
   },
   {
     "numtotal_last7": "17638",
@@ -9245,7 +9974,8 @@
     "numtoday": "2227",
     "numconf": "213959",
     "numrecover": "179636",
-    "ratedeaths_last7": "0.46",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.05",
     "avgincidence_last7": "6.63",
@@ -9269,7 +9999,9 @@
     "ratetotal_last7": "46.41",
     "rateactive": "64.11",
     "avgdeaths_last7": "25",
-    "avgtotal_last7": "2520"
+    "ratedeaths_last7": "0.46",
+    "avgtotal_last7": "2520",
+    "numtests": ""
   },
   {
     "numtotal_last7": "17956",
@@ -9283,7 +10015,8 @@
     "numtoday": "2145",
     "numconf": "216104",
     "numrecover": "181429",
-    "ratedeaths_last7": "0.49",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.00",
     "avgincidence_last7": "6.75",
@@ -9307,7 +10040,9 @@
     "ratetotal_last7": "47.25",
     "rateactive": "64.98",
     "avgdeaths_last7": "27",
-    "avgtotal_last7": "2565"
+    "ratedeaths_last7": "0.49",
+    "avgtotal_last7": "2565",
+    "numtests": ""
   },
   {
     "numtotal_last7": "18776",
@@ -9321,7 +10056,8 @@
     "numtoday": "4109",
     "numconf": "220213",
     "numrecover": "184306",
-    "ratedeaths_last7": "0.51",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.90",
     "avgincidence_last7": "7.06",
@@ -9345,7 +10081,9 @@
     "ratetotal_last7": "49.40",
     "rateactive": "68.15",
     "avgdeaths_last7": "28",
-    "avgtotal_last7": "2682"
+    "ratedeaths_last7": "0.51",
+    "avgtotal_last7": "2682",
+    "numtests": ""
   },
   {
     "numtotal_last7": "19199",
@@ -9359,7 +10097,8 @@
     "numtoday": "2674",
     "numconf": "222887",
     "numrecover": "186464",
-    "ratedeaths_last7": "0.54",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.21",
     "avgincidence_last7": "7.22",
@@ -9383,7 +10122,9 @@
     "ratetotal_last7": "50.52",
     "rateactive": "69.43",
     "avgdeaths_last7": "30",
-    "avgtotal_last7": "2743"
+    "ratedeaths_last7": "0.54",
+    "avgtotal_last7": "2743",
+    "numtests": ""
   },
   {
     "numtotal_last7": "19226",
@@ -9397,7 +10138,8 @@
     "numtoday": "2699",
     "numconf": "225586",
     "numrecover": "188867",
-    "ratedeaths_last7": "0.53",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.21",
     "avgincidence_last7": "7.23",
@@ -9421,7 +10163,9 @@
     "ratetotal_last7": "50.59",
     "rateactive": "70.13",
     "avgdeaths_last7": "29",
-    "avgtotal_last7": "2747"
+    "ratedeaths_last7": "0.53",
+    "avgtotal_last7": "2747",
+    "numtests": ""
   },
   {
     "numtotal_last7": "19394",
@@ -9435,7 +10179,8 @@
     "numtoday": "2956",
     "numconf": "228542",
     "numrecover": "191209",
-    "ratedeaths_last7": "0.56",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.31",
     "avgincidence_last7": "7.29",
@@ -9459,7 +10204,9 @@
     "ratetotal_last7": "51.03",
     "rateactive": "71.63",
     "avgdeaths_last7": "30",
-    "avgtotal_last7": "2771"
+    "ratedeaths_last7": "0.56",
+    "avgtotal_last7": "2771",
+    "numtests": ""
   },
   {
     "numtotal_last7": "20267",
@@ -9473,7 +10220,8 @@
     "numtoday": "3457",
     "numconf": "231999",
     "numrecover": "193937",
-    "ratedeaths_last7": "0.58",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.51",
     "avgincidence_last7": "7.62",
@@ -9497,7 +10245,9 @@
     "ratetotal_last7": "53.33",
     "rateactive": "73.46",
     "avgdeaths_last7": "32",
-    "avgtotal_last7": "2895"
+    "ratedeaths_last7": "0.58",
+    "avgtotal_last7": "2895",
+    "numtests": ""
   },
   {
     "numtotal_last7": "21485",
@@ -9511,7 +10261,8 @@
     "numtoday": "3445",
     "numconf": "235444",
     "numrecover": "195876",
-    "ratedeaths_last7": "0.56",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.48",
     "avgincidence_last7": "8.08",
@@ -9535,7 +10286,9 @@
     "ratetotal_last7": "56.53",
     "rateactive": "77.35",
     "avgdeaths_last7": "31",
-    "avgtotal_last7": "3069"
+    "ratedeaths_last7": "0.56",
+    "avgtotal_last7": "3069",
+    "numtests": ""
   },
   {
     "numtotal_last7": "22584",
@@ -9549,7 +10302,8 @@
     "numtoday": "3244",
     "numconf": "238688",
     "numrecover": "197729",
-    "ratedeaths_last7": "0.61",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.38",
     "avgincidence_last7": "8.49",
@@ -9573,7 +10327,9 @@
     "ratetotal_last7": "59.42",
     "rateactive": "80.90",
     "avgdeaths_last7": "33",
-    "avgtotal_last7": "3226"
+    "ratedeaths_last7": "0.61",
+    "avgtotal_last7": "3226",
+    "numtests": ""
   },
   {
     "numtotal_last7": "21748",
@@ -9587,7 +10343,8 @@
     "numtoday": "3273",
     "numconf": "241961",
     "numrecover": "200052",
-    "ratedeaths_last7": "0.62",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.37",
     "avgincidence_last7": "8.17",
@@ -9611,7 +10368,9 @@
     "ratetotal_last7": "57.22",
     "rateactive": "83.32",
     "avgdeaths_last7": "34",
-    "avgtotal_last7": "3107"
+    "ratedeaths_last7": "0.62",
+    "avgtotal_last7": "3107",
+    "numtests": ""
   },
   {
     "numtotal_last7": "22048",
@@ -9625,7 +10384,8 @@
     "numtoday": "2974",
     "numconf": "244935",
     "numrecover": "203509",
-    "ratedeaths_last7": "0.73",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.23",
     "avgincidence_last7": "8.29",
@@ -9649,7 +10409,9 @@
     "ratetotal_last7": "58.01",
     "rateactive": "81.86",
     "avgdeaths_last7": "40",
-    "avgtotal_last7": "3150"
+    "ratedeaths_last7": "0.73",
+    "avgtotal_last7": "3150",
+    "numtests": ""
   },
   {
     "numtotal_last7": "22632",
@@ -9663,7 +10425,8 @@
     "numtoday": "3283",
     "numconf": "248218",
     "numrecover": "206037",
-    "ratedeaths_last7": "0.80",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.34",
     "avgincidence_last7": "8.51",
@@ -9687,7 +10450,9 @@
     "ratetotal_last7": "59.55",
     "rateactive": "83.70",
     "avgdeaths_last7": "43",
-    "avgtotal_last7": "3233"
+    "ratedeaths_last7": "0.80",
+    "avgtotal_last7": "3233",
+    "numtests": ""
   },
   {
     "numtotal_last7": "23598",
@@ -9701,7 +10466,8 @@
     "numtoday": "3922",
     "numconf": "252140",
     "numrecover": "207998",
-    "ratedeaths_last7": "0.81",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.58",
     "avgincidence_last7": "8.87",
@@ -9725,7 +10491,9 @@
     "ratetotal_last7": "62.09",
     "rateactive": "88.74",
     "avgdeaths_last7": "44",
-    "avgtotal_last7": "3371"
+    "ratedeaths_last7": "0.81",
+    "avgtotal_last7": "3371",
+    "numtests": ""
   },
   {
     "numtotal_last7": "23810",
@@ -9739,7 +10507,8 @@
     "numtoday": "3669",
     "numconf": "255809",
     "numrecover": "211237",
-    "ratedeaths_last7": "0.86",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.46",
     "avgincidence_last7": "8.95",
@@ -9763,7 +10532,9 @@
     "ratetotal_last7": "62.65",
     "rateactive": "89.73",
     "avgdeaths_last7": "47",
-    "avgtotal_last7": "3401"
+    "ratedeaths_last7": "0.86",
+    "avgtotal_last7": "3401",
+    "numtests": ""
   },
   {
     "numtotal_last7": "24611",
@@ -9777,7 +10548,8 @@
     "numtoday": "4246",
     "numconf": "260055",
     "numrecover": "213094",
-    "ratedeaths_last7": "0.93",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.66",
     "avgincidence_last7": "9.25",
@@ -9801,7 +10573,9 @@
     "ratetotal_last7": "64.76",
     "rateactive": "95.87",
     "avgdeaths_last7": "51",
-    "avgtotal_last7": "3516"
+    "ratedeaths_last7": "0.93",
+    "avgtotal_last7": "3516",
+    "numtests": ""
   },
   {
     "numtotal_last7": "25961",
@@ -9815,7 +10589,8 @@
     "numtoday": "4594",
     "numconf": "264649",
     "numrecover": "215005",
-    "ratedeaths_last7": "0.90",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.77",
     "avgincidence_last7": "9.76",
@@ -9839,7 +10614,9 @@
     "ratetotal_last7": "68.31",
     "rateactive": "102.85",
     "avgdeaths_last7": "49",
-    "avgtotal_last7": "3709"
+    "ratedeaths_last7": "0.90",
+    "avgtotal_last7": "3709",
+    "numtests": ""
   },
   {
     "numtotal_last7": "26774",
@@ -9853,7 +10630,8 @@
     "numtoday": "4086",
     "numconf": "268735",
     "numrecover": "218400",
-    "ratedeaths_last7": "0.94",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.54",
     "avgincidence_last7": "10.06",
@@ -9877,7 +10655,9 @@
     "ratetotal_last7": "70.45",
     "rateactive": "104.55",
     "avgdeaths_last7": "51",
-    "avgtotal_last7": "3825"
+    "ratedeaths_last7": "0.94",
+    "avgtotal_last7": "3825",
+    "numtests": ""
   },
   {
     "numtotal_last7": "28102",
@@ -9891,7 +10671,8 @@
     "numtoday": "4302",
     "numconf": "273037",
     "numrecover": "221279",
-    "ratedeaths_last7": "0.93",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.60",
     "avgincidence_last7": "10.56",
@@ -9915,7 +10696,9 @@
     "ratetotal_last7": "73.94",
     "rateactive": "108.12",
     "avgdeaths_last7": "50",
-    "avgtotal_last7": "4015"
+    "ratedeaths_last7": "0.93",
+    "avgtotal_last7": "4015",
+    "numtests": ""
   },
   {
     "numtotal_last7": "29378",
@@ -9929,7 +10712,8 @@
     "numtoday": "4559",
     "numconf": "277596",
     "numrecover": "223199",
-    "ratedeaths_last7": "0.92",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.67",
     "avgincidence_last7": "11.04",
@@ -9953,7 +10737,9 @@
     "ratetotal_last7": "77.30",
     "rateactive": "114.92",
     "avgdeaths_last7": "50",
-    "avgtotal_last7": "4197"
+    "ratedeaths_last7": "0.92",
+    "avgtotal_last7": "4197",
+    "numtests": ""
   },
   {
     "numtotal_last7": "30437",
@@ -9967,7 +10753,8 @@
     "numtoday": "4981",
     "numconf": "282577",
     "numrecover": "226775",
-    "ratedeaths_last7": "1.02",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.79",
     "avgincidence_last7": "11.44",
@@ -9991,7 +10778,9 @@
     "ratetotal_last7": "80.09",
     "rateactive": "118.40",
     "avgdeaths_last7": "55",
-    "avgtotal_last7": "4348"
+    "ratedeaths_last7": "1.02",
+    "avgtotal_last7": "4348",
+    "numtests": ""
   },
   {
     "numtotal_last7": "31509",
@@ -10005,7 +10794,8 @@
     "numtoday": "4741",
     "numconf": "287318",
     "numrecover": "230646",
-    "ratedeaths_last7": "1.03",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.68",
     "avgincidence_last7": "11.84",
@@ -10029,7 +10819,9 @@
     "ratetotal_last7": "82.91",
     "rateactive": "120.53",
     "avgdeaths_last7": "56",
-    "avgtotal_last7": "4501"
+    "ratedeaths_last7": "1.03",
+    "avgtotal_last7": "4501",
+    "numtests": ""
   },
   {
     "numtotal_last7": "32530",
@@ -10043,7 +10835,8 @@
     "numtoday": "5267",
     "numconf": "292585",
     "numrecover": "232915",
-    "ratedeaths_last7": "1.06",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.83",
     "avgincidence_last7": "12.23",
@@ -10067,7 +10860,9 @@
     "ratetotal_last7": "85.59",
     "rateactive": "128.26",
     "avgdeaths_last7": "57",
-    "avgtotal_last7": "4647"
+    "ratedeaths_last7": "1.06",
+    "avgtotal_last7": "4647",
+    "numtests": ""
   },
   {
     "numtotal_last7": "32741",
@@ -10081,7 +10876,8 @@
     "numtoday": "4805",
     "numconf": "297390",
     "numrecover": "235401",
-    "ratedeaths_last7": "1.15",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.64",
     "avgincidence_last7": "12.31",
@@ -10105,7 +10901,9 @@
     "ratetotal_last7": "86.15",
     "rateactive": "134.18",
     "avgdeaths_last7": "62",
-    "avgtotal_last7": "4677"
+    "ratedeaths_last7": "1.15",
+    "avgtotal_last7": "4677",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33457",
@@ -10119,7 +10917,8 @@
     "numtoday": "4802",
     "numconf": "302192",
     "numrecover": "240287",
-    "ratedeaths_last7": "1.23",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.61",
     "avgincidence_last7": "12.58",
@@ -10143,7 +10942,9 @@
     "ratetotal_last7": "88.03",
     "rateactive": "133.77",
     "avgdeaths_last7": "67",
-    "avgtotal_last7": "4780"
+    "ratedeaths_last7": "1.23",
+    "avgtotal_last7": "4780",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33431",
@@ -10157,7 +10958,8 @@
     "numtoday": "4276",
     "numconf": "306468",
     "numrecover": "244152",
-    "ratedeaths_last7": "1.21",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.41",
     "avgincidence_last7": "12.57",
@@ -10181,7 +10983,9 @@
     "ratetotal_last7": "87.96",
     "rateactive": "134.69",
     "avgdeaths_last7": "66",
-    "avgtotal_last7": "4776"
+    "ratedeaths_last7": "1.21",
+    "avgtotal_last7": "4776",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33513",
@@ -10195,7 +10999,8 @@
     "numtoday": "4641",
     "numconf": "311109",
     "numrecover": "248321",
-    "ratedeaths_last7": "1.33",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.51",
     "avgincidence_last7": "12.60",
@@ -10219,7 +11024,9 @@
     "ratetotal_last7": "88.18",
     "rateactive": "135.67",
     "avgdeaths_last7": "72",
-    "avgtotal_last7": "4788"
+    "ratedeaths_last7": "1.33",
+    "avgtotal_last7": "4788",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33174",
@@ -10233,7 +11040,8 @@
     "numtoday": "4642",
     "numconf": "315751",
     "numrecover": "252293",
-    "ratedeaths_last7": "1.32",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.49",
     "avgincidence_last7": "12.47",
@@ -10257,7 +11065,9 @@
     "ratetotal_last7": "87.29",
     "rateactive": "137.23",
     "avgdeaths_last7": "72",
-    "avgtotal_last7": "4739"
+    "ratedeaths_last7": "1.32",
+    "avgtotal_last7": "4739",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33401",
@@ -10271,7 +11081,8 @@
     "numtoday": "4968",
     "numconf": "320719",
     "numrecover": "256646",
-    "ratedeaths_last7": "1.34",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.57",
     "avgincidence_last7": "12.56",
@@ -10295,7 +11106,9 @@
     "ratetotal_last7": "87.89",
     "rateactive": "138.66",
     "avgdeaths_last7": "73",
-    "avgtotal_last7": "4772"
+    "ratedeaths_last7": "1.34",
+    "avgtotal_last7": "4772",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33839",
@@ -10309,7 +11122,8 @@
     "numtoday": "5705",
     "numconf": "326424",
     "numrecover": "260398",
-    "ratedeaths_last7": "1.37",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.78",
     "avgincidence_last7": "12.72",
@@ -10333,7 +11147,9 @@
     "ratetotal_last7": "89.04",
     "rateactive": "143.61",
     "avgdeaths_last7": "74",
-    "avgtotal_last7": "4834"
+    "ratedeaths_last7": "1.37",
+    "avgtotal_last7": "4834",
+    "numtests": ""
   },
   {
     "numtotal_last7": "34452",
@@ -10347,7 +11163,8 @@
     "numtoday": "5418",
     "numconf": "331842",
     "numrecover": "264049",
-    "ratedeaths_last7": "1.32",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.66",
     "avgincidence_last7": "12.95",
@@ -10371,7 +11188,9 @@
     "ratetotal_last7": "90.65",
     "rateactive": "148.13",
     "avgdeaths_last7": "72",
-    "avgtotal_last7": "4922"
+    "ratedeaths_last7": "1.32",
+    "avgtotal_last7": "4922",
+    "numtests": ""
   },
   {
     "numtotal_last7": "35363",
@@ -10385,7 +11204,8 @@
     "numtoday": "5713",
     "numconf": "337555",
     "numrecover": "269199",
-    "ratedeaths_last7": "1.30",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.72",
     "avgincidence_last7": "13.29",
@@ -10409,7 +11229,9 @@
     "ratetotal_last7": "93.05",
     "rateactive": "149.44",
     "avgdeaths_last7": "71",
-    "avgtotal_last7": "5052"
+    "ratedeaths_last7": "1.30",
+    "avgtotal_last7": "5052",
+    "numtests": ""
   },
   {
     "numtotal_last7": "35976",
@@ -10423,7 +11245,8 @@
     "numtoday": "4889",
     "numconf": "342444",
     "numrecover": "273391",
-    "ratedeaths_last7": "1.40",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.45",
     "avgincidence_last7": "13.52",
@@ -10447,7 +11270,9 @@
     "ratetotal_last7": "94.66",
     "rateactive": "151.02",
     "avgdeaths_last7": "76",
-    "avgtotal_last7": "5139"
+    "ratedeaths_last7": "1.40",
+    "avgtotal_last7": "5139",
+    "numtests": ""
   },
   {
     "numtotal_last7": "36357",
@@ -10461,7 +11286,8 @@
     "numtoday": "5022",
     "numconf": "347466",
     "numrecover": "277232",
-    "ratedeaths_last7": "1.38",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.47",
     "avgincidence_last7": "13.67",
@@ -10485,7 +11311,9 @@
     "ratetotal_last7": "95.66",
     "rateactive": "153.88",
     "avgdeaths_last7": "75",
-    "avgtotal_last7": "5194"
+    "ratedeaths_last7": "1.38",
+    "avgtotal_last7": "5194",
+    "numtests": ""
   },
   {
     "numtotal_last7": "37346",
@@ -10499,7 +11327,8 @@
     "numtoday": "5631",
     "numconf": "353097",
     "numrecover": "280923",
-    "ratedeaths_last7": "1.41",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.62",
     "avgincidence_last7": "14.04",
@@ -10523,7 +11352,9 @@
     "ratetotal_last7": "98.27",
     "rateactive": "158.75",
     "avgdeaths_last7": "76",
-    "avgtotal_last7": "5335"
+    "ratedeaths_last7": "1.41",
+    "avgtotal_last7": "5335",
+    "numtests": ""
   },
   {
     "numtotal_last7": "38345",
@@ -10537,7 +11368,8 @@
     "numtoday": "5967",
     "numconf": "359064",
     "numrecover": "286504",
-    "ratedeaths_last7": "1.47",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.69",
     "avgincidence_last7": "14.41",
@@ -10561,7 +11393,9 @@
     "ratetotal_last7": "100.89",
     "rateactive": "159.52",
     "avgdeaths_last7": "80",
-    "avgtotal_last7": "5478"
+    "ratedeaths_last7": "1.47",
+    "avgtotal_last7": "5478",
+    "numtests": ""
   },
   {
     "numtotal_last7": "39136",
@@ -10575,7 +11409,8 @@
     "numtoday": "6496",
     "numconf": "365560",
     "numrecover": "290700",
-    "ratedeaths_last7": "1.54",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.81",
     "avgincidence_last7": "14.71",
@@ -10599,7 +11434,9 @@
     "ratetotal_last7": "102.98",
     "rateactive": "165.32",
     "avgdeaths_last7": "84",
-    "avgtotal_last7": "5591"
+    "ratedeaths_last7": "1.54",
+    "avgtotal_last7": "5591",
+    "numtests": ""
   },
   {
     "numtotal_last7": "40194",
@@ -10613,7 +11450,8 @@
     "numtoday": "6476",
     "numconf": "372036",
     "numrecover": "294411",
-    "ratedeaths_last7": "1.60",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.77",
     "avgincidence_last7": "15.11",
@@ -10637,7 +11475,9 @@
     "ratetotal_last7": "105.76",
     "rateactive": "172.40",
     "avgdeaths_last7": "87",
-    "avgtotal_last7": "5742"
+    "ratedeaths_last7": "1.60",
+    "avgtotal_last7": "5742",
+    "numtests": ""
   },
   {
     "numtotal_last7": "40584",
@@ -10651,7 +11491,8 @@
     "numtoday": "6103",
     "numconf": "378139",
     "numrecover": "299972",
-    "ratedeaths_last7": "1.60",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.64",
     "avgincidence_last7": "15.26",
@@ -10675,7 +11516,9 @@
     "ratetotal_last7": "106.79",
     "rateactive": "173.65",
     "avgdeaths_last7": "87",
-    "avgtotal_last7": "5798"
+    "ratedeaths_last7": "1.60",
+    "avgtotal_last7": "5798",
+    "numtests": ""
   },
   {
     "numtotal_last7": "41024",
@@ -10689,7 +11532,8 @@
     "numtoday": "5329",
     "numconf": "383468",
     "numrecover": "304888",
-    "ratedeaths_last7": "1.56",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.41",
     "avgincidence_last7": "15.42",
@@ -10713,7 +11557,9 @@
     "ratetotal_last7": "107.94",
     "rateactive": "174.53",
     "avgdeaths_last7": "85",
-    "avgtotal_last7": "5861"
+    "ratedeaths_last7": "1.56",
+    "avgtotal_last7": "5861",
+    "numtests": ""
   },
   {
     "numtotal_last7": "42309",
@@ -10727,7 +11573,8 @@
     "numtoday": "6307",
     "numconf": "389775",
     "numrecover": "309886",
-    "ratedeaths_last7": "1.62",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.64",
     "avgincidence_last7": "15.90",
@@ -10751,7 +11598,9 @@
     "ratetotal_last7": "111.32",
     "rateactive": "177.67",
     "avgdeaths_last7": "88",
-    "avgtotal_last7": "6044"
+    "ratedeaths_last7": "1.62",
+    "avgtotal_last7": "6044",
+    "numtests": ""
   },
   {
     "numtotal_last7": "43171",
@@ -10765,7 +11614,8 @@
     "numtoday": "6493",
     "numconf": "396268",
     "numrecover": "314608",
-    "ratedeaths_last7": "1.60",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.67",
     "avgincidence_last7": "16.23",
@@ -10789,7 +11639,9 @@
     "ratetotal_last7": "113.59",
     "rateactive": "182.11",
     "avgdeaths_last7": "87",
-    "avgtotal_last7": "6167"
+    "ratedeaths_last7": "1.60",
+    "avgtotal_last7": "6167",
+    "numtests": ""
   },
   {
     "numtotal_last7": "43504",
@@ -10803,7 +11655,8 @@
     "numtoday": "6300",
     "numconf": "402568",
     "numrecover": "320096",
-    "ratedeaths_last7": "1.58",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.59",
     "avgincidence_last7": "16.35",
@@ -10827,7 +11680,9 @@
     "ratetotal_last7": "114.47",
     "rateactive": "184.02",
     "avgdeaths_last7": "86",
-    "avgtotal_last7": "6215"
+    "ratedeaths_last7": "1.58",
+    "avgtotal_last7": "6215",
+    "numtests": ""
   },
   {
     "numtotal_last7": "44007",
@@ -10841,7 +11696,8 @@
     "numtoday": "6999",
     "numconf": "409567",
     "numrecover": "324882",
-    "ratedeaths_last7": "1.62",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.74",
     "avgincidence_last7": "16.54",
@@ -10865,7 +11721,9 @@
     "ratetotal_last7": "115.79",
     "rateactive": "189.55",
     "avgdeaths_last7": "88",
-    "avgtotal_last7": "6287"
+    "ratedeaths_last7": "1.62",
+    "avgtotal_last7": "6287",
+    "numtests": ""
   },
   {
     "numtotal_last7": "44518",
@@ -10879,7 +11737,8 @@
     "numtoday": "6987",
     "numconf": "416554",
     "numrecover": "329138",
-    "ratedeaths_last7": "1.66",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.71",
     "avgincidence_last7": "16.73",
@@ -10903,7 +11762,9 @@
     "ratetotal_last7": "117.14",
     "rateactive": "196.51",
     "avgdeaths_last7": "90",
-    "avgtotal_last7": "6360"
+    "ratedeaths_last7": "1.66",
+    "avgtotal_last7": "6360",
+    "numtests": ""
   },
   {
     "numtotal_last7": "44914",
@@ -10917,7 +11778,8 @@
     "numtoday": "6499",
     "numconf": "423053",
     "numrecover": "338735",
-    "ratedeaths_last7": "1.70",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.56",
     "avgincidence_last7": "16.88",
@@ -10941,7 +11803,9 @@
     "ratetotal_last7": "118.18",
     "rateactive": "188.13",
     "avgdeaths_last7": "92",
-    "avgtotal_last7": "6416"
+    "ratedeaths_last7": "1.70",
+    "avgtotal_last7": "6416",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45566",
@@ -10955,7 +11819,8 @@
     "numtoday": "5981",
     "numconf": "429034",
     "numrecover": "344200",
-    "ratedeaths_last7": "1.73",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.41",
     "avgincidence_last7": "17.13",
@@ -10979,7 +11844,9 @@
     "ratetotal_last7": "119.89",
     "rateactive": "189.26",
     "avgdeaths_last7": "94",
-    "avgtotal_last7": "6509"
+    "ratedeaths_last7": "1.73",
+    "avgtotal_last7": "6509",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45554",
@@ -10993,7 +11860,8 @@
     "numtoday": "6295",
     "numconf": "435329",
     "numrecover": "350011",
-    "ratedeaths_last7": "1.73",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.47",
     "avgincidence_last7": "17.12",
@@ -11017,7 +11885,9 @@
     "ratetotal_last7": "119.86",
     "rateactive": "190.22",
     "avgdeaths_last7": "94",
-    "avgtotal_last7": "6508"
+    "ratedeaths_last7": "1.73",
+    "avgtotal_last7": "6508",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45800",
@@ -11031,7 +11901,8 @@
     "numtoday": "6739",
     "numconf": "442068",
     "numrecover": "355735",
-    "ratedeaths_last7": "1.85",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.55",
     "avgincidence_last7": "17.22",
@@ -11055,7 +11926,9 @@
     "ratetotal_last7": "120.51",
     "rateactive": "192.56",
     "avgdeaths_last7": "100",
-    "avgtotal_last7": "6543"
+    "ratedeaths_last7": "1.85",
+    "avgtotal_last7": "6543",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46271",
@@ -11069,7 +11942,8 @@
     "numtoday": "6771",
     "numconf": "448839",
     "numrecover": "362293",
-    "ratedeaths_last7": "1.99",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.53",
     "avgincidence_last7": "17.39",
@@ -11093,7 +11967,9 @@
     "ratetotal_last7": "121.75",
     "rateactive": "192.75",
     "avgdeaths_last7": "108",
-    "avgtotal_last7": "6610"
+    "ratedeaths_last7": "1.99",
+    "avgtotal_last7": "6610",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45982",
@@ -11107,7 +11983,8 @@
     "numtoday": "6710",
     "numconf": "455549",
     "numrecover": "368474",
-    "ratedeaths_last7": "2.03",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.49",
     "avgincidence_last7": "17.28",
@@ -11131,7 +12008,9 @@
     "ratetotal_last7": "120.99",
     "rateactive": "193.81",
     "avgdeaths_last7": "110",
-    "avgtotal_last7": "6569"
+    "ratedeaths_last7": "2.03",
+    "avgtotal_last7": "6569",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45575",
@@ -11145,7 +12024,8 @@
     "numtoday": "6580",
     "numconf": "462129",
     "numrecover": "373253",
-    "ratedeaths_last7": "2.05",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.44",
     "avgincidence_last7": "17.13",
@@ -11169,7 +12049,9 @@
     "ratetotal_last7": "119.92",
     "rateactive": "198.30",
     "avgdeaths_last7": "111",
-    "avgtotal_last7": "6511"
+    "ratedeaths_last7": "2.05",
+    "avgtotal_last7": "6511",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45807",
@@ -11183,7 +12065,8 @@
     "numtoday": "6731",
     "numconf": "468860",
     "numrecover": "379467",
-    "ratedeaths_last7": "2.04",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.46",
     "avgincidence_last7": "17.22",
@@ -11207,7 +12090,9 @@
     "ratetotal_last7": "120.53",
     "rateactive": "199.45",
     "avgdeaths_last7": "111",
-    "avgtotal_last7": "6544"
+    "ratedeaths_last7": "2.04",
+    "avgtotal_last7": "6544",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46178",
@@ -11221,7 +12106,8 @@
     "numtoday": "6352",
     "numconf": "475212",
     "numrecover": "385975",
-    "ratedeaths_last7": "2.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.35",
     "avgincidence_last7": "17.36",
@@ -11245,7 +12131,9 @@
     "ratetotal_last7": "121.50",
     "rateactive": "198.74",
     "avgdeaths_last7": "114",
-    "avgtotal_last7": "6597"
+    "ratedeaths_last7": "2.10",
+    "avgtotal_last7": "6597",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46299",
@@ -11259,7 +12147,8 @@
     "numtoday": "6416",
     "numconf": "481628",
     "numrecover": "391946",
-    "ratedeaths_last7": "2.16",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.35",
     "avgincidence_last7": "17.40",
@@ -11283,7 +12172,9 @@
     "ratetotal_last7": "121.82",
     "rateactive": "199.54",
     "avgdeaths_last7": "117",
-    "avgtotal_last7": "6614"
+    "ratedeaths_last7": "2.16",
+    "avgtotal_last7": "6614",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46568",
@@ -11297,7 +12188,8 @@
     "numtoday": "7008",
     "numconf": "488636",
     "numrecover": "398412",
-    "ratedeaths_last7": "2.14",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.46",
     "avgincidence_last7": "17.50",
@@ -11321,7 +12213,9 @@
     "ratetotal_last7": "122.53",
     "rateactive": "200.66",
     "avgdeaths_last7": "116",
-    "avgtotal_last7": "6653"
+    "ratedeaths_last7": "2.14",
+    "avgtotal_last7": "6653",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46504",
@@ -11335,7 +12229,8 @@
     "numtoday": "6707",
     "numconf": "495343",
     "numrecover": "405611",
-    "ratedeaths_last7": "2.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.37",
     "avgincidence_last7": "17.48",
@@ -11359,7 +12254,9 @@
     "ratetotal_last7": "122.36",
     "rateactive": "199.04",
     "avgdeaths_last7": "114",
-    "avgtotal_last7": "6643"
+    "ratedeaths_last7": "2.09",
+    "avgtotal_last7": "6643",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46693",
@@ -11373,7 +12270,8 @@
     "numtoday": "6899",
     "numconf": "502242",
     "numrecover": "411396",
-    "ratedeaths_last7": "2.13",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.39",
     "avgincidence_last7": "17.55",
@@ -11397,7 +12295,9 @@
     "ratetotal_last7": "122.86",
     "rateactive": "201.60",
     "avgdeaths_last7": "116",
-    "avgtotal_last7": "6670"
+    "ratedeaths_last7": "2.13",
+    "avgtotal_last7": "6670",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46802",
@@ -11411,7 +12311,8 @@
     "numtoday": "6689",
     "numconf": "508931",
     "numrecover": "416708",
-    "ratedeaths_last7": "2.09",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.33",
     "avgincidence_last7": "17.59",
@@ -11435,7 +12336,9 @@
     "ratetotal_last7": "123.15",
     "rateactive": "205.01",
     "avgdeaths_last7": "114",
-    "avgtotal_last7": "6686"
+    "ratedeaths_last7": "2.09",
+    "avgtotal_last7": "6686",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46452",
@@ -11449,7 +12352,8 @@
     "numtoday": "6381",
     "numconf": "515312",
     "numrecover": "423621",
-    "ratedeaths_last7": "2.06",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.25",
     "avgincidence_last7": "17.46",
@@ -11473,7 +12377,9 @@
     "ratetotal_last7": "122.23",
     "rateactive": "203.43",
     "avgdeaths_last7": "112",
-    "avgtotal_last7": "6636"
+    "ratedeaths_last7": "2.06",
+    "avgtotal_last7": "6636",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46296",
@@ -11487,7 +12393,8 @@
     "numtoday": "6196",
     "numconf": "521508",
     "numrecover": "431561",
-    "ratedeaths_last7": "2.01",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.20",
     "avgincidence_last7": "17.40",
@@ -11511,7 +12418,9 @@
     "ratetotal_last7": "121.81",
     "rateactive": "198.60",
     "avgdeaths_last7": "109",
-    "avgtotal_last7": "6614"
+    "ratedeaths_last7": "2.01",
+    "avgtotal_last7": "6614",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46725",
@@ -11525,7 +12434,8 @@
     "numtoday": "6845",
     "numconf": "528353",
     "numrecover": "438452",
-    "ratedeaths_last7": "2.10",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.31",
     "avgincidence_last7": "17.56",
@@ -11549,7 +12459,9 @@
     "ratetotal_last7": "122.94",
     "rateactive": "198.02",
     "avgdeaths_last7": "114",
-    "avgtotal_last7": "6675"
+    "ratedeaths_last7": "2.10",
+    "avgtotal_last7": "6675",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46513",
@@ -11563,7 +12475,8 @@
     "numtoday": "6796",
     "numconf": "535149",
     "numrecover": "444064",
-    "ratedeaths_last7": "2.19",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.29",
     "avgincidence_last7": "17.48",
@@ -11587,7 +12500,9 @@
     "ratetotal_last7": "122.39",
     "rateactive": "200.74",
     "avgdeaths_last7": "119",
-    "avgtotal_last7": "6645"
+    "ratedeaths_last7": "2.19",
+    "avgtotal_last7": "6645",
+    "numtests": ""
   },
   {
     "numtotal_last7": "43898",
@@ -11601,7 +12516,8 @@
     "numtoday": "4092",
     "numconf": "539241",
     "numrecover": "444066",
-    "ratedeaths_last7": "1.98",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.76",
     "avgincidence_last7": "16.50",
@@ -11625,7 +12541,9 @@
     "ratetotal_last7": "115.51",
     "rateactive": "211.38",
     "avgdeaths_last7": "107",
-    "avgtotal_last7": "6271"
+    "ratedeaths_last7": "1.98",
+    "avgtotal_last7": "6271",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45128",
@@ -11639,7 +12557,8 @@
     "numtoday": "8129",
     "numconf": "547370",
     "numrecover": "448223",
-    "ratedeaths_last7": "2.16",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.51",
     "avgincidence_last7": "16.96",
@@ -11663,7 +12582,9 @@
     "ratetotal_last7": "118.74",
     "rateactive": "221.28",
     "avgdeaths_last7": "117",
-    "avgtotal_last7": "6447"
+    "ratedeaths_last7": "2.16",
+    "avgtotal_last7": "6447",
+    "numtests": ""
   },
   {
     "numtotal_last7": "44342",
@@ -11677,7 +12598,8 @@
     "numtoday": "5903",
     "numconf": "553273",
     "numrecover": "457193",
-    "ratedeaths_last7": "2.22",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.08",
     "avgincidence_last7": "16.67",
@@ -11701,7 +12623,9 @@
     "ratetotal_last7": "116.67",
     "rateactive": "212.93",
     "avgdeaths_last7": "121",
-    "avgtotal_last7": "6335"
+    "ratedeaths_last7": "2.22",
+    "avgtotal_last7": "6335",
+    "numtests": ""
   },
   {
     "numtotal_last7": "43751",
@@ -11715,7 +12639,8 @@
     "numtoday": "5790",
     "numconf": "559063",
     "numrecover": "465973",
-    "ratedeaths_last7": "2.34",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.05",
     "avgincidence_last7": "16.45",
@@ -11739,7 +12664,9 @@
     "ratetotal_last7": "115.12",
     "rateactive": "204.77",
     "avgdeaths_last7": "127",
-    "avgtotal_last7": "6250"
+    "ratedeaths_last7": "2.34",
+    "avgtotal_last7": "6250",
+    "numtests": ""
   },
   {
     "numtotal_last7": "43996",
@@ -11753,7 +12680,8 @@
     "numtoday": "6441",
     "numconf": "565504",
     "numrecover": "477857",
-    "ratedeaths_last7": "2.51",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.15",
     "avgincidence_last7": "16.54",
@@ -11777,7 +12705,9 @@
     "ratetotal_last7": "115.76",
     "rateactive": "190.03",
     "avgdeaths_last7": "136",
-    "avgtotal_last7": "6285"
+    "ratedeaths_last7": "2.51",
+    "avgtotal_last7": "6285",
+    "numtests": ""
   },
   {
     "numtotal_last7": "44628",
@@ -11791,7 +12721,8 @@
     "numtoday": "7477",
     "numconf": "572981",
     "numrecover": "484583",
-    "ratedeaths_last7": "2.30",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.32",
     "avgincidence_last7": "16.78",
@@ -11815,7 +12746,9 @@
     "ratetotal_last7": "117.43",
     "rateactive": "191.76",
     "avgdeaths_last7": "125",
-    "avgtotal_last7": "6375"
+    "ratedeaths_last7": "2.30",
+    "avgtotal_last7": "6375",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46278",
@@ -11829,7 +12762,8 @@
     "numtoday": "8446",
     "numconf": "581427",
     "numrecover": "489811",
-    "ratedeaths_last7": "2.25",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.47",
     "avgincidence_last7": "17.40",
@@ -11853,7 +12787,9 @@
     "ratetotal_last7": "121.77",
     "rateactive": "199.88",
     "avgdeaths_last7": "122",
-    "avgtotal_last7": "6611"
+    "ratedeaths_last7": "2.25",
+    "avgtotal_last7": "6611",
+    "numtests": ""
   },
   {
     "numtotal_last7": "49698",
@@ -11867,7 +12803,8 @@
     "numtoday": "7512",
     "numconf": "588939",
     "numrecover": "492277",
-    "ratedeaths_last7": "2.50",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.29",
     "avgincidence_last7": "18.68",
@@ -11891,7 +12828,9 @@
     "ratetotal_last7": "130.77",
     "rateactive": "212.80",
     "avgdeaths_last7": "136",
-    "avgtotal_last7": "7100"
+    "ratedeaths_last7": "2.50",
+    "avgtotal_last7": "7100",
+    "numtests": ""
   },
   {
     "numtotal_last7": "49006",
@@ -11905,7 +12844,8 @@
     "numtoday": "7437",
     "numconf": "596376",
     "numrecover": "495081",
-    "ratedeaths_last7": "2.16",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.26",
     "avgincidence_last7": "18.42",
@@ -11929,7 +12869,9 @@
     "ratetotal_last7": "128.95",
     "rateactive": "224.77",
     "avgdeaths_last7": "117",
-    "avgtotal_last7": "7001"
+    "ratedeaths_last7": "2.16",
+    "avgtotal_last7": "7001",
+    "numtests": ""
   },
   {
     "numtotal_last7": "50240",
@@ -11943,7 +12885,8 @@
     "numtoday": "7137",
     "numconf": "603513",
     "numrecover": "504976",
-    "ratedeaths_last7": "1.99",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.20",
     "avgincidence_last7": "18.88",
@@ -11967,7 +12910,9 @@
     "ratetotal_last7": "132.19",
     "rateactive": "217.41",
     "avgdeaths_last7": "108",
-    "avgtotal_last7": "7177"
+    "ratedeaths_last7": "1.99",
+    "avgtotal_last7": "7177",
+    "numtests": ""
   },
   {
     "numtotal_last7": "52361",
@@ -11981,7 +12926,8 @@
     "numtoday": "7911",
     "numconf": "611424",
     "numrecover": "517884",
-    "ratedeaths_last7": "2.24",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.31",
     "avgincidence_last7": "19.68",
@@ -12005,7 +12951,9 @@
     "ratetotal_last7": "137.77",
     "rateactive": "203.71",
     "avgdeaths_last7": "122",
-    "avgtotal_last7": "7480"
+    "ratedeaths_last7": "2.24",
+    "avgtotal_last7": "7480",
+    "numtests": ""
   },
   {
     "numtotal_last7": "53367",
@@ -12019,7 +12967,8 @@
     "numtoday": "7447",
     "numconf": "618871",
     "numrecover": "523564",
-    "ratedeaths_last7": "2.25",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.22",
     "avgincidence_last7": "20.06",
@@ -12043,7 +12992,9 @@
     "ratetotal_last7": "140.42",
     "rateactive": "207.94",
     "avgdeaths_last7": "122",
-    "avgtotal_last7": "7624"
+    "ratedeaths_last7": "2.25",
+    "avgtotal_last7": "7624",
+    "numtests": ""
   },
   {
     "numtotal_last7": "54262",
@@ -12057,7 +13008,8 @@
     "numtoday": "8372",
     "numconf": "627243",
     "numrecover": "531227",
-    "ratedeaths_last7": "2.36",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.35",
     "avgincidence_last7": "20.40",
@@ -12081,7 +13033,9 @@
     "ratetotal_last7": "142.78",
     "rateactive": "209.45",
     "avgdeaths_last7": "128",
-    "avgtotal_last7": "7752"
+    "ratedeaths_last7": "2.36",
+    "avgtotal_last7": "7752",
+    "numtests": ""
   },
   {
     "numtotal_last7": "54156",
@@ -12095,7 +13049,8 @@
     "numtoday": "8340",
     "numconf": "635583",
     "numrecover": "538267",
-    "ratedeaths_last7": "2.56",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.33",
     "avgincidence_last7": "20.36",
@@ -12119,7 +13074,9 @@
     "ratetotal_last7": "142.50",
     "rateactive": "212.32",
     "avgdeaths_last7": "139",
-    "avgtotal_last7": "7737"
+    "ratedeaths_last7": "2.56",
+    "avgtotal_last7": "7737",
+    "numtests": ""
   },
   {
     "numtotal_last7": "55410",
@@ -12133,7 +13090,8 @@
     "numtoday": "8766",
     "numconf": "644349",
     "numrecover": "545971",
-    "ratedeaths_last7": "2.54",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.38",
     "avgincidence_last7": "20.83",
@@ -12157,7 +13115,9 @@
     "ratetotal_last7": "145.80",
     "rateactive": "214.77",
     "avgdeaths_last7": "138",
-    "avgtotal_last7": "7916"
+    "ratedeaths_last7": "2.54",
+    "avgtotal_last7": "7916",
+    "numtests": ""
   },
   {
     "numtotal_last7": "56638",
@@ -12171,7 +13131,8 @@
     "numtoday": "8665",
     "numconf": "653014",
     "numrecover": "552388",
-    "ratedeaths_last7": "2.68",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.34",
     "avgincidence_last7": "21.29",
@@ -12195,7 +13156,9 @@
     "ratetotal_last7": "149.03",
     "rateactive": "220.33",
     "avgdeaths_last7": "146",
-    "avgtotal_last7": "8091"
+    "ratedeaths_last7": "2.68",
+    "avgtotal_last7": "8091",
+    "numtests": ""
   },
   {
     "numtotal_last7": "57821",
@@ -12209,7 +13172,8 @@
     "numtoday": "8320",
     "numconf": "661334",
     "numrecover": "558772",
-    "ratedeaths_last7": "2.90",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.27",
     "avgincidence_last7": "21.73",
@@ -12233,7 +13197,9 @@
     "ratetotal_last7": "152.14",
     "rateactive": "225.10",
     "avgdeaths_last7": "157",
-    "avgtotal_last7": "8260"
+    "ratedeaths_last7": "2.90",
+    "avgtotal_last7": "8260",
+    "numtests": ""
   },
   {
     "numtotal_last7": "56759",
@@ -12247,7 +13213,8 @@
     "numtoday": "6849",
     "numconf": "668183",
     "numrecover": "568573",
-    "ratedeaths_last7": "2.66",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.04",
     "avgincidence_last7": "21.34",
@@ -12271,7 +13238,9 @@
     "ratetotal_last7": "149.35",
     "rateactive": "217.02",
     "avgdeaths_last7": "144",
-    "avgtotal_last7": "8108"
+    "ratedeaths_last7": "2.66",
+    "avgtotal_last7": "8108",
+    "numtests": ""
   },
   {
     "numtotal_last7": "55599",
@@ -12285,7 +13254,8 @@
     "numtoday": "6287",
     "numconf": "674470",
     "numrecover": "576447",
-    "ratedeaths_last7": "2.63",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.94",
     "avgincidence_last7": "20.90",
@@ -12309,7 +13279,9 @@
     "ratetotal_last7": "146.29",
     "rateactive": "212.46",
     "avgdeaths_last7": "143",
-    "avgtotal_last7": "7943"
+    "ratedeaths_last7": "2.63",
+    "avgtotal_last7": "7943",
+    "numtests": ""
   },
   {
     "numtotal_last7": "54087",
@@ -12323,7 +13295,8 @@
     "numtoday": "6860",
     "numconf": "681330",
     "numrecover": "584652",
-    "ratedeaths_last7": "2.67",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.02",
     "avgincidence_last7": "20.33",
@@ -12347,7 +13320,9 @@
     "ratetotal_last7": "142.31",
     "rateactive": "208.52",
     "avgdeaths_last7": "145",
-    "avgtotal_last7": "7727"
+    "ratedeaths_last7": "2.67",
+    "avgtotal_last7": "7727",
+    "numtests": ""
   },
   {
     "numtotal_last7": "53312",
@@ -12361,7 +13336,8 @@
     "numtoday": "7565",
     "numconf": "688895",
     "numrecover": "593397",
-    "ratedeaths_last7": "2.52",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.11",
     "avgincidence_last7": "20.04",
@@ -12385,7 +13361,9 @@
     "ratetotal_last7": "140.28",
     "rateactive": "205.01",
     "avgdeaths_last7": "137",
-    "avgtotal_last7": "7616"
+    "ratedeaths_last7": "2.52",
+    "avgtotal_last7": "7616",
+    "numtests": ""
   },
   {
     "numtotal_last7": "51355",
@@ -12399,7 +13377,8 @@
     "numtoday": "6809",
     "numconf": "695704",
     "numrecover": "601910",
-    "ratedeaths_last7": "2.57",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.99",
     "avgincidence_last7": "19.30",
@@ -12423,7 +13402,9 @@
     "ratetotal_last7": "135.13",
     "rateactive": "200.15",
     "avgdeaths_last7": "139",
-    "avgtotal_last7": "7336"
+    "ratedeaths_last7": "2.57",
+    "avgtotal_last7": "7336",
+    "numtests": ""
   },
   {
     "numtotal_last7": "49753",
@@ -12437,7 +13418,8 @@
     "numtoday": "7063",
     "numconf": "702767",
     "numrecover": "608084",
-    "ratedeaths_last7": "2.61",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.02",
     "avgincidence_last7": "18.70",
@@ -12461,7 +13443,9 @@
     "ratetotal_last7": "130.91",
     "rateactive": "202.08",
     "avgdeaths_last7": "142",
-    "avgtotal_last7": "7108"
+    "ratedeaths_last7": "2.61",
+    "avgtotal_last7": "7108",
+    "numtests": ""
   },
   {
     "numtotal_last7": "48513",
@@ -12475,7 +13459,8 @@
     "numtoday": "7080",
     "numconf": "709847",
     "numrecover": "615324",
-    "ratedeaths_last7": "2.70",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "1.01",
     "avgincidence_last7": "18.24",
@@ -12499,7 +13484,9 @@
     "ratetotal_last7": "127.65",
     "rateactive": "201.24",
     "avgdeaths_last7": "147",
-    "avgtotal_last7": "6930"
+    "ratedeaths_last7": "2.70",
+    "avgtotal_last7": "6930",
+    "numtests": ""
   },
   {
     "numtotal_last7": "46889",
@@ -12513,7 +13500,8 @@
     "numtoday": "5225",
     "numconf": "715072",
     "numrecover": "623033",
-    "ratedeaths_last7": "2.60",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.74",
     "avgincidence_last7": "17.63",
@@ -12537,7 +13525,9 @@
     "ratetotal_last7": "123.38",
     "rateactive": "194.50",
     "avgdeaths_last7": "141",
-    "avgtotal_last7": "6698"
+    "ratedeaths_last7": "2.60",
+    "avgtotal_last7": "6698",
+    "numtests": ""
   },
   {
     "numtotal_last7": "45281",
@@ -12551,7 +13541,8 @@
     "numtoday": "4679",
     "numconf": "719751",
     "numrecover": "630430",
-    "ratedeaths_last7": "2.60",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.65",
     "avgincidence_last7": "17.02",
@@ -12575,7 +13566,9 @@
     "ratetotal_last7": "119.14",
     "rateactive": "186.96",
     "avgdeaths_last7": "141",
-    "avgtotal_last7": "6469"
+    "ratedeaths_last7": "2.60",
+    "avgtotal_last7": "6469",
+    "numtests": ""
   },
   {
     "numtotal_last7": "44165",
@@ -12589,7 +13582,8 @@
     "numtoday": "5744",
     "numconf": "725495",
     "numrecover": "638620",
-    "ratedeaths_last7": "2.72",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.80",
     "avgincidence_last7": "16.60",
@@ -12613,7 +13607,9 @@
     "ratetotal_last7": "116.21",
     "rateactive": "180.01",
     "avgdeaths_last7": "148",
-    "avgtotal_last7": "6309"
+    "ratedeaths_last7": "2.72",
+    "avgtotal_last7": "6309",
+    "numtests": ""
   },
   {
     "numtotal_last7": "42555",
@@ -12627,7 +13623,8 @@
     "numtoday": "5955",
     "numconf": "731450",
     "numrecover": "645729",
-    "ratedeaths_last7": "2.74",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.82",
     "avgincidence_last7": "16.00",
@@ -12651,7 +13648,9 @@
     "ratetotal_last7": "111.97",
     "rateactive": "176.55",
     "avgdeaths_last7": "149",
-    "avgtotal_last7": "6079"
+    "ratedeaths_last7": "2.74",
+    "avgtotal_last7": "6079",
+    "numtests": ""
   },
   {
     "numtotal_last7": "41703",
@@ -12665,7 +13664,8 @@
     "numtoday": "5957",
     "numconf": "737407",
     "numrecover": "652829",
-    "ratedeaths_last7": "2.89",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.81",
     "avgincidence_last7": "15.68",
@@ -12689,7 +13689,9 @@
     "ratetotal_last7": "109.73",
     "rateactive": "173.00",
     "avgdeaths_last7": "157",
-    "avgtotal_last7": "5958"
+    "ratedeaths_last7": "2.89",
+    "avgtotal_last7": "5958",
+    "numtests": ""
   },
   {
     "numtotal_last7": "40291",
@@ -12703,7 +13705,8 @@
     "numtoday": "5651",
     "numconf": "743058",
     "numrecover": "658984",
-    "ratedeaths_last7": "2.87",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.77",
     "avgincidence_last7": "15.14",
@@ -12727,7 +13730,9 @@
     "ratetotal_last7": "106.01",
     "rateactive": "171.29",
     "avgdeaths_last7": "156",
-    "avgtotal_last7": "5756"
+    "ratedeaths_last7": "2.87",
+    "avgtotal_last7": "5756",
+    "numtests": ""
   },
   {
     "numtotal_last7": "38534",
@@ -12741,7 +13746,8 @@
     "numtoday": "5323",
     "numconf": "748381",
     "numrecover": "664621",
-    "ratedeaths_last7": "2.77",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.72",
     "avgincidence_last7": "14.48",
@@ -12765,7 +13771,9 @@
     "ratetotal_last7": "101.39",
     "rateactive": "170.15",
     "avgdeaths_last7": "151",
-    "avgtotal_last7": "5505"
+    "ratedeaths_last7": "2.77",
+    "avgtotal_last7": "5505",
+    "numtests": ""
   },
   {
     "numtotal_last7": "37939",
@@ -12779,7 +13787,8 @@
     "numtoday": "4630",
     "numconf": "753011",
     "numrecover": "671326",
-    "ratedeaths_last7": "2.94",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.62",
     "avgincidence_last7": "14.26",
@@ -12803,7 +13812,9 @@
     "ratetotal_last7": "99.83",
     "rateactive": "164.31",
     "avgdeaths_last7": "160",
-    "avgtotal_last7": "5420"
+    "ratedeaths_last7": "2.94",
+    "avgtotal_last7": "5420",
+    "numtests": ""
   },
   {
     "numtotal_last7": "37271",
@@ -12817,7 +13828,8 @@
     "numtoday": "4011",
     "numconf": "757022",
     "numrecover": "678068",
-    "ratedeaths_last7": "2.99",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.53",
     "avgincidence_last7": "14.01",
@@ -12841,7 +13853,9 @@
     "ratetotal_last7": "98.07",
     "rateactive": "156.69",
     "avgdeaths_last7": "162",
-    "avgtotal_last7": "5324"
+    "ratedeaths_last7": "2.99",
+    "avgtotal_last7": "5324",
+    "numtests": ""
   },
   {
     "numtotal_last7": "35731",
@@ -12855,7 +13869,8 @@
     "numtoday": "4204",
     "numconf": "761226",
     "numrecover": "683953",
-    "ratedeaths_last7": "2.82",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.56",
     "avgincidence_last7": "13.43",
@@ -12879,7 +13894,9 @@
     "ratetotal_last7": "94.02",
     "rateactive": "151.93",
     "avgdeaths_last7": "153",
-    "avgtotal_last7": "5104"
+    "ratedeaths_last7": "2.82",
+    "avgtotal_last7": "5104",
+    "numtests": ""
   },
   {
     "numtotal_last7": "34653",
@@ -12893,7 +13910,8 @@
     "numtoday": "4877",
     "numconf": "766103",
     "numrecover": "689419",
-    "ratedeaths_last7": "2.74",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.64",
     "avgincidence_last7": "13.03",
@@ -12917,7 +13935,9 @@
     "ratetotal_last7": "91.18",
     "rateactive": "150.03",
     "avgdeaths_last7": "149",
-    "avgtotal_last7": "4950"
+    "ratedeaths_last7": "2.74",
+    "avgtotal_last7": "4950",
+    "numtests": ""
   },
   {
     "numtotal_last7": "33386",
@@ -12931,7 +13951,8 @@
     "numtoday": "4690",
     "numconf": "770793",
     "numrecover": "695679",
-    "ratedeaths_last7": "2.56",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.61",
     "avgincidence_last7": "12.55",
@@ -12955,7 +13976,9 @@
     "ratetotal_last7": "87.85",
     "rateactive": "145.54",
     "avgdeaths_last7": "139",
-    "avgtotal_last7": "4769"
+    "ratedeaths_last7": "2.56",
+    "avgtotal_last7": "4769",
+    "numtests": ""
   },
   {
     "numtotal_last7": "31990",
@@ -12969,7 +13992,8 @@
     "numtoday": "4255",
     "numconf": "775048",
     "numrecover": "700920",
-    "ratedeaths_last7": "2.55",
+    "numteststoday": "",
+    "ratetests": "",
     "prname": "Canada",
     "percentoday": "0.55",
     "avgincidence_last7": "12.02",
@@ -12993,7 +14017,9 @@
     "ratetotal_last7": "84.17",
     "rateactive": "142.58",
     "avgdeaths_last7": "138",
-    "avgtotal_last7": "4570"
+    "ratedeaths_last7": "2.55",
+    "avgtotal_last7": "4570",
+    "numtests": ""
   },
   {
     "numtotal_last7": "30591",
@@ -13007,7 +14033,8 @@
     "numtoday": "3924",
     "numconf": "778972",
     "numrecover": "705659",
-    "ratedeaths_last7": "2.47",
+    "numteststoday": "99999",
+    "ratetests": "2631",
     "prname": "Canada",
     "percentoday": "0.51",
     "avgincidence_last7": "11.50",
@@ -13031,6 +14058,8 @@
     "ratetotal_last7": "80.49",
     "rateactive": "140.19",
     "avgdeaths_last7": "134",
-    "avgtotal_last7": "4370"
+    "ratedeaths_last7": "2.47",
+    "avgtotal_last7": "4370",
+    "numtests": "99999"
   }
 ]
