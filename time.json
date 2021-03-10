@@ -1,17 +1,17 @@
 {
   "abbreviation": "PST",
-  "client_ip": "20.36.203.90",
-  "datetime": "2021-03-09T15:45:54.009010-08:00",
-  "day_of_week": 2,
-  "day_of_year": 68,
+  "client_ip": "52.254.73.14",
+  "datetime": "2021-03-10T15:45:26.234684-08:00",
+  "day_of_week": 3,
+  "day_of_year": 69,
   "dst": false,
   "dst_from": null,
   "dst_offset": 0,
   "dst_until": null,
   "raw_offset": -28800,
   "timezone": "America/Vancouver",
-  "unixtime": 1615333554,
-  "utc_datetime": "2021-03-09T23:45:54.009010+00:00",
+  "unixtime": 1615419926,
+  "utc_datetime": "2021-03-10T23:45:26.234684+00:00",
   "utc_offset": "-08:00",
   "week_number": 10
 }
