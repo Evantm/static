@@ -38,7 +38,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "0"
   },
   {
     "numtotal_last7": "",
@@ -53,7 +53,7 @@
     "numconf": "4",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "12",
     "prname": "British Columbia",
     "percentoday": "300.00",
     "avgincidence_last7": "",
@@ -79,7 +79,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "63"
   },
   {
     "numtotal_last7": "",
@@ -94,7 +94,7 @@
     "numconf": "5",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "21",
     "prname": "British Columbia",
     "percentoday": "25.00",
     "avgincidence_last7": "",
@@ -120,7 +120,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "109"
   },
   {
     "numtotal_last7": "",
@@ -135,7 +135,7 @@
     "numconf": "6",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "32",
     "prname": "British Columbia",
     "percentoday": "20.00",
     "avgincidence_last7": "",
@@ -161,7 +161,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "166"
   },
   {
     "numtotal_last7": "",
@@ -176,7 +176,7 @@
     "numconf": "6",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "41",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -202,7 +202,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "212"
   },
   {
     "numtotal_last7": "",
@@ -217,7 +217,7 @@
     "numconf": "7",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "45",
     "prname": "British Columbia",
     "percentoday": "16.67",
     "avgincidence_last7": "",
@@ -243,7 +243,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "230"
   },
   {
     "numtotal_last7": "",
@@ -258,7 +258,7 @@
     "numconf": "7",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "57",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -284,7 +284,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "292"
   },
   {
     "numtotal_last7": "",
@@ -299,7 +299,7 @@
     "numconf": "7",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "72",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -325,7 +325,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "369"
   },
   {
     "numtotal_last7": "",
@@ -340,7 +340,7 @@
     "numconf": "7",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "99",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -366,7 +366,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "510"
   },
   {
     "numtotal_last7": "",
@@ -381,7 +381,7 @@
     "numconf": "8",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "120",
     "prname": "British Columbia",
     "percentoday": "14.29",
     "avgincidence_last7": "",
@@ -407,7 +407,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "616"
   },
   {
     "numtotal_last7": "",
@@ -422,7 +422,7 @@
     "numconf": "12",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "134",
     "prname": "British Columbia",
     "percentoday": "50.00",
     "avgincidence_last7": "",
@@ -448,7 +448,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "690"
   },
   {
     "numtotal_last7": "",
@@ -463,7 +463,7 @@
     "numconf": "21",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "203",
     "prname": "British Columbia",
     "percentoday": "75.00",
     "avgincidence_last7": "",
@@ -489,7 +489,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "1045"
   },
   {
     "numtotal_last7": "",
@@ -504,7 +504,7 @@
     "numconf": "21",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "255",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -530,7 +530,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "1313"
   },
   {
     "numtotal_last7": "",
@@ -545,7 +545,7 @@
     "numconf": "27",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "322",
     "prname": "British Columbia",
     "percentoday": "28.57",
     "avgincidence_last7": "",
@@ -571,7 +571,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "1655"
   },
   {
     "numtotal_last7": "",
@@ -586,7 +586,7 @@
     "numconf": "27",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "481",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -612,7 +612,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "2478"
   },
   {
     "numtotal_last7": "",
@@ -627,7 +627,7 @@
     "numconf": "32",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "581",
     "prname": "British Columbia",
     "percentoday": "18.52",
     "avgincidence_last7": "",
@@ -653,7 +653,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "2989"
   },
   {
     "numtotal_last7": "",
@@ -668,7 +668,7 @@
     "numconf": "39",
     "numrecover": "",
     "numteststoday": "",
-    "ratetests": "",
+    "ratetests": "689",
     "prname": "British Columbia",
     "percentoday": "21.88",
     "avgincidence_last7": "",
@@ -694,7 +694,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "3545"
   },
   {
     "numtotal_last7": "",
@@ -708,8 +708,8 @@
     "numtoday": "7",
     "numconf": "46",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "809",
+    "ratetests": "846",
     "prname": "British Columbia",
     "percentoday": "17.95",
     "avgincidence_last7": "",
@@ -735,7 +735,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "4354"
   },
   {
     "numtotal_last7": "",
@@ -749,8 +749,8 @@
     "numtoday": "7",
     "numconf": "53",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1252",
+    "ratetests": "1089",
     "prname": "British Columbia",
     "percentoday": "15.22",
     "avgincidence_last7": "",
@@ -776,7 +776,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "5606"
   },
   {
     "numtotal_last7": "",
@@ -790,8 +790,8 @@
     "numtoday": "11",
     "numconf": "64",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1166",
+    "ratetests": "1316",
     "prname": "British Columbia",
     "percentoday": "20.75",
     "avgincidence_last7": "",
@@ -817,7 +817,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "6772"
   },
   {
     "numtotal_last7": "",
@@ -831,8 +831,8 @@
     "numtoday": "9",
     "numconf": "73",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1541",
+    "ratetests": "1615",
     "prname": "British Columbia",
     "percentoday": "14.06",
     "avgincidence_last7": "",
@@ -858,7 +858,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "8313"
   },
   {
     "numtotal_last7": "",
@@ -872,8 +872,8 @@
     "numtoday": "0",
     "numconf": "73",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1550",
+    "ratetests": "1916",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -899,7 +899,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "9863"
   },
   {
     "numtotal_last7": "",
@@ -913,8 +913,8 @@
     "numtoday": "30",
     "numconf": "103",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1810",
+    "ratetests": "2268",
     "prname": "British Columbia",
     "percentoday": "41.10",
     "avgincidence_last7": "",
@@ -940,7 +940,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "11673"
   },
   {
     "numtotal_last7": "",
@@ -954,8 +954,8 @@
     "numtoday": "83",
     "numconf": "186",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3517",
+    "ratetests": "2951",
     "prname": "British Columbia",
     "percentoday": "80.58",
     "avgincidence_last7": "",
@@ -981,7 +981,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "15190"
   },
   {
     "numtotal_last7": "",
@@ -995,8 +995,8 @@
     "numtoday": "85",
     "numconf": "271",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3056",
+    "ratetests": "3544",
     "prname": "British Columbia",
     "percentoday": "45.70",
     "avgincidence_last7": "",
@@ -1022,7 +1022,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "18246"
   },
   {
     "numtotal_last7": "",
@@ -1036,8 +1036,8 @@
     "numtoday": "0",
     "numconf": "271",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1146",
+    "ratetests": "3767",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -1063,7 +1063,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "19392"
   },
   {
     "numtotal_last7": "",
@@ -1077,8 +1077,8 @@
     "numtoday": "153",
     "numconf": "424",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "837",
+    "ratetests": "3930",
     "prname": "British Columbia",
     "percentoday": "56.46",
     "avgincidence_last7": "",
@@ -1104,7 +1104,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "20229"
   },
   {
     "numtotal_last7": "",
@@ -1118,8 +1118,8 @@
     "numtoday": "0",
     "numconf": "424",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1511",
+    "ratetests": "4223",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "",
@@ -1145,7 +1145,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "21740"
   },
   {
     "numtotal_last7": "",
@@ -1159,8 +1159,8 @@
     "numtoday": "48",
     "numconf": "472",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1975",
+    "ratetests": "4607",
     "prname": "British Columbia",
     "percentoday": "11.32",
     "avgincidence_last7": "",
@@ -1186,7 +1186,7 @@
     "avgdeaths_last7": "",
     "ratedeaths_last7": "",
     "avgtotal_last7": "",
-    "numtests": ""
+    "numtests": "23715"
   },
   {
     "numtotal_last7": "514",
@@ -1200,8 +1200,8 @@
     "numtoday": "145",
     "numconf": "617",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2144",
+    "ratetests": "5023",
     "prname": "British Columbia",
     "percentoday": "30.72",
     "avgincidence_last7": "1.43",
@@ -1227,7 +1227,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "73",
-    "numtests": ""
+    "numtests": "25859"
   },
   {
     "numtotal_last7": "473",
@@ -1241,8 +1241,8 @@
     "numtoday": "42",
     "numconf": "659",
     "numrecover": "",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1971",
+    "ratetests": "5406",
     "prname": "British Columbia",
     "percentoday": "6.81",
     "avgincidence_last7": "1.31",
@@ -1268,7 +1268,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "68",
-    "numtests": ""
+    "numtests": "27830"
   },
   {
     "numtotal_last7": "454",
@@ -1282,8 +1282,8 @@
     "numtoday": "66",
     "numconf": "725",
     "numrecover": "186",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1889",
+    "ratetests": "5773",
     "prname": "British Columbia",
     "percentoday": "10.02",
     "avgincidence_last7": "1.26",
@@ -1309,7 +1309,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "65",
-    "numtests": ""
+    "numtests": "29719"
   },
   {
     "numtotal_last7": "454",
@@ -1323,8 +1323,8 @@
     "numtoday": "0",
     "numconf": "725",
     "numrecover": "186",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2754",
+    "ratetests": "6308",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.26",
@@ -1350,7 +1350,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "65",
-    "numtests": ""
+    "numtests": "32473"
   },
   {
     "numtotal_last7": "460",
@@ -1364,8 +1364,8 @@
     "numtoday": "159",
     "numconf": "884",
     "numrecover": "396",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2673",
+    "ratetests": "6827",
     "prname": "British Columbia",
     "percentoday": "21.93",
     "avgincidence_last7": "1.28",
@@ -1391,7 +1391,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "66",
-    "numtests": ""
+    "numtests": "35146"
   },
   {
     "numtotal_last7": "460",
@@ -1405,8 +1405,8 @@
     "numtoday": "0",
     "numconf": "884",
     "numrecover": "396",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2186",
+    "ratetests": "7252",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.28",
@@ -1432,7 +1432,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "66",
-    "numtests": ""
+    "numtests": "37332"
   },
   {
     "numtotal_last7": "488",
@@ -1446,8 +1446,8 @@
     "numtoday": "76",
     "numconf": "960",
     "numrecover": "469",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1783",
+    "ratetests": "7599",
     "prname": "British Columbia",
     "percentoday": "8.60",
     "avgincidence_last7": "1.35",
@@ -1473,7 +1473,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "70",
-    "numtests": ""
+    "numtests": "39115"
   },
   {
     "numtotal_last7": "353",
@@ -1487,8 +1487,8 @@
     "numtoday": "10",
     "numconf": "970",
     "numrecover": "507",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1595",
+    "ratetests": "7908",
     "prname": "British Columbia",
     "percentoday": "1.04",
     "avgincidence_last7": "0.98",
@@ -1514,7 +1514,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "50",
-    "numtests": ""
+    "numtests": "40710"
   },
   {
     "numtotal_last7": "407",
@@ -1528,8 +1528,8 @@
     "numtoday": "96",
     "numconf": "1066",
     "numrecover": "606",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1000",
+    "ratetests": "8103",
     "prname": "British Columbia",
     "percentoday": "9.90",
     "avgincidence_last7": "1.13",
@@ -1555,7 +1555,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.21",
     "avgtotal_last7": "58",
-    "numtests": ""
+    "numtests": "41710"
   },
   {
     "numtotal_last7": "396",
@@ -1569,8 +1569,8 @@
     "numtoday": "55",
     "numconf": "1121",
     "numrecover": "641",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1089",
+    "ratetests": "8314",
     "prname": "British Columbia",
     "percentoday": "5.16",
     "avgincidence_last7": "1.10",
@@ -1596,7 +1596,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.33",
     "avgtotal_last7": "57",
-    "numtests": ""
+    "numtests": "42799"
   },
   {
     "numtotal_last7": "449",
@@ -1610,8 +1610,8 @@
     "numtoday": "53",
     "numconf": "1174",
     "numrecover": "641",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1187",
+    "ratetests": "8545",
     "prname": "British Columbia",
     "percentoday": "4.73",
     "avgincidence_last7": "1.25",
@@ -1637,7 +1637,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.41",
     "avgtotal_last7": "64",
-    "numtests": ""
+    "numtests": "43986"
   },
   {
     "numtotal_last7": "319",
@@ -1651,8 +1651,8 @@
     "numtoday": "29",
     "numconf": "1203",
     "numrecover": "705",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1145",
+    "ratetests": "8767",
     "prname": "British Columbia",
     "percentoday": "2.47",
     "avgincidence_last7": "0.89",
@@ -1678,7 +1678,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.43",
     "avgtotal_last7": "46",
-    "numtests": ""
+    "numtests": "45131"
   },
   {
     "numtotal_last7": "319",
@@ -1692,8 +1692,8 @@
     "numtoday": "0",
     "numconf": "1203",
     "numrecover": "704",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1215",
+    "ratetests": "9003",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.89",
@@ -1719,7 +1719,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.41",
     "avgtotal_last7": "46",
-    "numtests": ""
+    "numtests": "46346"
   },
   {
     "numtotal_last7": "306",
@@ -1733,8 +1733,8 @@
     "numtoday": "63",
     "numconf": "1266",
     "numrecover": "783",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1247",
+    "ratetests": "9245",
     "prname": "British Columbia",
     "percentoday": "5.24",
     "avgincidence_last7": "0.85",
@@ -1760,7 +1760,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.39",
     "avgtotal_last7": "44",
-    "numtests": ""
+    "numtests": "47593"
   },
   {
     "numtotal_last7": "321",
@@ -1774,8 +1774,8 @@
     "numtoday": "25",
     "numconf": "1291",
     "numrecover": "783",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "763",
+    "ratetests": "9394",
     "prname": "British Columbia",
     "percentoday": "1.97",
     "avgincidence_last7": "0.89",
@@ -1801,7 +1801,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.47",
     "avgtotal_last7": "46",
-    "numtests": ""
+    "numtests": "48356"
   },
   {
     "numtotal_last7": "270",
@@ -1815,8 +1815,8 @@
     "numtoday": "45",
     "numconf": "1336",
     "numrecover": "838",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "792",
+    "ratetests": "9548",
     "prname": "British Columbia",
     "percentoday": "3.49",
     "avgincidence_last7": "0.75",
@@ -1842,7 +1842,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.45",
     "avgtotal_last7": "39",
-    "numtests": ""
+    "numtests": "49148"
   },
   {
     "numtotal_last7": "249",
@@ -1856,8 +1856,8 @@
     "numtoday": "34",
     "numconf": "1370",
     "numrecover": "858",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1124",
+    "ratetests": "9766",
     "prname": "British Columbia",
     "percentoday": "2.54",
     "avgincidence_last7": "0.69",
@@ -1883,7 +1883,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.37",
     "avgtotal_last7": "36",
-    "numtests": ""
+    "numtests": "50272"
   },
   {
     "numtotal_last7": "236",
@@ -1897,8 +1897,8 @@
     "numtoday": "40",
     "numconf": "1410",
     "numrecover": "879",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1203",
+    "ratetests": "10000",
     "prname": "British Columbia",
     "percentoday": "2.92",
     "avgincidence_last7": "0.65",
@@ -1924,7 +1924,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.39",
     "avgtotal_last7": "34",
-    "numtests": ""
+    "numtests": "51475"
   },
   {
     "numtotal_last7": "242",
@@ -1938,8 +1938,8 @@
     "numtoday": "35",
     "numconf": "1445",
     "numrecover": "905",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1190",
+    "ratetests": "10231",
     "prname": "British Columbia",
     "percentoday": "2.48",
     "avgincidence_last7": "0.67",
@@ -1965,7 +1965,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.39",
     "avgtotal_last7": "35",
-    "numtests": ""
+    "numtests": "52665"
   },
   {
     "numtotal_last7": "242",
@@ -1979,8 +1979,8 @@
     "numtoday": "0",
     "numconf": "1445",
     "numrecover": "905",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1540",
+    "ratetests": "10530",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.67",
@@ -2006,7 +2006,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.39",
     "avgtotal_last7": "35",
-    "numtests": ""
+    "numtests": "54205"
   },
   {
     "numtotal_last7": "224",
@@ -2020,8 +2020,8 @@
     "numtoday": "45",
     "numconf": "1490",
     "numrecover": "926",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "980",
+    "ratetests": "10720",
     "prname": "British Columbia",
     "percentoday": "3.11",
     "avgincidence_last7": "0.62",
@@ -2047,7 +2047,7 @@
     "avgdeaths_last7": "4",
     "ratedeaths_last7": "0.58",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "55185"
   },
   {
     "numtotal_last7": "226",
@@ -2061,8 +2061,8 @@
     "numtoday": "27",
     "numconf": "1517",
     "numrecover": "942",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "826",
+    "ratetests": "10881",
     "prname": "British Columbia",
     "percentoday": "1.81",
     "avgincidence_last7": "0.63",
@@ -2088,7 +2088,7 @@
     "avgdeaths_last7": "4",
     "ratedeaths_last7": "0.56",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "56011"
   },
   {
     "numtotal_last7": "225",
@@ -2102,8 +2102,8 @@
     "numtoday": "44",
     "numconf": "1561",
     "numrecover": "955",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "821",
+    "ratetests": "11040",
     "prname": "British Columbia",
     "percentoday": "2.90",
     "avgincidence_last7": "0.62",
@@ -2129,7 +2129,7 @@
     "avgdeaths_last7": "4",
     "ratedeaths_last7": "0.52",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "56832"
   },
   {
     "numtotal_last7": "191",
@@ -2143,8 +2143,8 @@
     "numtoday": "0",
     "numconf": "1561",
     "numrecover": "955",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "696",
+    "ratetests": "11175",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.53",
@@ -2170,7 +2170,7 @@
     "avgdeaths_last7": "4",
     "ratedeaths_last7": "0.49",
     "avgtotal_last7": "27",
-    "numtests": ""
+    "numtests": "57528"
   },
   {
     "numtotal_last7": "165",
@@ -2184,8 +2184,8 @@
     "numtoday": "14",
     "numconf": "1575",
     "numrecover": "955",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1339",
+    "ratetests": "11436",
     "prname": "British Columbia",
     "percentoday": "0.90",
     "avgincidence_last7": "0.46",
@@ -2211,7 +2211,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.43",
     "avgtotal_last7": "24",
-    "numtests": ""
+    "numtests": "58867"
   },
   {
     "numtotal_last7": "173",
@@ -2225,8 +2225,8 @@
     "numtoday": "43",
     "numconf": "1618",
     "numrecover": "966",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1478",
+    "ratetests": "11723",
     "prname": "British Columbia",
     "percentoday": "2.73",
     "avgincidence_last7": "0.48",
@@ -2252,7 +2252,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.39",
     "avgtotal_last7": "25",
-    "numtests": ""
+    "numtests": "60345"
   },
   {
     "numtotal_last7": "173",
@@ -2266,8 +2266,8 @@
     "numtoday": "0",
     "numconf": "1618",
     "numrecover": "966",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1346",
+    "ratetests": "11984",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.48",
@@ -2293,7 +2293,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.39",
     "avgtotal_last7": "25",
-    "numtests": ""
+    "numtests": "61691"
   },
   {
     "numtotal_last7": "209",
@@ -2307,8 +2307,8 @@
     "numtoday": "81",
     "numconf": "1699",
     "numrecover": "1039",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1271",
+    "ratetests": "12231",
     "prname": "British Columbia",
     "percentoday": "5.01",
     "avgincidence_last7": "0.58",
@@ -2334,7 +2334,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.33",
     "avgtotal_last7": "30",
-    "numtests": ""
+    "numtests": "62962"
   },
   {
     "numtotal_last7": "207",
@@ -2348,8 +2348,8 @@
     "numtoday": "25",
     "numconf": "1724",
     "numrecover": "1041",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "971",
+    "ratetests": "12420",
     "prname": "British Columbia",
     "percentoday": "1.47",
     "avgincidence_last7": "0.57",
@@ -2375,7 +2375,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "30",
-    "numtests": ""
+    "numtests": "63933"
   },
   {
     "numtotal_last7": "234",
@@ -2389,8 +2389,8 @@
     "numtoday": "71",
     "numconf": "1795",
     "numrecover": "1079",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1208",
+    "ratetests": "12654",
     "prname": "British Columbia",
     "percentoday": "4.12",
     "avgincidence_last7": "0.65",
@@ -2416,7 +2416,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "33",
-    "numtests": ""
+    "numtests": "65141"
   },
   {
     "numtotal_last7": "263",
@@ -2430,8 +2430,8 @@
     "numtoday": "29",
     "numconf": "1824",
     "numrecover": "1092",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1547",
+    "ratetests": "12955",
     "prname": "British Columbia",
     "percentoday": "1.62",
     "avgincidence_last7": "0.73",
@@ -2457,7 +2457,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.37",
     "avgtotal_last7": "38",
-    "numtests": ""
+    "numtests": "66688"
   },
   {
     "numtotal_last7": "278",
@@ -2471,8 +2471,8 @@
     "numtoday": "29",
     "numconf": "1853",
     "numrecover": "1114",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1727",
+    "ratetests": "13290",
     "prname": "British Columbia",
     "percentoday": "1.59",
     "avgincidence_last7": "0.77",
@@ -2498,7 +2498,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.41",
     "avgtotal_last7": "40",
-    "numtests": ""
+    "numtests": "68415"
   },
   {
     "numtotal_last7": "330",
@@ -2512,8 +2512,8 @@
     "numtoday": "95",
     "numconf": "1948",
     "numrecover": "1137",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2276",
+    "ratetests": "13733",
     "prname": "British Columbia",
     "percentoday": "5.13",
     "avgincidence_last7": "0.92",
@@ -2539,7 +2539,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.43",
     "avgtotal_last7": "47",
-    "numtests": ""
+    "numtests": "70691"
   },
   {
     "numtotal_last7": "330",
@@ -2553,8 +2553,8 @@
     "numtoday": "0",
     "numconf": "1948",
     "numrecover": "1137",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2505",
+    "ratetests": "14219",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.92",
@@ -2580,7 +2580,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.43",
     "avgtotal_last7": "47",
-    "numtests": ""
+    "numtests": "73196"
   },
   {
     "numtotal_last7": "299",
@@ -2594,8 +2594,8 @@
     "numtoday": "50",
     "numconf": "1998",
     "numrecover": "1190",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2552",
+    "ratetests": "14715",
     "prname": "British Columbia",
     "percentoday": "2.57",
     "avgincidence_last7": "0.83",
@@ -2621,7 +2621,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.33",
     "avgtotal_last7": "43",
-    "numtests": ""
+    "numtests": "75748"
   },
   {
     "numtotal_last7": "329",
@@ -2635,8 +2635,8 @@
     "numtoday": "55",
     "numconf": "2053",
     "numrecover": "1231",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2272",
+    "ratetests": "15156",
     "prname": "British Columbia",
     "percentoday": "2.75",
     "avgincidence_last7": "0.91",
@@ -2662,7 +2662,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.35",
     "avgtotal_last7": "47",
-    "numtests": ""
+    "numtests": "78020"
   },
   {
     "numtotal_last7": "292",
@@ -2676,8 +2676,8 @@
     "numtoday": "34",
     "numconf": "2087",
     "numrecover": "1305",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2170",
+    "ratetests": "15578",
     "prname": "British Columbia",
     "percentoday": "1.66",
     "avgincidence_last7": "0.81",
@@ -2703,7 +2703,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.37",
     "avgtotal_last7": "42",
-    "numtests": ""
+    "numtests": "80190"
   },
   {
     "numtotal_last7": "288",
@@ -2717,8 +2717,8 @@
     "numtoday": "25",
     "numconf": "2112",
     "numrecover": "1322",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2694",
+    "ratetests": "16101",
     "prname": "British Columbia",
     "percentoday": "1.20",
     "avgincidence_last7": "0.80",
@@ -2744,7 +2744,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.33",
     "avgtotal_last7": "41",
-    "numtests": ""
+    "numtests": "82884"
   },
   {
     "numtotal_last7": "292",
@@ -2758,8 +2758,8 @@
     "numtoday": "33",
     "numconf": "2145",
     "numrecover": "1357",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2702",
+    "ratetests": "16626",
     "prname": "British Columbia",
     "percentoday": "1.56",
     "avgincidence_last7": "0.81",
@@ -2785,7 +2785,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.27",
     "avgtotal_last7": "42",
-    "numtests": ""
+    "numtests": "85586"
   },
   {
     "numtotal_last7": "223",
@@ -2799,8 +2799,8 @@
     "numtoday": "26",
     "numconf": "2171",
     "numrecover": "1376",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2683",
+    "ratetests": "17147",
     "prname": "British Columbia",
     "percentoday": "1.21",
     "avgincidence_last7": "0.62",
@@ -2826,7 +2826,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.27",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "88269"
   },
   {
     "numtotal_last7": "223",
@@ -2840,8 +2840,8 @@
     "numtoday": "0",
     "numconf": "2171",
     "numrecover": "1376",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2803",
+    "ratetests": "17692",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.62",
@@ -2867,7 +2867,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.27",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "91072"
   },
   {
     "numtotal_last7": "226",
@@ -2881,8 +2881,8 @@
     "numtoday": "53",
     "numconf": "2224",
     "numrecover": "1417",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2581",
+    "ratetests": "18193",
     "prname": "British Columbia",
     "percentoday": "2.44",
     "avgincidence_last7": "0.63",
@@ -2908,7 +2908,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.27",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "93653"
   },
   {
     "numtotal_last7": "179",
@@ -2922,8 +2922,8 @@
     "numtoday": "8",
     "numconf": "2232",
     "numrecover": "1472",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2484",
+    "ratetests": "18676",
     "prname": "British Columbia",
     "percentoday": "0.36",
     "avgincidence_last7": "0.50",
@@ -2949,7 +2949,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.31",
     "avgtotal_last7": "26",
-    "numtests": ""
+    "numtests": "96137"
   },
   {
     "numtotal_last7": "168",
@@ -2963,8 +2963,8 @@
     "numtoday": "23",
     "numconf": "2255",
     "numrecover": "1494",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1716",
+    "ratetests": "19009",
     "prname": "British Columbia",
     "percentoday": "1.03",
     "avgincidence_last7": "0.47",
@@ -2990,7 +2990,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "24",
-    "numtests": ""
+    "numtests": "97853"
   },
   {
     "numtotal_last7": "176",
@@ -3004,8 +3004,8 @@
     "numtoday": "33",
     "numconf": "2288",
     "numrecover": "1512",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1905",
+    "ratetests": "19379",
     "prname": "British Columbia",
     "percentoday": "1.46",
     "avgincidence_last7": "0.49",
@@ -3031,7 +3031,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "25",
-    "numtests": ""
+    "numtests": "99758"
   },
   {
     "numtotal_last7": "170",
@@ -3045,8 +3045,8 @@
     "numtoday": "27",
     "numconf": "2315",
     "numrecover": "1579",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2365",
+    "ratetests": "19839",
     "prname": "British Columbia",
     "percentoday": "1.18",
     "avgincidence_last7": "0.47",
@@ -3072,7 +3072,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "24",
-    "numtests": ""
+    "numtests": "102123"
   },
   {
     "numtotal_last7": "159",
@@ -3086,8 +3086,8 @@
     "numtoday": "15",
     "numconf": "2330",
     "numrecover": "1659",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2340",
+    "ratetests": "20293",
     "prname": "British Columbia",
     "percentoday": "0.65",
     "avgincidence_last7": "0.44",
@@ -3113,7 +3113,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "23",
-    "numtests": ""
+    "numtests": "104463"
   },
   {
     "numtotal_last7": "159",
@@ -3127,8 +3127,8 @@
     "numtoday": "0",
     "numconf": "2330",
     "numrecover": "1659",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2219",
+    "ratetests": "20724",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.44",
@@ -3154,7 +3154,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "23",
-    "numtests": ""
+    "numtests": "106682"
   },
   {
     "numtotal_last7": "129",
@@ -3168,8 +3168,8 @@
     "numtoday": "23",
     "numconf": "2353",
     "numrecover": "1719",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1825",
+    "ratetests": "21079",
     "prname": "British Columbia",
     "percentoday": "0.99",
     "avgincidence_last7": "0.36",
@@ -3195,7 +3195,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "18",
-    "numtests": ""
+    "numtests": "108507"
   },
   {
     "numtotal_last7": "128",
@@ -3209,8 +3209,8 @@
     "numtoday": "7",
     "numconf": "2360",
     "numrecover": "1832",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1354",
+    "ratetests": "21342",
     "prname": "British Columbia",
     "percentoday": "0.30",
     "avgincidence_last7": "0.36",
@@ -3236,7 +3236,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "18",
-    "numtests": ""
+    "numtests": "109861"
   },
   {
     "numtotal_last7": "121",
@@ -3250,8 +3250,8 @@
     "numtoday": "16",
     "numconf": "2376",
     "numrecover": "1859",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1206",
+    "ratetests": "21576",
     "prname": "British Columbia",
     "percentoday": "0.68",
     "avgincidence_last7": "0.34",
@@ -3277,7 +3277,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "17",
-    "numtests": ""
+    "numtests": "111067"
   },
   {
     "numtotal_last7": "104",
@@ -3291,8 +3291,8 @@
     "numtoday": "16",
     "numconf": "2392",
     "numrecover": "1885",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1735",
+    "ratetests": "21913",
     "prname": "British Columbia",
     "percentoday": "0.67",
     "avgincidence_last7": "0.29",
@@ -3318,7 +3318,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "15",
-    "numtests": ""
+    "numtests": "112802"
   },
   {
     "numtotal_last7": "92",
@@ -3332,8 +3332,8 @@
     "numtoday": "15",
     "numconf": "2407",
     "numrecover": "1908",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2064",
+    "ratetests": "22314",
     "prname": "British Columbia",
     "percentoday": "0.63",
     "avgincidence_last7": "0.26",
@@ -3359,7 +3359,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "114866"
   },
   {
     "numtotal_last7": "98",
@@ -3373,8 +3373,8 @@
     "numtoday": "21",
     "numconf": "2428",
     "numrecover": "1932",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2000",
+    "ratetests": "22703",
     "prname": "British Columbia",
     "percentoday": "0.87",
     "avgincidence_last7": "0.27",
@@ -3400,7 +3400,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "14",
-    "numtests": ""
+    "numtests": "116866"
   },
   {
     "numtotal_last7": "98",
@@ -3414,8 +3414,8 @@
     "numtoday": "0",
     "numconf": "2428",
     "numrecover": "1932",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1967",
+    "ratetests": "23085",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.27",
@@ -3441,7 +3441,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "14",
-    "numtests": ""
+    "numtests": "118833"
   },
   {
     "numtotal_last7": "91",
@@ -3455,8 +3455,8 @@
     "numtoday": "16",
     "numconf": "2444",
     "numrecover": "1966",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1691",
+    "ratetests": "23413",
     "prname": "British Columbia",
     "percentoday": "0.66",
     "avgincidence_last7": "0.25",
@@ -3482,7 +3482,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "120524"
   },
   {
     "numtotal_last7": "86",
@@ -3496,8 +3496,8 @@
     "numtoday": "2",
     "numconf": "2446",
     "numrecover": "1975",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1553",
+    "ratetests": "23715",
     "prname": "British Columbia",
     "percentoday": "0.08",
     "avgincidence_last7": "0.24",
@@ -3523,7 +3523,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "122077"
   },
   {
     "numtotal_last7": "91",
@@ -3537,8 +3537,8 @@
     "numtoday": "21",
     "numconf": "2467",
     "numrecover": "2001",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1151",
+    "ratetests": "23938",
     "prname": "British Columbia",
     "percentoday": "0.86",
     "avgincidence_last7": "0.25",
@@ -3564,7 +3564,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.33",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "123228"
   },
   {
     "numtotal_last7": "87",
@@ -3578,8 +3578,8 @@
     "numtoday": "12",
     "numconf": "2479",
     "numrecover": "2020",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1179",
+    "ratetests": "24167",
     "prname": "British Columbia",
     "percentoday": "0.49",
     "avgincidence_last7": "0.24",
@@ -3605,7 +3605,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.33",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "124407"
   },
   {
     "numtotal_last7": "100",
@@ -3619,8 +3619,8 @@
     "numtoday": "28",
     "numconf": "2507",
     "numrecover": "2042",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1700",
+    "ratetests": "24498",
     "prname": "British Columbia",
     "percentoday": "1.13",
     "avgincidence_last7": "0.28",
@@ -3646,7 +3646,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "14",
-    "numtests": ""
+    "numtests": "126107"
   },
   {
     "numtotal_last7": "89",
@@ -3660,8 +3660,8 @@
     "numtoday": "10",
     "numconf": "2517",
     "numrecover": "2057",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1958",
+    "ratetests": "24878",
     "prname": "British Columbia",
     "percentoday": "0.40",
     "avgincidence_last7": "0.25",
@@ -3687,7 +3687,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.31",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "128065"
   },
   {
     "numtotal_last7": "89",
@@ -3701,8 +3701,8 @@
     "numtoday": "0",
     "numconf": "2517",
     "numrecover": "2057",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1867",
+    "ratetests": "25241",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.25",
@@ -3728,7 +3728,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.31",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "129932"
   },
   {
     "numtotal_last7": "86",
@@ -3742,8 +3742,8 @@
     "numtoday": "13",
     "numconf": "2530",
     "numrecover": "2102",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1856",
+    "ratetests": "25601",
     "prname": "British Columbia",
     "percentoday": "0.52",
     "avgincidence_last7": "0.24",
@@ -3769,7 +3769,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.35",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "131788"
   },
   {
     "numtotal_last7": "95",
@@ -3783,8 +3783,8 @@
     "numtoday": "11",
     "numconf": "2541",
     "numrecover": "2122",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1597",
+    "ratetests": "25912",
     "prname": "British Columbia",
     "percentoday": "0.43",
     "avgincidence_last7": "0.26",
@@ -3810,7 +3810,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "14",
-    "numtests": ""
+    "numtests": "133385"
   },
   {
     "numtotal_last7": "83",
@@ -3824,8 +3824,8 @@
     "numtoday": "9",
     "numconf": "2550",
     "numrecover": "2144",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1200",
+    "ratetests": "26145",
     "prname": "British Columbia",
     "percentoday": "0.35",
     "avgincidence_last7": "0.23",
@@ -3851,7 +3851,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "134585"
   },
   {
     "numtotal_last7": "79",
@@ -3865,8 +3865,8 @@
     "numtoday": "8",
     "numconf": "2558",
     "numrecover": "2153",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1655",
+    "ratetests": "26466",
     "prname": "British Columbia",
     "percentoday": "0.31",
     "avgincidence_last7": "0.22",
@@ -3892,7 +3892,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "136240"
   },
   {
     "numtotal_last7": "55",
@@ -3906,8 +3906,8 @@
     "numtoday": "4",
     "numconf": "2562",
     "numrecover": "2170",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2063",
+    "ratetests": "26867",
     "prname": "British Columbia",
     "percentoday": "0.16",
     "avgincidence_last7": "0.15",
@@ -3933,7 +3933,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "8",
-    "numtests": ""
+    "numtests": "138303"
   },
   {
     "numtotal_last7": "56",
@@ -3947,8 +3947,8 @@
     "numtoday": "11",
     "numconf": "2573",
     "numrecover": "2181",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2038",
+    "ratetests": "27263",
     "prname": "British Columbia",
     "percentoday": "0.43",
     "avgincidence_last7": "0.16",
@@ -3974,7 +3974,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "8",
-    "numtests": ""
+    "numtests": "140341"
   },
   {
     "numtotal_last7": "56",
@@ -3988,8 +3988,8 @@
     "numtoday": "0",
     "numconf": "2573",
     "numrecover": "2181",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1804",
+    "ratetests": "27613",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.16",
@@ -4015,7 +4015,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "8",
-    "numtests": ""
+    "numtests": "142145"
   },
   {
     "numtotal_last7": "67",
@@ -4029,8 +4029,8 @@
     "numtoday": "24",
     "numconf": "2597",
     "numrecover": "2207",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1900",
+    "ratetests": "27982",
     "prname": "British Columbia",
     "percentoday": "0.93",
     "avgincidence_last7": "0.19",
@@ -4056,7 +4056,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "144045"
   },
   {
     "numtotal_last7": "60",
@@ -4070,8 +4070,8 @@
     "numtoday": "4",
     "numconf": "2601",
     "numrecover": "2229",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1295",
+    "ratetests": "28234",
     "prname": "British Columbia",
     "percentoday": "0.15",
     "avgincidence_last7": "0.17",
@@ -4097,7 +4097,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "9",
-    "numtests": ""
+    "numtests": "145340"
   },
   {
     "numtotal_last7": "73",
@@ -4111,8 +4111,8 @@
     "numtoday": "22",
     "numconf": "2623",
     "numrecover": "2243",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1251",
+    "ratetests": "28477",
     "prname": "British Columbia",
     "percentoday": "0.85",
     "avgincidence_last7": "0.20",
@@ -4138,7 +4138,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "146591"
   },
   {
     "numtotal_last7": "74",
@@ -4152,8 +4152,8 @@
     "numtoday": "9",
     "numconf": "2632",
     "numrecover": "2265",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1604",
+    "ratetests": "28789",
     "prname": "British Columbia",
     "percentoday": "0.34",
     "avgincidence_last7": "0.21",
@@ -4179,7 +4179,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "148195"
   },
   {
     "numtotal_last7": "70",
@@ -4193,8 +4193,8 @@
     "numtoday": "0",
     "numconf": "2632",
     "numrecover": "2272",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1927",
+    "ratetests": "29163",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.19",
@@ -4220,7 +4220,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "150122"
   },
   {
     "numtotal_last7": "59",
@@ -4234,8 +4234,8 @@
     "numtoday": "0",
     "numconf": "2632",
     "numrecover": "2272",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1853",
+    "ratetests": "29523",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.16",
@@ -4261,7 +4261,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "8",
-    "numtests": ""
+    "numtests": "151975"
   },
   {
     "numtotal_last7": "59",
@@ -4275,8 +4275,8 @@
     "numtoday": "0",
     "numconf": "2632",
     "numrecover": "2272",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2046",
+    "ratetests": "29920",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.16",
@@ -4302,7 +4302,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "8",
-    "numtests": ""
+    "numtests": "154021"
   },
   {
     "numtotal_last7": "62",
@@ -4316,8 +4316,8 @@
     "numtoday": "27",
     "numconf": "2659",
     "numrecover": "2309",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1703",
+    "ratetests": "30251",
     "prname": "British Columbia",
     "percentoday": "1.03",
     "avgincidence_last7": "0.17",
@@ -4343,7 +4343,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "9",
-    "numtests": ""
+    "numtests": "155724"
   },
   {
     "numtotal_last7": "68",
@@ -4357,8 +4357,8 @@
     "numtoday": "10",
     "numconf": "2669",
     "numrecover": "2319",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1382",
+    "ratetests": "30520",
     "prname": "British Columbia",
     "percentoday": "0.38",
     "avgincidence_last7": "0.19",
@@ -4384,7 +4384,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "157106"
   },
   {
     "numtotal_last7": "57",
@@ -4398,8 +4398,8 @@
     "numtoday": "11",
     "numconf": "2680",
     "numrecover": "2328",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1059",
+    "ratetests": "30725",
     "prname": "British Columbia",
     "percentoday": "0.41",
     "avgincidence_last7": "0.16",
@@ -4425,7 +4425,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "8",
-    "numtests": ""
+    "numtests": "158165"
   },
   {
     "numtotal_last7": "62",
@@ -4439,8 +4439,8 @@
     "numtoday": "14",
     "numconf": "2694",
     "numrecover": "2344",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1503",
+    "ratetests": "31017",
     "prname": "British Columbia",
     "percentoday": "0.52",
     "avgincidence_last7": "0.17",
@@ -4466,7 +4466,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "9",
-    "numtests": ""
+    "numtests": "159668"
   },
   {
     "numtotal_last7": "77",
@@ -4480,8 +4480,8 @@
     "numtoday": "15",
     "numconf": "2709",
     "numrecover": "2354",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1886",
+    "ratetests": "31384",
     "prname": "British Columbia",
     "percentoday": "0.56",
     "avgincidence_last7": "0.21",
@@ -4507,7 +4507,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "161554"
   },
   {
     "numtotal_last7": "77",
@@ -4521,8 +4521,8 @@
     "numtoday": "0",
     "numconf": "2709",
     "numrecover": "2354",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1917",
+    "ratetests": "31756",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.21",
@@ -4548,7 +4548,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "163471"
   },
   {
     "numtotal_last7": "77",
@@ -4562,8 +4562,8 @@
     "numtoday": "0",
     "numconf": "2709",
     "numrecover": "2354",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1949",
+    "ratetests": "32135",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.21",
@@ -4589,7 +4589,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "165420"
   },
   {
     "numtotal_last7": "86",
@@ -4603,8 +4603,8 @@
     "numtoday": "36",
     "numconf": "2745",
     "numrecover": "2395",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1774",
+    "ratetests": "32479",
     "prname": "British Columbia",
     "percentoday": "1.33",
     "avgincidence_last7": "0.24",
@@ -4630,7 +4630,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "167194"
   },
   {
     "numtotal_last7": "87",
@@ -4644,8 +4644,8 @@
     "numtoday": "11",
     "numconf": "2756",
     "numrecover": "2416",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1256",
+    "ratetests": "32723",
     "prname": "British Columbia",
     "percentoday": "0.40",
     "avgincidence_last7": "0.24",
@@ -4671,7 +4671,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "168450"
   },
   {
     "numtotal_last7": "95",
@@ -4685,8 +4685,8 @@
     "numtoday": "19",
     "numconf": "2775",
     "numrecover": "2422",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "943",
+    "ratetests": "32906",
     "prname": "British Columbia",
     "percentoday": "0.69",
     "avgincidence_last7": "0.26",
@@ -4712,7 +4712,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "14",
-    "numtests": ""
+    "numtests": "169393"
   },
   {
     "numtotal_last7": "89",
@@ -4726,8 +4726,8 @@
     "numtoday": "8",
     "numconf": "2783",
     "numrecover": "2425",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1555",
+    "ratetests": "33209",
     "prname": "British Columbia",
     "percentoday": "0.29",
     "avgincidence_last7": "0.25",
@@ -4753,7 +4753,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "170948"
   },
   {
     "numtotal_last7": "81",
@@ -4767,8 +4767,8 @@
     "numtoday": "7",
     "numconf": "2790",
     "numrecover": "2444",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2116",
+    "ratetests": "33620",
     "prname": "British Columbia",
     "percentoday": "0.25",
     "avgincidence_last7": "0.22",
@@ -4794,7 +4794,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "173064"
   },
   {
     "numtotal_last7": "81",
@@ -4808,8 +4808,8 @@
     "numtoday": "0",
     "numconf": "2790",
     "numrecover": "2444",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1852",
+    "ratetests": "33979",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.22",
@@ -4835,7 +4835,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "174916"
   },
   {
     "numtotal_last7": "81",
@@ -4849,8 +4849,8 @@
     "numtoday": "0",
     "numconf": "2790",
     "numrecover": "2444",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2142",
+    "ratetests": "34395",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.22",
@@ -4876,7 +4876,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "177058"
   },
   {
     "numtotal_last7": "77",
@@ -4890,8 +4890,8 @@
     "numtoday": "32",
     "numconf": "2822",
     "numrecover": "2471",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1699",
+    "ratetests": "34726",
     "prname": "British Columbia",
     "percentoday": "1.15",
     "avgincidence_last7": "0.21",
@@ -4917,7 +4917,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "178757"
   },
   {
     "numtotal_last7": "79",
@@ -4931,8 +4931,8 @@
     "numtoday": "13",
     "numconf": "2835",
     "numrecover": "2491",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1369",
+    "ratetests": "34991",
     "prname": "British Columbia",
     "percentoday": "0.46",
     "avgincidence_last7": "0.22",
@@ -4958,7 +4958,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "180126"
   },
   {
     "numtotal_last7": "74",
@@ -4972,8 +4972,8 @@
     "numtoday": "14",
     "numconf": "2849",
     "numrecover": "2516",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1119",
+    "ratetests": "35209",
     "prname": "British Columbia",
     "percentoday": "0.49",
     "avgincidence_last7": "0.21",
@@ -4999,7 +4999,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "181245"
   },
   {
     "numtotal_last7": "86",
@@ -5013,8 +5013,8 @@
     "numtoday": "20",
     "numconf": "2869",
     "numrecover": "2517",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1673",
+    "ratetests": "35534",
     "prname": "British Columbia",
     "percentoday": "0.70",
     "avgincidence_last7": "0.24",
@@ -5040,7 +5040,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "182918"
   },
   {
     "numtotal_last7": "88",
@@ -5054,8 +5054,8 @@
     "numtoday": "9",
     "numconf": "2878",
     "numrecover": "2545",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2271",
+    "ratetests": "35975",
     "prname": "British Columbia",
     "percentoday": "0.31",
     "avgincidence_last7": "0.24",
@@ -5081,7 +5081,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "185189"
   },
   {
     "numtotal_last7": "88",
@@ -5095,8 +5095,8 @@
     "numtoday": "0",
     "numconf": "2878",
     "numrecover": "2545",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2081",
+    "ratetests": "36379",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.24",
@@ -5122,7 +5122,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "187270"
   },
   {
     "numtotal_last7": "88",
@@ -5136,8 +5136,8 @@
     "numtoday": "0",
     "numconf": "2878",
     "numrecover": "2545",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1684",
+    "ratetests": "36706",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.24",
@@ -5163,7 +5163,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "188954"
   },
   {
     "numtotal_last7": "82",
@@ -5177,8 +5177,8 @@
     "numtoday": "26",
     "numconf": "2904",
     "numrecover": "2577",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1752",
+    "ratetests": "37047",
     "prname": "British Columbia",
     "percentoday": "0.90",
     "avgincidence_last7": "0.23",
@@ -5204,7 +5204,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "190706"
   },
   {
     "numtotal_last7": "81",
@@ -5218,8 +5218,8 @@
     "numtoday": "12",
     "numconf": "2916",
     "numrecover": "2590",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1166",
+    "ratetests": "37273",
     "prname": "British Columbia",
     "percentoday": "0.41",
     "avgincidence_last7": "0.22",
@@ -5245,7 +5245,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "12",
-    "numtests": ""
+    "numtests": "191872"
   },
   {
     "numtotal_last7": "67",
@@ -5259,8 +5259,8 @@
     "numtoday": "0",
     "numconf": "2916",
     "numrecover": "2590",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1336",
+    "ratetests": "37533",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.19",
@@ -5286,7 +5286,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "193208"
   },
   {
     "numtotal_last7": "71",
@@ -5300,8 +5300,8 @@
     "numtoday": "24",
     "numconf": "2940",
     "numrecover": "2603",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1706",
+    "ratetests": "37864",
     "prname": "British Columbia",
     "percentoday": "0.82",
     "avgincidence_last7": "0.20",
@@ -5327,7 +5327,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "194914"
   },
   {
     "numtotal_last7": "69",
@@ -5341,8 +5341,8 @@
     "numtoday": "7",
     "numconf": "2947",
     "numrecover": "2608",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1719",
+    "ratetests": "38198",
     "prname": "British Columbia",
     "percentoday": "0.24",
     "avgincidence_last7": "0.19",
@@ -5368,7 +5368,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "196633"
   },
   {
     "numtotal_last7": "69",
@@ -5382,8 +5382,8 @@
     "numtoday": "0",
     "numconf": "2947",
     "numrecover": "2608",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1596",
+    "ratetests": "38508",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.19",
@@ -5409,7 +5409,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "198229"
   },
   {
     "numtotal_last7": "69",
@@ -5423,8 +5423,8 @@
     "numtoday": "0",
     "numconf": "2947",
     "numrecover": "2608",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2060",
+    "ratetests": "38908",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.19",
@@ -5450,7 +5450,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "10",
-    "numtests": ""
+    "numtests": "200289"
   },
   {
     "numtotal_last7": "74",
@@ -5464,8 +5464,8 @@
     "numtoday": "31",
     "numconf": "2978",
     "numrecover": "2629",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2092",
+    "ratetests": "39315",
     "prname": "British Columbia",
     "percentoday": "1.05",
     "avgincidence_last7": "0.21",
@@ -5491,7 +5491,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "202381"
   },
   {
     "numtotal_last7": "74",
@@ -5505,8 +5505,8 @@
     "numtoday": "12",
     "numconf": "2990",
     "numrecover": "2645",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1419",
+    "ratetests": "39590",
     "prname": "British Columbia",
     "percentoday": "0.40",
     "avgincidence_last7": "0.21",
@@ -5532,7 +5532,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "11",
-    "numtests": ""
+    "numtests": "203800"
   },
   {
     "numtotal_last7": "92",
@@ -5546,8 +5546,8 @@
     "numtoday": "18",
     "numconf": "3008",
     "numrecover": "2660",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1347",
+    "ratetests": "39852",
     "prname": "British Columbia",
     "percentoday": "0.60",
     "avgincidence_last7": "0.26",
@@ -5573,7 +5573,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "205147"
   },
   {
     "numtotal_last7": "88",
@@ -5587,8 +5587,8 @@
     "numtoday": "20",
     "numconf": "3028",
     "numrecover": "2667",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1830",
+    "ratetests": "40208",
     "prname": "British Columbia",
     "percentoday": "0.66",
     "avgincidence_last7": "0.24",
@@ -5614,7 +5614,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "13",
-    "numtests": ""
+    "numtests": "206977"
   },
   {
     "numtotal_last7": "106",
@@ -5628,8 +5628,8 @@
     "numtoday": "25",
     "numconf": "3053",
     "numrecover": "2679",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2356",
+    "ratetests": "40665",
     "prname": "British Columbia",
     "percentoday": "0.83",
     "avgincidence_last7": "0.29",
@@ -5655,7 +5655,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "15",
-    "numtests": ""
+    "numtests": "209333"
   },
   {
     "numtotal_last7": "106",
@@ -5669,8 +5669,8 @@
     "numtoday": "0",
     "numconf": "3053",
     "numrecover": "2679",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2559",
+    "ratetests": "41162",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.29",
@@ -5696,7 +5696,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "15",
-    "numtests": ""
+    "numtests": "211892"
   },
   {
     "numtotal_last7": "106",
@@ -5710,8 +5710,8 @@
     "numtoday": "0",
     "numconf": "3053",
     "numrecover": "2679",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2712",
+    "ratetests": "41689",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.29",
@@ -5737,7 +5737,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "15",
-    "numtests": ""
+    "numtests": "214604"
   },
   {
     "numtotal_last7": "137",
@@ -5751,8 +5751,8 @@
     "numtoday": "62",
     "numconf": "3115",
     "numrecover": "2718",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2456",
+    "ratetests": "42166",
     "prname": "British Columbia",
     "percentoday": "2.03",
     "avgincidence_last7": "0.38",
@@ -5778,7 +5778,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "20",
-    "numtests": ""
+    "numtests": "217060"
   },
   {
     "numtotal_last7": "138",
@@ -5792,8 +5792,8 @@
     "numtoday": "13",
     "numconf": "3128",
     "numrecover": "2730",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1963",
+    "ratetests": "42548",
     "prname": "British Columbia",
     "percentoday": "0.42",
     "avgincidence_last7": "0.38",
@@ -5819,7 +5819,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "20",
-    "numtests": ""
+    "numtests": "219023"
   },
   {
     "numtotal_last7": "141",
@@ -5833,8 +5833,8 @@
     "numtoday": "21",
     "numconf": "3149",
     "numrecover": "2753",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1471",
+    "ratetests": "42833",
     "prname": "British Columbia",
     "percentoday": "0.67",
     "avgincidence_last7": "0.39",
@@ -5860,7 +5860,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "20",
-    "numtests": ""
+    "numtests": "220494"
   },
   {
     "numtotal_last7": "142",
@@ -5874,8 +5874,8 @@
     "numtoday": "21",
     "numconf": "3170",
     "numrecover": "2789",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2234",
+    "ratetests": "43267",
     "prname": "British Columbia",
     "percentoday": "0.67",
     "avgincidence_last7": "0.39",
@@ -5901,7 +5901,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "20",
-    "numtests": ""
+    "numtests": "222728"
   },
   {
     "numtotal_last7": "145",
@@ -5915,8 +5915,8 @@
     "numtoday": "28",
     "numconf": "3198",
     "numrecover": "2802",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2662",
+    "ratetests": "43785",
     "prname": "British Columbia",
     "percentoday": "0.88",
     "avgincidence_last7": "0.40",
@@ -5942,7 +5942,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "21",
-    "numtests": ""
+    "numtests": "225390"
   },
   {
     "numtotal_last7": "145",
@@ -5956,8 +5956,8 @@
     "numtoday": "0",
     "numconf": "3198",
     "numrecover": "2802",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3199",
+    "ratetests": "44406",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.40",
@@ -5983,7 +5983,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "21",
-    "numtests": ""
+    "numtests": "228589"
   },
   {
     "numtotal_last7": "145",
@@ -5997,8 +5997,8 @@
     "numtoday": "0",
     "numconf": "3198",
     "numrecover": "2802",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2997",
+    "ratetests": "44988",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.40",
@@ -6024,7 +6024,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "21",
-    "numtests": ""
+    "numtests": "231586"
   },
   {
     "numtotal_last7": "185",
@@ -6038,8 +6038,8 @@
     "numtoday": "102",
     "numconf": "3300",
     "numrecover": "2858",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2493",
+    "ratetests": "45472",
     "prname": "British Columbia",
     "percentoday": "3.19",
     "avgincidence_last7": "0.51",
@@ -6065,7 +6065,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "26",
-    "numtests": ""
+    "numtests": "234079"
   },
   {
     "numtotal_last7": "200",
@@ -6079,8 +6079,8 @@
     "numtoday": "28",
     "numconf": "3328",
     "numrecover": "2873",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2205",
+    "ratetests": "45901",
     "prname": "British Columbia",
     "percentoday": "0.85",
     "avgincidence_last7": "0.56",
@@ -6106,7 +6106,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "29",
-    "numtests": ""
+    "numtests": "236284"
   },
   {
     "numtotal_last7": "213",
@@ -6120,8 +6120,8 @@
     "numtoday": "34",
     "numconf": "3362",
     "numrecover": "2888",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1282",
+    "ratetests": "46150",
     "prname": "British Columbia",
     "percentoday": "1.02",
     "avgincidence_last7": "0.59",
@@ -6147,7 +6147,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "30",
-    "numtests": ""
+    "numtests": "237566"
   },
   {
     "numtotal_last7": "222",
@@ -6161,8 +6161,8 @@
     "numtoday": "30",
     "numconf": "3392",
     "numrecover": "2898",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2895",
+    "ratetests": "46712",
     "prname": "British Columbia",
     "percentoday": "0.89",
     "avgincidence_last7": "0.62",
@@ -6188,7 +6188,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "240461"
   },
   {
     "numtotal_last7": "221",
@@ -6202,8 +6202,8 @@
     "numtoday": "27",
     "numconf": "3419",
     "numrecover": "2934",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3060",
+    "ratetests": "47307",
     "prname": "British Columbia",
     "percentoday": "0.80",
     "avgincidence_last7": "0.61",
@@ -6229,7 +6229,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "243521"
   },
   {
     "numtotal_last7": "221",
@@ -6243,8 +6243,8 @@
     "numtoday": "0",
     "numconf": "3419",
     "numrecover": "2934",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2568",
+    "ratetests": "47806",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.61",
@@ -6270,7 +6270,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "246089"
   },
   {
     "numtotal_last7": "221",
@@ -6284,8 +6284,8 @@
     "numtoday": "0",
     "numconf": "3419",
     "numrecover": "2934",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2797",
+    "ratetests": "48349",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.61",
@@ -6311,7 +6311,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "248886"
   },
   {
     "numtotal_last7": "200",
@@ -6325,8 +6325,8 @@
     "numtoday": "81",
     "numconf": "3500",
     "numrecover": "3043",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2853",
+    "ratetests": "48903",
     "prname": "British Columbia",
     "percentoday": "2.37",
     "avgincidence_last7": "0.56",
@@ -6352,7 +6352,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "29",
-    "numtests": ""
+    "numtests": "251739"
   },
   {
     "numtotal_last7": "195",
@@ -6366,8 +6366,8 @@
     "numtoday": "23",
     "numconf": "3523",
     "numrecover": "3076",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1874",
+    "ratetests": "49267",
     "prname": "British Columbia",
     "percentoday": "0.66",
     "avgincidence_last7": "0.54",
@@ -6393,7 +6393,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "28",
-    "numtests": ""
+    "numtests": "253613"
   },
   {
     "numtotal_last7": "200",
@@ -6407,8 +6407,8 @@
     "numtoday": "39",
     "numconf": "3562",
     "numrecover": "3109",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1677",
+    "ratetests": "49593",
     "prname": "British Columbia",
     "percentoday": "1.11",
     "avgincidence_last7": "0.56",
@@ -6434,7 +6434,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "29",
-    "numtests": ""
+    "numtests": "255290"
   },
   {
     "numtotal_last7": "199",
@@ -6448,8 +6448,8 @@
     "numtoday": "29",
     "numconf": "3591",
     "numrecover": "3155",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2400",
+    "ratetests": "50059",
     "prname": "British Columbia",
     "percentoday": "0.81",
     "avgincidence_last7": "0.55",
@@ -6475,7 +6475,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "28",
-    "numtests": ""
+    "numtests": "257690"
   },
   {
     "numtotal_last7": "222",
@@ -6489,8 +6489,8 @@
     "numtoday": "50",
     "numconf": "3641",
     "numrecover": "3168",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3875",
+    "ratetests": "50812",
     "prname": "British Columbia",
     "percentoday": "1.39",
     "avgincidence_last7": "0.62",
@@ -6516,7 +6516,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "261565"
   },
   {
     "numtotal_last7": "222",
@@ -6530,8 +6530,8 @@
     "numtoday": "0",
     "numconf": "3641",
     "numrecover": "3168",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3035",
+    "ratetests": "51401",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.62",
@@ -6557,7 +6557,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "264600"
   },
   {
     "numtotal_last7": "222",
@@ -6571,8 +6571,8 @@
     "numtoday": "0",
     "numconf": "3641",
     "numrecover": "3168",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2313",
+    "ratetests": "51851",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.62",
@@ -6598,7 +6598,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "32",
-    "numtests": ""
+    "numtests": "266913"
   },
   {
     "numtotal_last7": "141",
@@ -6612,8 +6612,8 @@
     "numtoday": "0",
     "numconf": "3641",
     "numrecover": "3168",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2032",
+    "ratetests": "52246",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.39",
@@ -6639,7 +6639,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "20",
-    "numtests": ""
+    "numtests": "268945"
   },
   {
     "numtotal_last7": "264",
@@ -6653,8 +6653,8 @@
     "numtoday": "146",
     "numconf": "3787",
     "numrecover": "3273",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1868",
+    "ratetests": "52608",
     "prname": "British Columbia",
     "percentoday": "4.01",
     "avgincidence_last7": "0.73",
@@ -6680,7 +6680,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "38",
-    "numtests": ""
+    "numtests": "270813"
   },
   {
     "numtotal_last7": "272",
@@ -6694,8 +6694,8 @@
     "numtoday": "47",
     "numconf": "3834",
     "numrecover": "3288",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1294",
+    "ratetests": "52860",
     "prname": "British Columbia",
     "percentoday": "1.24",
     "avgincidence_last7": "0.75",
@@ -6721,7 +6721,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "39",
-    "numtests": ""
+    "numtests": "272107"
   },
   {
     "numtotal_last7": "290",
@@ -6735,8 +6735,8 @@
     "numtoday": "47",
     "numconf": "3881",
     "numrecover": "3315",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1751",
+    "ratetests": "53200",
     "prname": "British Columbia",
     "percentoday": "1.23",
     "avgincidence_last7": "0.80",
@@ -6762,7 +6762,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "41",
-    "numtests": ""
+    "numtests": "273858"
   },
   {
     "numtotal_last7": "293",
@@ -6776,8 +6776,8 @@
     "numtoday": "53",
     "numconf": "3934",
     "numrecover": "3353",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2661",
+    "ratetests": "53717",
     "prname": "British Columbia",
     "percentoday": "1.37",
     "avgincidence_last7": "0.81",
@@ -6803,7 +6803,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "42",
-    "numtests": ""
+    "numtests": "276519"
   },
   {
     "numtotal_last7": "293",
@@ -6817,8 +6817,8 @@
     "numtoday": "0",
     "numconf": "3934",
     "numrecover": "3353",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3147",
+    "ratetests": "54328",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.81",
@@ -6844,7 +6844,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "42",
-    "numtests": ""
+    "numtests": "279666"
   },
   {
     "numtotal_last7": "293",
@@ -6858,8 +6858,8 @@
     "numtoday": "0",
     "numconf": "3934",
     "numrecover": "3353",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2948",
+    "ratetests": "54901",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "0.81",
@@ -6885,7 +6885,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "42",
-    "numtests": ""
+    "numtests": "282614"
   },
   {
     "numtotal_last7": "424",
@@ -6899,8 +6899,8 @@
     "numtoday": "131",
     "numconf": "4065",
     "numrecover": "3425",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2785",
+    "ratetests": "55442",
     "prname": "British Columbia",
     "percentoday": "3.33",
     "avgincidence_last7": "1.18",
@@ -6926,7 +6926,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "61",
-    "numtests": ""
+    "numtests": "285399"
   },
   {
     "numtotal_last7": "324",
@@ -6940,8 +6940,8 @@
     "numtoday": "46",
     "numconf": "4111",
     "numrecover": "3444",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2786",
+    "ratetests": "55983",
     "prname": "British Columbia",
     "percentoday": "1.13",
     "avgincidence_last7": "0.90",
@@ -6967,7 +6967,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.00",
     "avgtotal_last7": "46",
-    "numtests": ""
+    "numtests": "288185"
   },
   {
     "numtotal_last7": "362",
@@ -6981,8 +6981,8 @@
     "numtoday": "85",
     "numconf": "4196",
     "numrecover": "3469",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1898",
+    "ratetests": "56352",
     "prname": "British Columbia",
     "percentoday": "2.07",
     "avgincidence_last7": "1.00",
@@ -7008,7 +7008,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "52",
-    "numtests": ""
+    "numtests": "290083"
   },
   {
     "numtotal_last7": "393",
@@ -7022,8 +7022,8 @@
     "numtoday": "78",
     "numconf": "4274",
     "numrecover": "3500",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3015",
+    "ratetests": "56938",
     "prname": "British Columbia",
     "percentoday": "1.86",
     "avgincidence_last7": "1.09",
@@ -7049,7 +7049,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "56",
-    "numtests": ""
+    "numtests": "293098"
   },
   {
     "numtotal_last7": "424",
@@ -7063,8 +7063,8 @@
     "numtoday": "84",
     "numconf": "4358",
     "numrecover": "3533",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3664",
+    "ratetests": "57649",
     "prname": "British Columbia",
     "percentoday": "1.97",
     "avgincidence_last7": "1.18",
@@ -7090,7 +7090,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "61",
-    "numtests": ""
+    "numtests": "296762"
   },
   {
     "numtotal_last7": "424",
@@ -7104,8 +7104,8 @@
     "numtoday": "0",
     "numconf": "4358",
     "numrecover": "3533",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3594",
+    "ratetests": "58347",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.18",
@@ -7131,7 +7131,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "61",
-    "numtests": ""
+    "numtests": "300356"
   },
   {
     "numtotal_last7": "424",
@@ -7145,8 +7145,8 @@
     "numtoday": "0",
     "numconf": "4358",
     "numrecover": "3533",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4089",
+    "ratetests": "59142",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.18",
@@ -7172,7 +7172,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.02",
     "avgtotal_last7": "61",
-    "numtests": ""
+    "numtests": "304445"
   },
   {
     "numtotal_last7": "529",
@@ -7186,8 +7186,8 @@
     "numtoday": "236",
     "numconf": "4594",
     "numrecover": "3653",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3859",
+    "ratetests": "59891",
     "prname": "British Columbia",
     "percentoday": "5.42",
     "avgincidence_last7": "1.47",
@@ -7213,7 +7213,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "76",
-    "numtests": ""
+    "numtests": "308304"
   },
   {
     "numtotal_last7": "566",
@@ -7227,8 +7227,8 @@
     "numtoday": "83",
     "numconf": "4677",
     "numrecover": "3704",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2762",
+    "ratetests": "60428",
     "prname": "British Columbia",
     "percentoday": "1.81",
     "avgincidence_last7": "1.57",
@@ -7254,7 +7254,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "81",
-    "numtests": ""
+    "numtests": "311066"
   },
   {
     "numtotal_last7": "549",
@@ -7268,8 +7268,8 @@
     "numtoday": "68",
     "numconf": "4745",
     "numrecover": "3749",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2609",
+    "ratetests": "60935",
     "prname": "British Columbia",
     "percentoday": "1.45",
     "avgincidence_last7": "1.52",
@@ -7295,7 +7295,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "78",
-    "numtests": ""
+    "numtests": "313675"
   },
   {
     "numtotal_last7": "551",
@@ -7309,8 +7309,8 @@
     "numtoday": "80",
     "numconf": "4825",
     "numrecover": "3845",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3361",
+    "ratetests": "61588",
     "prname": "British Columbia",
     "percentoday": "1.69",
     "avgincidence_last7": "1.53",
@@ -7336,7 +7336,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "79",
-    "numtests": ""
+    "numtests": "317036"
   },
   {
     "numtotal_last7": "557",
@@ -7350,8 +7350,8 @@
     "numtoday": "90",
     "numconf": "4915",
     "numrecover": "3889",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4157",
+    "ratetests": "62395",
     "prname": "British Columbia",
     "percentoday": "1.87",
     "avgincidence_last7": "1.55",
@@ -7377,7 +7377,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "80",
-    "numtests": ""
+    "numtests": "321193"
   },
   {
     "numtotal_last7": "557",
@@ -7391,8 +7391,8 @@
     "numtoday": "0",
     "numconf": "4915",
     "numrecover": "3889",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4432",
+    "ratetests": "63256",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.55",
@@ -7418,7 +7418,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "80",
-    "numtests": ""
+    "numtests": "325625"
   },
   {
     "numtotal_last7": "557",
@@ -7432,8 +7432,8 @@
     "numtoday": "0",
     "numconf": "4915",
     "numrecover": "3889",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3899",
+    "ratetests": "64014",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.55",
@@ -7459,7 +7459,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "80",
-    "numtests": ""
+    "numtests": "329524"
   },
   {
     "numtotal_last7": "590",
@@ -7473,8 +7473,8 @@
     "numtoday": "269",
     "numconf": "5184",
     "numrecover": "4068",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5006",
+    "ratetests": "64986",
     "prname": "British Columbia",
     "percentoday": "5.47",
     "avgincidence_last7": "1.64",
@@ -7500,7 +7500,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "84",
-    "numtests": ""
+    "numtests": "334530"
   },
   {
     "numtotal_last7": "565",
@@ -7514,8 +7514,8 @@
     "numtoday": "58",
     "numconf": "5242",
     "numrecover": "4114",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2901",
+    "ratetests": "65550",
     "prname": "British Columbia",
     "percentoday": "1.12",
     "avgincidence_last7": "1.57",
@@ -7541,7 +7541,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "81",
-    "numtests": ""
+    "numtests": "337431"
   },
   {
     "numtotal_last7": "559",
@@ -7555,8 +7555,8 @@
     "numtoday": "62",
     "numconf": "5304",
     "numrecover": "4199",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "1914",
+    "ratetests": "65922",
     "prname": "British Columbia",
     "percentoday": "1.18",
     "avgincidence_last7": "1.55",
@@ -7582,7 +7582,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "80",
-    "numtests": ""
+    "numtests": "339345"
   },
   {
     "numtotal_last7": "547",
@@ -7596,8 +7596,8 @@
     "numtoday": "68",
     "numconf": "5372",
     "numrecover": "4253",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4355",
+    "ratetests": "66768",
     "prname": "British Columbia",
     "percentoday": "1.28",
     "avgincidence_last7": "1.52",
@@ -7623,7 +7623,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "78",
-    "numtests": ""
+    "numtests": "343700"
   },
   {
     "numtotal_last7": "581",
@@ -7637,8 +7637,8 @@
     "numtoday": "124",
     "numconf": "5496",
     "numrecover": "4310",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4439",
+    "ratetests": "67630",
     "prname": "British Columbia",
     "percentoday": "2.31",
     "avgincidence_last7": "1.61",
@@ -7664,7 +7664,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "83",
-    "numtests": ""
+    "numtests": "348139"
   },
   {
     "numtotal_last7": "581",
@@ -7678,8 +7678,8 @@
     "numtoday": "0",
     "numconf": "5496",
     "numrecover": "4310",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5430",
+    "ratetests": "68685",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.61",
@@ -7705,7 +7705,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "83",
-    "numtests": ""
+    "numtests": "353569"
   },
   {
     "numtotal_last7": "581",
@@ -7719,8 +7719,8 @@
     "numtoday": "0",
     "numconf": "5496",
     "numrecover": "4310",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5479",
+    "ratetests": "69749",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.61",
@@ -7746,7 +7746,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "83",
-    "numtests": ""
+    "numtests": "359048"
   },
   {
     "numtotal_last7": "606",
@@ -7760,8 +7760,8 @@
     "numtoday": "294",
     "numconf": "5790",
     "numrecover": "4466",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4737",
+    "ratetests": "70669",
     "prname": "British Columbia",
     "percentoday": "5.35",
     "avgincidence_last7": "1.68",
@@ -7787,7 +7787,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "87",
-    "numtests": ""
+    "numtests": "363785"
   },
   {
     "numtotal_last7": "606",
@@ -7801,8 +7801,8 @@
     "numtoday": "58",
     "numconf": "5848",
     "numrecover": "4505",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3660",
+    "ratetests": "71380",
     "prname": "British Columbia",
     "percentoday": "1.00",
     "avgincidence_last7": "1.68",
@@ -7828,7 +7828,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "87",
-    "numtests": ""
+    "numtests": "367445"
   },
   {
     "numtotal_last7": "648",
@@ -7842,8 +7842,8 @@
     "numtoday": "104",
     "numconf": "5952",
     "numrecover": "4605",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "2345",
+    "ratetests": "71836",
     "prname": "British Columbia",
     "percentoday": "1.78",
     "avgincidence_last7": "1.80",
@@ -7869,7 +7869,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "93",
-    "numtests": ""
+    "numtests": "369790"
   },
   {
     "numtotal_last7": "669",
@@ -7883,8 +7883,8 @@
     "numtoday": "89",
     "numconf": "6041",
     "numrecover": "4644",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5292",
+    "ratetests": "72864",
     "prname": "British Columbia",
     "percentoday": "1.50",
     "avgincidence_last7": "1.86",
@@ -7910,7 +7910,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "96",
-    "numtests": ""
+    "numtests": "375082"
   },
   {
     "numtotal_last7": "666",
@@ -7924,8 +7924,8 @@
     "numtoday": "121",
     "numconf": "6162",
     "numrecover": "4706",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5522",
+    "ratetests": "73937",
     "prname": "British Columbia",
     "percentoday": "2.00",
     "avgincidence_last7": "1.85",
@@ -7951,7 +7951,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "95",
-    "numtests": ""
+    "numtests": "380604"
   },
   {
     "numtotal_last7": "666",
@@ -7965,8 +7965,8 @@
     "numtoday": "0",
     "numconf": "6162",
     "numrecover": "4706",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6084",
+    "ratetests": "75118",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.85",
@@ -7992,7 +7992,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "95",
-    "numtests": ""
+    "numtests": "386688"
   },
   {
     "numtotal_last7": "666",
@@ -8006,8 +8006,8 @@
     "numtoday": "0",
     "numconf": "6162",
     "numrecover": "4706",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5788",
+    "ratetests": "76243",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.85",
@@ -8033,7 +8033,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "95",
-    "numtests": ""
+    "numtests": "392476"
   },
   {
     "numtotal_last7": "372",
@@ -8047,8 +8047,8 @@
     "numtoday": "0",
     "numconf": "6162",
     "numrecover": "4706",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5518",
+    "ratetests": "77315",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.03",
@@ -8074,7 +8074,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "53",
-    "numtests": ""
+    "numtests": "397994"
   },
   {
     "numtotal_last7": "743",
@@ -8088,8 +8088,8 @@
     "numtoday": "429",
     "numconf": "6591",
     "numrecover": "4978",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4201",
+    "ratetests": "78131",
     "prname": "British Columbia",
     "percentoday": "6.96",
     "avgincidence_last7": "2.06",
@@ -8115,7 +8115,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "106",
-    "numtests": ""
+    "numtests": "402195"
   },
   {
     "numtotal_last7": "739",
@@ -8129,8 +8129,8 @@
     "numtoday": "100",
     "numconf": "6691",
     "numrecover": "5100",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3475",
+    "ratetests": "78806",
     "prname": "British Columbia",
     "percentoday": "1.52",
     "avgincidence_last7": "2.05",
@@ -8156,7 +8156,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "106",
-    "numtests": ""
+    "numtests": "405670"
   },
   {
     "numtotal_last7": "789",
@@ -8170,8 +8170,8 @@
     "numtoday": "139",
     "numconf": "6830",
     "numrecover": "5190",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3596",
+    "ratetests": "79504",
     "prname": "British Columbia",
     "percentoday": "2.08",
     "avgincidence_last7": "2.19",
@@ -8197,7 +8197,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "113",
-    "numtests": ""
+    "numtests": "409266"
   },
   {
     "numtotal_last7": "800",
@@ -8211,8 +8211,8 @@
     "numtoday": "132",
     "numconf": "6962",
     "numrecover": "5273",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5378",
+    "ratetests": "80549",
     "prname": "British Columbia",
     "percentoday": "1.93",
     "avgincidence_last7": "2.22",
@@ -8238,7 +8238,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "114",
-    "numtests": ""
+    "numtests": "414644"
   },
   {
     "numtotal_last7": "800",
@@ -8252,8 +8252,8 @@
     "numtoday": "0",
     "numconf": "6962",
     "numrecover": "5273",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6502",
+    "ratetests": "81812",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.22",
@@ -8279,7 +8279,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "114",
-    "numtests": ""
+    "numtests": "421146"
   },
   {
     "numtotal_last7": "800",
@@ -8293,8 +8293,8 @@
     "numtoday": "0",
     "numconf": "6962",
     "numrecover": "5273",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6227",
+    "ratetests": "83022",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.22",
@@ -8320,7 +8320,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.04",
     "avgtotal_last7": "114",
-    "numtests": ""
+    "numtests": "427373"
   },
   {
     "numtotal_last7": "1117",
@@ -8334,8 +8334,8 @@
     "numtoday": "317",
     "numconf": "7279",
     "numrecover": "5446",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5963",
+    "ratetests": "84180",
     "prname": "British Columbia",
     "percentoday": "4.55",
     "avgincidence_last7": "3.10",
@@ -8361,7 +8361,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "160",
-    "numtests": ""
+    "numtests": "433336"
   },
   {
     "numtotal_last7": "785",
@@ -8375,8 +8375,8 @@
     "numtoday": "97",
     "numconf": "7376",
     "numrecover": "5548",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5343",
+    "ratetests": "85218",
     "prname": "British Columbia",
     "percentoday": "1.33",
     "avgincidence_last7": "2.18",
@@ -8402,7 +8402,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "112",
-    "numtests": ""
+    "numtests": "438679"
   },
   {
     "numtotal_last7": "807",
@@ -8416,8 +8416,8 @@
     "numtoday": "122",
     "numconf": "7498",
     "numrecover": "5646",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3616",
+    "ratetests": "85921",
     "prname": "British Columbia",
     "percentoday": "1.65",
     "avgincidence_last7": "2.24",
@@ -8443,7 +8443,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "115",
-    "numtests": ""
+    "numtests": "442295"
   },
   {
     "numtotal_last7": "833",
@@ -8457,8 +8457,8 @@
     "numtoday": "165",
     "numconf": "7663",
     "numrecover": "5719",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6439",
+    "ratetests": "87172",
     "prname": "British Columbia",
     "percentoday": "2.20",
     "avgincidence_last7": "2.31",
@@ -8484,7 +8484,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "119",
-    "numtests": ""
+    "numtests": "448734"
   },
   {
     "numtotal_last7": "880",
@@ -8498,8 +8498,8 @@
     "numtoday": "179",
     "numconf": "7842",
     "numrecover": "5797",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7595",
+    "ratetests": "88647",
     "prname": "British Columbia",
     "percentoday": "2.34",
     "avgincidence_last7": "2.44",
@@ -8525,7 +8525,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "126",
-    "numtests": ""
+    "numtests": "456329"
   },
   {
     "numtotal_last7": "880",
@@ -8539,8 +8539,8 @@
     "numtoday": "0",
     "numconf": "7842",
     "numrecover": "5797",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5750",
+    "ratetests": "89764",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.44",
@@ -8566,7 +8566,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "126",
-    "numtests": ""
+    "numtests": "462079"
   },
   {
     "numtotal_last7": "880",
@@ -8580,8 +8580,8 @@
     "numtoday": "0",
     "numconf": "7842",
     "numrecover": "5797",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6896",
+    "ratetests": "91104",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.44",
@@ -8607,7 +8607,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "126",
-    "numtests": ""
+    "numtests": "468975"
   },
   {
     "numtotal_last7": "929",
@@ -8621,8 +8621,8 @@
     "numtoday": "366",
     "numconf": "8208",
     "numrecover": "5792",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5733",
+    "ratetests": "92217",
     "prname": "British Columbia",
     "percentoday": "4.67",
     "avgincidence_last7": "2.58",
@@ -8648,7 +8648,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "133",
-    "numtests": ""
+    "numtests": "474708"
   },
   {
     "numtotal_last7": "928",
@@ -8662,8 +8662,8 @@
     "numtoday": "96",
     "numconf": "8304",
     "numrecover": "6589",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6085",
+    "ratetests": "93399",
     "prname": "British Columbia",
     "percentoday": "1.17",
     "avgincidence_last7": "2.58",
@@ -8689,7 +8689,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "133",
-    "numtests": ""
+    "numtests": "480793"
   },
   {
     "numtotal_last7": "897",
@@ -8703,8 +8703,8 @@
     "numtoday": "91",
     "numconf": "8395",
     "numrecover": "6769",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4294",
+    "ratetests": "94234",
     "prname": "British Columbia",
     "percentoday": "1.10",
     "avgincidence_last7": "2.49",
@@ -8730,7 +8730,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "128",
-    "numtests": ""
+    "numtests": "485087"
   },
   {
     "numtotal_last7": "880",
@@ -8744,8 +8744,8 @@
     "numtoday": "148",
     "numconf": "8543",
     "numrecover": "6917",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6177",
+    "ratetests": "95433",
     "prname": "British Columbia",
     "percentoday": "1.76",
     "avgincidence_last7": "2.44",
@@ -8771,7 +8771,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "126",
-    "numtests": ""
+    "numtests": "491264"
   },
   {
     "numtotal_last7": "799",
@@ -8785,8 +8785,8 @@
     "numtoday": "98",
     "numconf": "8641",
     "numrecover": "7036",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7750",
+    "ratetests": "96939",
     "prname": "British Columbia",
     "percentoday": "1.15",
     "avgincidence_last7": "2.22",
@@ -8812,7 +8812,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "114",
-    "numtests": ""
+    "numtests": "499014"
   },
   {
     "numtotal_last7": "799",
@@ -8826,8 +8826,8 @@
     "numtoday": "0",
     "numconf": "8641",
     "numrecover": "7036",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8863",
+    "ratetests": "98661",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.22",
@@ -8853,7 +8853,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "114",
-    "numtests": ""
+    "numtests": "507877"
   },
   {
     "numtotal_last7": "799",
@@ -8867,8 +8867,8 @@
     "numtoday": "0",
     "numconf": "8641",
     "numrecover": "7036",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7349",
+    "ratetests": "100088",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.22",
@@ -8894,7 +8894,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "114",
-    "numtests": ""
+    "numtests": "515226"
   },
   {
     "numtotal_last7": "700",
@@ -8908,8 +8908,8 @@
     "numtoday": "267",
     "numconf": "8908",
     "numrecover": "7346",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7895",
+    "ratetests": "101622",
     "prname": "British Columbia",
     "percentoday": "3.09",
     "avgincidence_last7": "1.94",
@@ -8935,7 +8935,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "100",
-    "numtests": ""
+    "numtests": "523121"
   },
   {
     "numtotal_last7": "709",
@@ -8949,8 +8949,8 @@
     "numtoday": "105",
     "numconf": "9013",
     "numrecover": "7485",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5940",
+    "ratetests": "102776",
     "prname": "British Columbia",
     "percentoday": "1.18",
     "avgincidence_last7": "1.97",
@@ -8976,7 +8976,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "101",
-    "numtests": ""
+    "numtests": "529061"
   },
   {
     "numtotal_last7": "743",
@@ -8990,8 +8990,8 @@
     "numtoday": "125",
     "numconf": "9138",
     "numrecover": "7591",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5389",
+    "ratetests": "103823",
     "prname": "British Columbia",
     "percentoday": "1.39",
     "avgincidence_last7": "2.06",
@@ -9017,7 +9017,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "106",
-    "numtests": ""
+    "numtests": "534450"
   },
   {
     "numtotal_last7": "677",
@@ -9031,8 +9031,8 @@
     "numtoday": "82",
     "numconf": "9220",
     "numrecover": "7695",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9423",
+    "ratetests": "105653",
     "prname": "British Columbia",
     "percentoday": "0.90",
     "avgincidence_last7": "1.88",
@@ -9058,7 +9058,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "97",
-    "numtests": ""
+    "numtests": "543873"
   },
   {
     "numtotal_last7": "740",
@@ -9072,8 +9072,8 @@
     "numtoday": "161",
     "numconf": "9381",
     "numrecover": "7813",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11054",
+    "ratetests": "107801",
     "prname": "British Columbia",
     "percentoday": "1.75",
     "avgincidence_last7": "2.05",
@@ -9099,7 +9099,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "106",
-    "numtests": ""
+    "numtests": "554927"
   },
   {
     "numtotal_last7": "740",
@@ -9113,8 +9113,8 @@
     "numtoday": "0",
     "numconf": "9381",
     "numrecover": "7813",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11482",
+    "ratetests": "110031",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.05",
@@ -9140,7 +9140,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "106",
-    "numtests": ""
+    "numtests": "566409"
   },
   {
     "numtotal_last7": "740",
@@ -9154,8 +9154,8 @@
     "numtoday": "0",
     "numconf": "9381",
     "numrecover": "7813",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10882",
+    "ratetests": "112145",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.05",
@@ -9181,7 +9181,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "106",
-    "numtests": ""
+    "numtests": "577291"
   },
   {
     "numtotal_last7": "831",
@@ -9195,8 +9195,8 @@
     "numtoday": "358",
     "numconf": "9739",
     "numrecover": "8115",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11608",
+    "ratetests": "114400",
     "prname": "British Columbia",
     "percentoday": "3.82",
     "avgincidence_last7": "2.31",
@@ -9222,7 +9222,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.17",
     "avgtotal_last7": "119",
-    "numtests": ""
+    "numtests": "588899"
   },
   {
     "numtotal_last7": "828",
@@ -9236,8 +9236,8 @@
     "numtoday": "102",
     "numconf": "9841",
     "numrecover": "8184",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10924",
+    "ratetests": "116522",
     "prname": "British Columbia",
     "percentoday": "1.05",
     "avgincidence_last7": "2.30",
@@ -9263,7 +9263,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "118",
-    "numtests": ""
+    "numtests": "599823"
   },
   {
     "numtotal_last7": "818",
@@ -9277,8 +9277,8 @@
     "numtoday": "115",
     "numconf": "9956",
     "numrecover": "8296",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9209",
+    "ratetests": "118311",
     "prname": "British Columbia",
     "percentoday": "1.17",
     "avgincidence_last7": "2.27",
@@ -9304,7 +9304,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "117",
-    "numtests": ""
+    "numtests": "609032"
   },
   {
     "numtotal_last7": "846",
@@ -9318,8 +9318,8 @@
     "numtoday": "110",
     "numconf": "10066",
     "numrecover": "8398",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6757",
+    "ratetests": "119624",
     "prname": "British Columbia",
     "percentoday": "1.10",
     "avgincidence_last7": "2.35",
@@ -9345,7 +9345,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "121",
-    "numtests": ""
+    "numtests": "615789"
   },
   {
     "numtotal_last7": "804",
@@ -9359,8 +9359,8 @@
     "numtoday": "119",
     "numconf": "10185",
     "numrecover": "8502",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10948",
+    "ratetests": "121751",
     "prname": "British Columbia",
     "percentoday": "1.18",
     "avgincidence_last7": "2.23",
@@ -9386,7 +9386,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "115",
-    "numtests": ""
+    "numtests": "626737"
   },
   {
     "numtotal_last7": "804",
@@ -9400,8 +9400,8 @@
     "numtoday": "0",
     "numconf": "10185",
     "numrecover": "8502",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11755",
+    "ratetests": "124034",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.23",
@@ -9427,7 +9427,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "115",
-    "numtests": ""
+    "numtests": "638492"
   },
   {
     "numtotal_last7": "804",
@@ -9441,8 +9441,8 @@
     "numtoday": "0",
     "numconf": "10185",
     "numrecover": "8502",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "12738",
+    "ratetests": "126509",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.23",
@@ -9468,7 +9468,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "115",
-    "numtests": ""
+    "numtests": "651230"
   },
   {
     "numtotal_last7": "446",
@@ -9482,8 +9482,8 @@
     "numtoday": "0",
     "numconf": "10185",
     "numrecover": "8502",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11645",
+    "ratetests": "128771",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "1.24",
@@ -9509,7 +9509,7 @@
     "avgdeaths_last7": "0",
     "ratedeaths_last7": "0.06",
     "avgtotal_last7": "64",
-    "numtests": ""
+    "numtests": "662875"
   },
   {
     "numtotal_last7": "893",
@@ -9523,8 +9523,8 @@
     "numtoday": "549",
     "numconf": "10734",
     "numrecover": "8974",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10108",
+    "ratetests": "130734",
     "prname": "British Columbia",
     "percentoday": "5.39",
     "avgincidence_last7": "2.48",
@@ -9550,7 +9550,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "128",
-    "numtests": ""
+    "numtests": "672983"
   },
   {
     "numtotal_last7": "936",
@@ -9564,8 +9564,8 @@
     "numtoday": "158",
     "numconf": "10892",
     "numrecover": "9112",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5908",
+    "ratetests": "131882",
     "prname": "British Columbia",
     "percentoday": "1.47",
     "avgincidence_last7": "2.60",
@@ -9591,7 +9591,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "134",
-    "numtests": ""
+    "numtests": "678891"
   },
   {
     "numtotal_last7": "968",
@@ -9605,8 +9605,8 @@
     "numtoday": "142",
     "numconf": "11034",
     "numrecover": "9257",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5040",
+    "ratetests": "132861",
     "prname": "British Columbia",
     "percentoday": "1.30",
     "avgincidence_last7": "2.69",
@@ -9632,7 +9632,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "138",
-    "numtests": ""
+    "numtests": "683931"
   },
   {
     "numtotal_last7": "1004",
@@ -9646,8 +9646,8 @@
     "numtoday": "155",
     "numconf": "11189",
     "numrecover": "9387",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8647",
+    "ratetests": "134541",
     "prname": "British Columbia",
     "percentoday": "1.40",
     "avgincidence_last7": "2.79",
@@ -9673,7 +9673,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "143",
-    "numtests": ""
+    "numtests": "692578"
   },
   {
     "numtotal_last7": "1004",
@@ -9687,8 +9687,8 @@
     "numtoday": "0",
     "numconf": "11189",
     "numrecover": "9387",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10649",
+    "ratetests": "136610",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.79",
@@ -9714,7 +9714,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "143",
-    "numtests": ""
+    "numtests": "703227"
   },
   {
     "numtotal_last7": "1004",
@@ -9728,8 +9728,8 @@
     "numtoday": "0",
     "numconf": "11189",
     "numrecover": "9387",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9161",
+    "ratetests": "138389",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "2.79",
@@ -9755,7 +9755,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "143",
-    "numtests": ""
+    "numtests": "712388"
   },
   {
     "numtotal_last7": "1502",
@@ -9769,8 +9769,8 @@
     "numtoday": "498",
     "numconf": "11687",
     "numrecover": "9753",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11559",
+    "ratetests": "140635",
     "prname": "British Columbia",
     "percentoday": "4.45",
     "avgincidence_last7": "4.17",
@@ -9796,7 +9796,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.16",
     "avgtotal_last7": "215",
-    "numtests": ""
+    "numtests": "723947"
   },
   {
     "numtotal_last7": "1120",
@@ -9810,8 +9810,8 @@
     "numtoday": "167",
     "numconf": "11854",
     "numrecover": "9871",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8266",
+    "ratetests": "142240",
     "prname": "British Columbia",
     "percentoday": "1.43",
     "avgincidence_last7": "3.11",
@@ -9837,7 +9837,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.08",
     "avgtotal_last7": "160",
-    "numtests": ""
+    "numtests": "732213"
   },
   {
     "numtotal_last7": "1165",
@@ -9851,8 +9851,8 @@
     "numtoday": "203",
     "numconf": "12057",
     "numrecover": "9993",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5500",
+    "ratetests": "143309",
     "prname": "British Columbia",
     "percentoday": "1.71",
     "avgincidence_last7": "3.23",
@@ -9878,7 +9878,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "166",
-    "numtests": ""
+    "numtests": "737713"
   },
   {
     "numtotal_last7": "1297",
@@ -9892,8 +9892,8 @@
     "numtoday": "274",
     "numconf": "12331",
     "numrecover": "10114",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8766",
+    "ratetests": "145012",
     "prname": "British Columbia",
     "percentoday": "2.27",
     "avgincidence_last7": "3.60",
@@ -9919,7 +9919,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "185",
-    "numtests": ""
+    "numtests": "746479"
   },
   {
     "numtotal_last7": "1365",
@@ -9933,8 +9933,8 @@
     "numtoday": "223",
     "numconf": "12554",
     "numrecover": "10247",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11058",
+    "ratetests": "147160",
     "prname": "British Columbia",
     "percentoday": "1.81",
     "avgincidence_last7": "3.79",
@@ -9960,7 +9960,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "195",
-    "numtests": ""
+    "numtests": "757537"
   },
   {
     "numtotal_last7": "1365",
@@ -9974,8 +9974,8 @@
     "numtoday": "0",
     "numconf": "12554",
     "numrecover": "10247",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6986",
+    "ratetests": "148517",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "3.79",
@@ -10001,7 +10001,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "195",
-    "numtests": ""
+    "numtests": "764523"
   },
   {
     "numtotal_last7": "1365",
@@ -10015,8 +10015,8 @@
     "numtoday": "0",
     "numconf": "12554",
     "numrecover": "10247",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11572",
+    "ratetests": "150765",
     "prname": "British Columbia",
     "percentoday": "0.00",
     "avgincidence_last7": "3.79",
@@ -10042,7 +10042,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "195",
-    "numtests": ""
+    "numtests": "776095"
   },
   {
     "numtotal_last7": "1684",
@@ -10056,8 +10056,8 @@
     "numtoday": "817",
     "numconf": "13371",
     "numrecover": "10734",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9942",
+    "ratetests": "152696",
     "prname": "British Columbia",
     "percentoday": "6.51",
     "avgincidence_last7": "4.67",
@@ -10083,7 +10083,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "241",
-    "numtests": ""
+    "numtests": "786037"
   },
   {
     "numtotal_last7": "1734",
@@ -10097,8 +10097,8 @@
     "numtoday": "217",
     "numconf": "13588",
     "numrecover": "10954",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7389",
+    "ratetests": "154132",
     "prname": "British Columbia",
     "percentoday": "1.62",
     "avgincidence_last7": "4.81",
@@ -10124,7 +10124,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "248",
-    "numtests": ""
+    "numtests": "793426"
   },
   {
     "numtotal_last7": "1818",
@@ -10138,8 +10138,8 @@
     "numtoday": "287",
     "numconf": "13875",
     "numrecover": "11244",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4926",
+    "ratetests": "155089",
     "prname": "British Columbia",
     "percentoday": "2.11",
     "avgincidence_last7": "5.05",
@@ -10165,7 +10165,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.10",
     "avgtotal_last7": "260",
-    "numtests": ""
+    "numtests": "798352"
   },
   {
     "numtotal_last7": "1778",
@@ -10179,8 +10179,8 @@
     "numtoday": "234",
     "numconf": "14109",
     "numrecover": "11448",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9176",
+    "ratetests": "156871",
     "prname": "British Columbia",
     "percentoday": "1.69",
     "avgincidence_last7": "4.93",
@@ -10206,7 +10206,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.12",
     "avgtotal_last7": "254",
-    "numtests": ""
+    "numtests": "807528"
   },
   {
     "numtotal_last7": "1827",
@@ -10220,8 +10220,8 @@
     "numtoday": "272",
     "numconf": "14381",
     "numrecover": "11670",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10254",
+    "ratetests": "158863",
     "prname": "British Columbia",
     "percentoday": "1.93",
     "avgincidence_last7": "5.07",
@@ -10247,7 +10247,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "261",
-    "numtests": ""
+    "numtests": "817782"
   },
   {
     "numtotal_last7": "2179",
@@ -10261,8 +10261,8 @@
     "numtoday": "352",
     "numconf": "14733",
     "numrecover": "11670",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10125",
+    "ratetests": "160830",
     "prname": "British Columbia",
     "percentoday": "2.45",
     "avgincidence_last7": "6.05",
@@ -10288,7 +10288,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "311",
-    "numtests": ""
+    "numtests": "827907"
   },
   {
     "numtotal_last7": "2568",
@@ -10302,8 +10302,8 @@
     "numtoday": "389",
     "numconf": "15122",
     "numrecover": "11670",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9319",
+    "ratetests": "162640",
     "prname": "British Columbia",
     "percentoday": "2.64",
     "avgincidence_last7": "7.13",
@@ -10329,7 +10329,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.14",
     "avgtotal_last7": "367",
-    "numtests": ""
+    "numtests": "837226"
   },
   {
     "numtotal_last7": "2130",
@@ -10343,8 +10343,8 @@
     "numtoday": "379",
     "numconf": "15501",
     "numrecover": "12207",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9661",
+    "ratetests": "164517",
     "prname": "British Columbia",
     "percentoday": "2.51",
     "avgincidence_last7": "5.91",
@@ -10370,7 +10370,7 @@
     "avgdeaths_last7": "1",
     "ratedeaths_last7": "0.19",
     "avgtotal_last7": "304",
-    "numtests": ""
+    "numtests": "846887"
   },
   {
     "numtotal_last7": "2212",
@@ -10384,8 +10384,8 @@
     "numtoday": "299",
     "numconf": "15800",
     "numrecover": "12430",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6474",
+    "ratetests": "165775",
     "prname": "British Columbia",
     "percentoday": "1.93",
     "avgincidence_last7": "6.14",
@@ -10411,7 +10411,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "316",
-    "numtests": ""
+    "numtests": "853361"
   },
   {
     "numtotal_last7": "2260",
@@ -10425,8 +10425,8 @@
     "numtoday": "335",
     "numconf": "16135",
     "numrecover": "12659",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4910",
+    "ratetests": "166729",
     "prname": "British Columbia",
     "percentoday": "2.12",
     "avgincidence_last7": "6.27",
@@ -10452,7 +10452,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "323",
-    "numtests": ""
+    "numtests": "858271"
   },
   {
     "numtotal_last7": "2451",
@@ -10466,8 +10466,8 @@
     "numtoday": "425",
     "numconf": "16560",
     "numrecover": "12806",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8730",
+    "ratetests": "168425",
     "prname": "British Columbia",
     "percentoday": "2.63",
     "avgincidence_last7": "6.80",
@@ -10493,7 +10493,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.21",
     "avgtotal_last7": "350",
-    "numtests": ""
+    "numtests": "867001"
   },
   {
     "numtotal_last7": "2768",
@@ -10507,8 +10507,8 @@
     "numtoday": "589",
     "numconf": "17149",
     "numrecover": "13035",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10915",
+    "ratetests": "170545",
     "prname": "British Columbia",
     "percentoday": "3.56",
     "avgincidence_last7": "7.68",
@@ -10534,7 +10534,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "395",
-    "numtests": ""
+    "numtests": "877916"
   },
   {
     "numtotal_last7": "2983",
@@ -10548,8 +10548,8 @@
     "numtoday": "567",
     "numconf": "17716",
     "numrecover": "13035",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11386",
+    "ratetests": "172757",
     "prname": "British Columbia",
     "percentoday": "3.31",
     "avgincidence_last7": "8.28",
@@ -10575,7 +10575,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "426",
-    "numtests": ""
+    "numtests": "889302"
   },
   {
     "numtotal_last7": "3130",
@@ -10589,8 +10589,8 @@
     "numtoday": "536",
     "numconf": "18252",
     "numrecover": "13035",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9758",
+    "ratetests": "174652",
     "prname": "British Columbia",
     "percentoday": "3.03",
     "avgincidence_last7": "8.69",
@@ -10616,7 +10616,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.25",
     "avgtotal_last7": "447",
-    "numtests": ""
+    "numtests": "899060"
   },
   {
     "numtotal_last7": "3213",
@@ -10630,8 +10630,8 @@
     "numtoday": "462",
     "numconf": "18714",
     "numrecover": "13425",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8190",
+    "ratetests": "176243",
     "prname": "British Columbia",
     "percentoday": "2.53",
     "avgincidence_last7": "8.92",
@@ -10657,7 +10657,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "459",
-    "numtests": ""
+    "numtests": "907250"
   },
   {
     "numtotal_last7": "3439",
@@ -10671,8 +10671,8 @@
     "numtoday": "525",
     "numconf": "19239",
     "numrecover": "13704",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10204",
+    "ratetests": "178226",
     "prname": "British Columbia",
     "percentoday": "2.81",
     "avgincidence_last7": "9.54",
@@ -10698,7 +10698,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.23",
     "avgtotal_last7": "491",
-    "numtests": ""
+    "numtests": "917454"
   },
   {
     "numtotal_last7": "3639",
@@ -10712,8 +10712,8 @@
     "numtoday": "535",
     "numconf": "19774",
     "numrecover": "13704",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6393",
+    "ratetests": "179467",
     "prname": "British Columbia",
     "percentoday": "2.78",
     "avgincidence_last7": "10.10",
@@ -10739,7 +10739,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.21",
     "avgtotal_last7": "520",
-    "numtests": ""
+    "numtests": "923847"
   },
   {
     "numtotal_last7": "3808",
@@ -10753,8 +10753,8 @@
     "numtoday": "594",
     "numconf": "20368",
     "numrecover": "14089",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9664",
+    "ratetests": "181345",
     "prname": "British Columbia",
     "percentoday": "3.00",
     "avgincidence_last7": "10.57",
@@ -10780,7 +10780,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "544",
-    "numtests": ""
+    "numtests": "933511"
   },
   {
     "numtotal_last7": "3836",
@@ -10794,8 +10794,8 @@
     "numtoday": "617",
     "numconf": "20985",
     "numrecover": "14901",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "12208",
+    "ratetests": "183716",
     "prname": "British Columbia",
     "percentoday": "3.03",
     "avgincidence_last7": "10.65",
@@ -10821,7 +10821,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.29",
     "avgtotal_last7": "548",
-    "numtests": ""
+    "numtests": "945719"
   },
   {
     "numtotal_last7": "3923",
@@ -10835,8 +10835,8 @@
     "numtoday": "654",
     "numconf": "21639",
     "numrecover": "14901",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10303",
+    "ratetests": "185718",
     "prname": "British Columbia",
     "percentoday": "3.12",
     "avgincidence_last7": "10.89",
@@ -10862,7 +10862,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.27",
     "avgtotal_last7": "560",
-    "numtests": ""
+    "numtests": "956022"
   },
   {
     "numtotal_last7": "4046",
@@ -10876,8 +10876,8 @@
     "numtoday": "659",
     "numconf": "22298",
     "numrecover": "14901",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10759",
+    "ratetests": "187808",
     "prname": "British Columbia",
     "percentoday": "3.05",
     "avgincidence_last7": "11.23",
@@ -10903,7 +10903,7 @@
     "avgdeaths_last7": "2",
     "ratedeaths_last7": "0.27",
     "avgtotal_last7": "578",
-    "numtests": ""
+    "numtests": "966781"
   },
   {
     "numtotal_last7": "4230",
@@ -10917,8 +10917,8 @@
     "numtoday": "646",
     "numconf": "22944",
     "numrecover": "16087",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11442",
+    "ratetests": "190031",
     "prname": "British Columbia",
     "percentoday": "2.90",
     "avgincidence_last7": "11.74",
@@ -10944,7 +10944,7 @@
     "avgdeaths_last7": "3",
     "ratedeaths_last7": "0.35",
     "avgtotal_last7": "604",
-    "numtests": ""
+    "numtests": "978223"
   },
   {
     "numtotal_last7": "4422",
@@ -10958,8 +10958,8 @@
     "numtoday": "717",
     "numconf": "23661",
     "numrecover": "16469",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10322",
+    "ratetests": "192036",
     "prname": "British Columbia",
     "percentoday": "3.13",
     "avgincidence_last7": "12.27",
@@ -10985,7 +10985,7 @@
     "avgdeaths_last7": "4",
     "ratedeaths_last7": "0.51",
     "avgtotal_last7": "632",
-    "numtests": ""
+    "numtests": "988545"
   },
   {
     "numtotal_last7": "4648",
@@ -10999,8 +10999,8 @@
     "numtoday": "761",
     "numconf": "24422",
     "numrecover": "16914",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7058",
+    "ratetests": "193407",
     "prname": "British Columbia",
     "percentoday": "3.22",
     "avgincidence_last7": "12.90",
@@ -11026,7 +11026,7 @@
     "avgdeaths_last7": "5",
     "ratedeaths_last7": "0.70",
     "avgtotal_last7": "664",
-    "numtests": ""
+    "numtests": "995603"
   },
   {
     "numtotal_last7": "4590",
@@ -11040,8 +11040,8 @@
     "numtoday": "536",
     "numconf": "24958",
     "numrecover": "17206",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10952",
+    "ratetests": "195534",
     "prname": "British Columbia",
     "percentoday": "2.19",
     "avgincidence_last7": "12.74",
@@ -11067,7 +11067,7 @@
     "avgdeaths_last7": "5",
     "ratedeaths_last7": "0.64",
     "avgtotal_last7": "656",
-    "numtests": ""
+    "numtests": "1006555"
   },
   {
     "numtotal_last7": "4489",
@@ -11081,8 +11081,8 @@
     "numtoday": "516",
     "numconf": "25474",
     "numrecover": "17477",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "13739",
+    "ratetests": "198203",
     "prname": "British Columbia",
     "percentoday": "2.07",
     "avgincidence_last7": "12.46",
@@ -11108,7 +11108,7 @@
     "avgdeaths_last7": "6",
     "ratedeaths_last7": "0.80",
     "avgtotal_last7": "641",
-    "numtests": ""
+    "numtests": "1020294"
   },
   {
     "numtotal_last7": "4548",
@@ -11122,8 +11122,8 @@
     "numtoday": "713",
     "numconf": "26187",
     "numrecover": "17477",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10762",
+    "ratetests": "200294",
     "prname": "British Columbia",
     "percentoday": "2.80",
     "avgincidence_last7": "12.62",
@@ -11149,7 +11149,7 @@
     "avgdeaths_last7": "6",
     "ratedeaths_last7": "0.80",
     "avgtotal_last7": "650",
-    "numtests": ""
+    "numtests": "1031056"
   },
   {
     "numtotal_last7": "4515",
@@ -11163,8 +11163,8 @@
     "numtoday": "626",
     "numconf": "26813",
     "numrecover": "17477",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "14698",
+    "ratetests": "203149",
     "prname": "British Columbia",
     "percentoday": "2.39",
     "avgincidence_last7": "12.53",
@@ -11190,7 +11190,7 @@
     "avgdeaths_last7": "6",
     "ratedeaths_last7": "0.80",
     "avgtotal_last7": "645",
-    "numtests": ""
+    "numtests": "1045754"
   },
   {
     "numtotal_last7": "4463",
@@ -11204,8 +11204,8 @@
     "numtoday": "594",
     "numconf": "27407",
     "numrecover": "19069",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "12512",
+    "ratetests": "205580",
     "prname": "British Columbia",
     "percentoday": "2.22",
     "avgincidence_last7": "12.39",
@@ -11231,7 +11231,7 @@
     "avgdeaths_last7": "7",
     "ratedeaths_last7": "0.95",
     "avgtotal_last7": "638",
-    "numtests": ""
+    "numtests": "1058266"
   },
   {
     "numtotal_last7": "4687",
@@ -11245,8 +11245,8 @@
     "numtoday": "941",
     "numconf": "28348",
     "numrecover": "19605",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10459",
+    "ratetests": "207612",
     "prname": "British Columbia",
     "percentoday": "3.43",
     "avgincidence_last7": "13.01",
@@ -11272,7 +11272,7 @@
     "avgdeaths_last7": "7",
     "ratedeaths_last7": "0.93",
     "avgtotal_last7": "670",
-    "numtests": ""
+    "numtests": "1068725"
   },
   {
     "numtotal_last7": "4664",
@@ -11286,8 +11286,8 @@
     "numtoday": "738",
     "numconf": "29086",
     "numrecover": "19814",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11542",
+    "ratetests": "209854",
     "prname": "British Columbia",
     "percentoday": "2.60",
     "avgincidence_last7": "12.94",
@@ -11313,7 +11313,7 @@
     "avgdeaths_last7": "7",
     "ratedeaths_last7": "0.99",
     "avgtotal_last7": "666",
-    "numtests": ""
+    "numtests": "1080267"
   },
   {
     "numtotal_last7": "5015",
@@ -11327,8 +11327,8 @@
     "numtoday": "887",
     "numconf": "29973",
     "numrecover": "19998",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11045",
+    "ratetests": "211999",
     "prname": "British Columbia",
     "percentoday": "3.05",
     "avgincidence_last7": "13.92",
@@ -11354,7 +11354,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.22",
     "avgtotal_last7": "716",
-    "numtests": ""
+    "numtests": "1091312"
   },
   {
     "numtotal_last7": "5410",
@@ -11368,8 +11368,8 @@
     "numtoday": "911",
     "numconf": "30884",
     "numrecover": "21304",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "13184",
+    "ratetests": "214561",
     "prname": "British Columbia",
     "percentoday": "3.04",
     "avgincidence_last7": "15.01",
@@ -11395,7 +11395,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.24",
     "avgtotal_last7": "773",
-    "numtests": ""
+    "numtests": "1104496"
   },
   {
     "numtotal_last7": "5447",
@@ -11409,8 +11409,8 @@
     "numtoday": "750",
     "numconf": "31634",
     "numrecover": "21304",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "14233",
+    "ratetests": "217325",
     "prname": "British Columbia",
     "percentoday": "2.43",
     "avgincidence_last7": "15.12",
@@ -11436,7 +11436,7 @@
     "avgdeaths_last7": "11",
     "ratedeaths_last7": "1.53",
     "avgtotal_last7": "778",
-    "numtests": ""
+    "numtests": "1118729"
   },
   {
     "numtotal_last7": "5829",
@@ -11450,8 +11450,8 @@
     "numtoday": "1008",
     "numconf": "32642",
     "numrecover": "21304",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "15212",
+    "ratetests": "220281",
     "prname": "British Columbia",
     "percentoday": "3.19",
     "avgincidence_last7": "16.18",
@@ -11477,7 +11477,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.86",
     "avgtotal_last7": "833",
-    "numtests": ""
+    "numtests": "1133941"
   },
   {
     "numtotal_last7": "5831",
@@ -11491,8 +11491,8 @@
     "numtoday": "596",
     "numconf": "33238",
     "numrecover": "23111",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "13313",
+    "ratetests": "222867",
     "prname": "British Columbia",
     "percentoday": "1.83",
     "avgincidence_last7": "16.18",
@@ -11518,7 +11518,7 @@
     "avgdeaths_last7": "13",
     "ratedeaths_last7": "1.81",
     "avgtotal_last7": "833",
-    "numtests": ""
+    "numtests": "1147254"
   },
   {
     "numtotal_last7": "5546",
@@ -11532,8 +11532,8 @@
     "numtoday": "656",
     "numconf": "33894",
     "numrecover": "23774",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9491",
+    "ratetests": "224711",
     "prname": "British Columbia",
     "percentoday": "1.97",
     "avgincidence_last7": "15.39",
@@ -11559,7 +11559,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.92",
     "avgtotal_last7": "792",
-    "numtests": ""
+    "numtests": "1156745"
   },
   {
     "numtotal_last7": "5642",
@@ -11573,8 +11573,8 @@
     "numtoday": "834",
     "numconf": "34728",
     "numrecover": "24424",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8671",
+    "ratetests": "226395",
     "prname": "British Columbia",
     "percentoday": "2.46",
     "avgincidence_last7": "15.66",
@@ -11600,7 +11600,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.90",
     "avgtotal_last7": "806",
-    "numtests": ""
+    "numtests": "1165416"
   },
   {
     "numtotal_last7": "5448",
@@ -11614,8 +11614,8 @@
     "numtoday": "693",
     "numconf": "35421",
     "numrecover": "24928",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11607",
+    "ratetests": "228650",
     "prname": "British Columbia",
     "percentoday": "2.00",
     "avgincidence_last7": "15.12",
@@ -11641,7 +11641,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.88",
     "avgtotal_last7": "778",
-    "numtests": ""
+    "numtests": "1177023"
   },
   {
     "numtotal_last7": "5248",
@@ -11655,8 +11655,8 @@
     "numtoday": "711",
     "numconf": "36132",
     "numrecover": "25658",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "12732",
+    "ratetests": "231123",
     "prname": "British Columbia",
     "percentoday": "2.01",
     "avgincidence_last7": "14.56",
@@ -11682,7 +11682,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.88",
     "avgtotal_last7": "750",
-    "numtests": ""
+    "numtests": "1189755"
   },
   {
     "numtotal_last7": "5145",
@@ -11696,8 +11696,8 @@
     "numtoday": "647",
     "numconf": "36779",
     "numrecover": "25658",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "14477",
+    "ratetests": "233935",
     "prname": "British Columbia",
     "percentoday": "1.79",
     "avgincidence_last7": "14.28",
@@ -11723,7 +11723,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.94",
     "avgtotal_last7": "735",
-    "numtests": ""
+    "numtests": "1204232"
   },
   {
     "numtotal_last7": "4863",
@@ -11737,8 +11737,8 @@
     "numtoday": "726",
     "numconf": "37505",
     "numrecover": "25658",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10811",
+    "ratetests": "236036",
     "prname": "British Columbia",
     "percentoday": "1.97",
     "avgincidence_last7": "13.50",
@@ -11764,7 +11764,7 @@
     "avgdeaths_last7": "13",
     "ratedeaths_last7": "1.81",
     "avgtotal_last7": "695",
-    "numtests": ""
+    "numtests": "1215043"
   },
   {
     "numtotal_last7": "4914",
@@ -11778,8 +11778,8 @@
     "numtoday": "647",
     "numconf": "38152",
     "numrecover": "27287",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "14241",
+    "ratetests": "238802",
     "prname": "British Columbia",
     "percentoday": "1.73",
     "avgincidence_last7": "13.64",
@@ -11805,7 +11805,7 @@
     "avgdeaths_last7": "12",
     "ratedeaths_last7": "1.67",
     "avgtotal_last7": "702",
-    "numtests": ""
+    "numtests": "1229284"
   },
   {
     "numtotal_last7": "4824",
@@ -11819,8 +11819,8 @@
     "numtoday": "566",
     "numconf": "38718",
     "numrecover": "27897",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10198",
+    "ratetests": "240783",
     "prname": "British Columbia",
     "percentoday": "1.48",
     "avgincidence_last7": "13.39",
@@ -11846,7 +11846,7 @@
     "avgdeaths_last7": "12",
     "ratedeaths_last7": "1.67",
     "avgtotal_last7": "689",
-    "numtests": ""
+    "numtests": "1239482"
   },
   {
     "numtotal_last7": "4609",
@@ -11860,8 +11860,8 @@
     "numtoday": "619",
     "numconf": "39337",
     "numrecover": "28448",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6717",
+    "ratetests": "242088",
     "prname": "British Columbia",
     "percentoday": "1.60",
     "avgincidence_last7": "12.79",
@@ -11887,7 +11887,7 @@
     "avgdeaths_last7": "13",
     "ratedeaths_last7": "1.75",
     "avgtotal_last7": "658",
-    "numtests": ""
+    "numtests": "1246199"
   },
   {
     "numtotal_last7": "4639",
@@ -11901,8 +11901,8 @@
     "numtoday": "723",
     "numconf": "40060",
     "numrecover": "28948",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "12651",
+    "ratetests": "244546",
     "prname": "British Columbia",
     "percentoday": "1.84",
     "avgincidence_last7": "12.87",
@@ -11928,7 +11928,7 @@
     "avgdeaths_last7": "15",
     "ratedeaths_last7": "2.06",
     "avgtotal_last7": "663",
-    "numtests": ""
+    "numtests": "1258850"
   },
   {
     "numtotal_last7": "4665",
@@ -11942,8 +11942,8 @@
     "numtoday": "737",
     "numconf": "40797",
     "numrecover": "29598",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11947",
+    "ratetests": "246866",
     "prname": "British Columbia",
     "percentoday": "1.84",
     "avgincidence_last7": "12.95",
@@ -11969,7 +11969,7 @@
     "avgdeaths_last7": "15",
     "ratedeaths_last7": "2.06",
     "avgtotal_last7": "666",
-    "numtests": ""
+    "numtests": "1270797"
   },
   {
     "numtotal_last7": "4716",
@@ -11983,8 +11983,8 @@
     "numtoday": "698",
     "numconf": "41495",
     "numrecover": "29598",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11113",
+    "ratetests": "249025",
     "prname": "British Columbia",
     "percentoday": "1.71",
     "avgincidence_last7": "13.09",
@@ -12010,7 +12010,7 @@
     "avgdeaths_last7": "17",
     "ratedeaths_last7": "2.25",
     "avgtotal_last7": "674",
-    "numtests": ""
+    "numtests": "1281910"
   },
   {
     "numtotal_last7": "4679",
@@ -12024,8 +12024,8 @@
     "numtoday": "689",
     "numconf": "42184",
     "numrecover": "29598",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "13612",
+    "ratetests": "251669",
     "prname": "British Columbia",
     "percentoday": "1.66",
     "avgincidence_last7": "12.98",
@@ -12051,7 +12051,7 @@
     "avgdeaths_last7": "17",
     "ratedeaths_last7": "2.33",
     "avgtotal_last7": "668",
-    "numtests": ""
+    "numtests": "1295522"
   },
   {
     "numtotal_last7": "4791",
@@ -12065,8 +12065,8 @@
     "numtoday": "759",
     "numconf": "42943",
     "numrecover": "31207",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9624",
+    "ratetests": "253539",
     "prname": "British Columbia",
     "percentoday": "1.80",
     "avgincidence_last7": "13.30",
@@ -12092,7 +12092,7 @@
     "avgdeaths_last7": "17",
     "ratedeaths_last7": "2.33",
     "avgtotal_last7": "684",
-    "numtests": ""
+    "numtests": "1305146"
   },
   {
     "numtotal_last7": "4745",
@@ -12106,8 +12106,8 @@
     "numtoday": "520",
     "numconf": "43463",
     "numrecover": "31866",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11143",
+    "ratetests": "255704",
     "prname": "British Columbia",
     "percentoday": "1.21",
     "avgincidence_last7": "13.17",
@@ -12133,7 +12133,7 @@
     "avgdeaths_last7": "18",
     "ratedeaths_last7": "2.43",
     "avgtotal_last7": "678",
-    "numtests": ""
+    "numtests": "1316289"
   },
   {
     "numtotal_last7": "4766",
@@ -12147,8 +12147,8 @@
     "numtoday": "640",
     "numconf": "44103",
     "numrecover": "32376",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6522",
+    "ratetests": "256971",
     "prname": "British Columbia",
     "percentoday": "1.47",
     "avgincidence_last7": "13.23",
@@ -12174,7 +12174,7 @@
     "avgdeaths_last7": "19",
     "ratedeaths_last7": "2.58",
     "avgtotal_last7": "681",
-    "numtests": ""
+    "numtests": "1322811"
   },
   {
     "numtotal_last7": "4716",
@@ -12188,8 +12188,8 @@
     "numtoday": "673",
     "numconf": "44776",
     "numrecover": "32963",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "15196",
+    "ratetests": "259923",
     "prname": "British Columbia",
     "percentoday": "1.53",
     "avgincidence_last7": "13.09",
@@ -12215,7 +12215,7 @@
     "avgdeaths_last7": "18",
     "ratedeaths_last7": "2.45",
     "avgtotal_last7": "674",
-    "numtests": ""
+    "numtests": "1338007"
   },
   {
     "numtotal_last7": "4603",
@@ -12229,8 +12229,8 @@
     "numtoday": "624",
     "numconf": "45400",
     "numrecover": "33589",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "12095",
+    "ratetests": "262272",
     "prname": "British Columbia",
     "percentoday": "1.39",
     "avgincidence_last7": "12.77",
@@ -12256,7 +12256,7 @@
     "avgdeaths_last7": "18",
     "ratedeaths_last7": "2.45",
     "avgtotal_last7": "658",
-    "numtests": ""
+    "numtests": "1350102"
   },
   {
     "numtotal_last7": "4557",
@@ -12270,8 +12270,8 @@
     "numtoday": "652",
     "numconf": "46052",
     "numrecover": "33589",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11533",
+    "ratetests": "264513",
     "prname": "British Columbia",
     "percentoday": "1.44",
     "avgincidence_last7": "12.65",
@@ -12297,7 +12297,7 @@
     "avgdeaths_last7": "18",
     "ratedeaths_last7": "2.45",
     "avgtotal_last7": "651",
-    "numtests": ""
+    "numtests": "1361635"
   },
   {
     "numtotal_last7": "4354",
@@ -12311,8 +12311,8 @@
     "numtoday": "486",
     "numconf": "46538",
     "numrecover": "33589",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11717",
+    "ratetests": "266789",
     "prname": "British Columbia",
     "percentoday": "1.06",
     "avgincidence_last7": "12.08",
@@ -12338,7 +12338,7 @@
     "avgdeaths_last7": "17",
     "ratedeaths_last7": "2.33",
     "avgtotal_last7": "622",
-    "numtests": ""
+    "numtests": "1373352"
   },
   {
     "numtotal_last7": "4124",
@@ -12352,8 +12352,8 @@
     "numtoday": "529",
     "numconf": "47067",
     "numrecover": "35455",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11067",
+    "ratetests": "268939",
     "prname": "British Columbia",
     "percentoday": "1.14",
     "avgincidence_last7": "11.44",
@@ -12379,7 +12379,7 @@
     "avgdeaths_last7": "17",
     "ratedeaths_last7": "2.29",
     "avgtotal_last7": "589",
-    "numtests": ""
+    "numtests": "1384419"
   },
   {
     "numtotal_last7": "4047",
@@ -12393,8 +12393,8 @@
     "numtoday": "443",
     "numconf": "47510",
     "numrecover": "36094",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7175",
+    "ratetests": "270333",
     "prname": "British Columbia",
     "percentoday": "0.94",
     "avgincidence_last7": "11.23",
@@ -12420,7 +12420,7 @@
     "avgdeaths_last7": "16",
     "ratedeaths_last7": "2.12",
     "avgtotal_last7": "578",
-    "numtests": ""
+    "numtests": "1391594"
   },
   {
     "numtotal_last7": "3924",
@@ -12434,8 +12434,8 @@
     "numtoday": "517",
     "numconf": "48027",
     "numrecover": "36952",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6577",
+    "ratetests": "271610",
     "prname": "British Columbia",
     "percentoday": "1.09",
     "avgincidence_last7": "10.89",
@@ -12461,7 +12461,7 @@
     "avgdeaths_last7": "15",
     "ratedeaths_last7": "2.02",
     "avgtotal_last7": "561",
-    "numtests": ""
+    "numtests": "1398171"
   },
   {
     "numtotal_last7": "3833",
@@ -12475,8 +12475,8 @@
     "numtoday": "582",
     "numconf": "48609",
     "numrecover": "37784",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8518",
+    "ratetests": "273265",
     "prname": "British Columbia",
     "percentoday": "1.21",
     "avgincidence_last7": "10.64",
@@ -12502,7 +12502,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.85",
     "avgtotal_last7": "548",
-    "numtests": ""
+    "numtests": "1406689"
   },
   {
     "numtotal_last7": "3721",
@@ -12516,8 +12516,8 @@
     "numtoday": "512",
     "numconf": "49121",
     "numrecover": "37784",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8854",
+    "ratetests": "274985",
     "prname": "British Columbia",
     "percentoday": "1.05",
     "avgincidence_last7": "10.33",
@@ -12543,7 +12543,7 @@
     "avgdeaths_last7": "16",
     "ratedeaths_last7": "2.12",
     "avgtotal_last7": "532",
-    "numtests": ""
+    "numtests": "1415543"
   },
   {
     "numtotal_last7": "3516",
@@ -12557,8 +12557,8 @@
     "numtoday": "447",
     "numconf": "49568",
     "numrecover": "37784",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8026",
+    "ratetests": "276544",
     "prname": "British Columbia",
     "percentoday": "0.91",
     "avgincidence_last7": "9.76",
@@ -12584,7 +12584,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.85",
     "avgtotal_last7": "502",
-    "numtests": ""
+    "numtests": "1423569"
   },
   {
     "numtotal_last7": "3454",
@@ -12598,8 +12598,8 @@
     "numtoday": "424",
     "numconf": "49992",
     "numrecover": "37784",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6106",
+    "ratetests": "277730",
     "prname": "British Columbia",
     "percentoday": "0.86",
     "avgincidence_last7": "9.59",
@@ -12625,7 +12625,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.96",
     "avgtotal_last7": "493",
-    "numtests": ""
+    "numtests": "1429675"
   },
   {
     "numtotal_last7": "3366",
@@ -12639,8 +12639,8 @@
     "numtoday": "441",
     "numconf": "50433",
     "numrecover": "37784",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "3788",
+    "ratetests": "278466",
     "prname": "British Columbia",
     "percentoday": "0.88",
     "avgincidence_last7": "9.34",
@@ -12666,7 +12666,7 @@
     "avgdeaths_last7": "15",
     "ratedeaths_last7": "2.08",
     "avgtotal_last7": "481",
-    "numtests": ""
+    "numtests": "1433463"
   },
   {
     "numtotal_last7": "3305",
@@ -12680,8 +12680,8 @@
     "numtoday": "382",
     "numconf": "50815",
     "numrecover": "41175",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4426",
+    "ratetests": "279326",
     "prname": "British Columbia",
     "percentoday": "0.76",
     "avgincidence_last7": "9.17",
@@ -12707,7 +12707,7 @@
     "avgdeaths_last7": "15",
     "ratedeaths_last7": "2.04",
     "avgtotal_last7": "472",
-    "numtests": ""
+    "numtests": "1437889"
   },
   {
     "numtotal_last7": "3273",
@@ -12721,8 +12721,8 @@
     "numtoday": "485",
     "numconf": "51300",
     "numrecover": "41681",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4673",
+    "ratetests": "280234",
     "prname": "British Columbia",
     "percentoday": "0.95",
     "avgincidence_last7": "9.08",
@@ -12748,7 +12748,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.88",
     "avgtotal_last7": "468",
-    "numtests": ""
+    "numtests": "1442562"
   },
   {
     "numtotal_last7": "3381",
@@ -12762,8 +12762,8 @@
     "numtoday": "690",
     "numconf": "51990",
     "numrecover": "42127",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6786",
+    "ratetests": "281552",
     "prname": "British Columbia",
     "percentoday": "1.35",
     "avgincidence_last7": "9.38",
@@ -12789,7 +12789,7 @@
     "avgdeaths_last7": "13",
     "ratedeaths_last7": "1.81",
     "avgtotal_last7": "483",
-    "numtests": ""
+    "numtests": "1449348"
   },
   {
     "numtotal_last7": "3434",
@@ -12803,8 +12803,8 @@
     "numtoday": "565",
     "numconf": "52555",
     "numrecover": "42127",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8005",
+    "ratetests": "283107",
     "prname": "British Columbia",
     "percentoday": "1.09",
     "avgincidence_last7": "9.53",
@@ -12830,7 +12830,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.32",
     "avgtotal_last7": "491",
-    "numtests": ""
+    "numtests": "1457353"
   },
   {
     "numtotal_last7": "3594",
@@ -12844,8 +12844,8 @@
     "numtoday": "607",
     "numconf": "53162",
     "numrecover": "42127",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7668",
+    "ratetests": "284597",
     "prname": "British Columbia",
     "percentoday": "1.15",
     "avgincidence_last7": "9.97",
@@ -12871,7 +12871,7 @@
     "avgdeaths_last7": "8",
     "ratedeaths_last7": "1.05",
     "avgtotal_last7": "513",
-    "numtests": ""
+    "numtests": "1465021"
   },
   {
     "numtotal_last7": "3670",
@@ -12885,8 +12885,8 @@
     "numtoday": "500",
     "numconf": "53662",
     "numrecover": "42127",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "7262",
+    "ratetests": "286007",
     "prname": "British Columbia",
     "percentoday": "0.94",
     "avgincidence_last7": "10.18",
@@ -12912,7 +12912,7 @@
     "avgdeaths_last7": "6",
     "ratedeaths_last7": "0.78",
     "avgtotal_last7": "524",
-    "numtests": ""
+    "numtests": "1472283"
   },
   {
     "numtotal_last7": "3768",
@@ -12926,8 +12926,8 @@
     "numtoday": "539",
     "numconf": "54201",
     "numrecover": "45229",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "4672",
+    "ratetests": "286915",
     "prname": "British Columbia",
     "percentoday": "1.00",
     "avgincidence_last7": "10.46",
@@ -12953,7 +12953,7 @@
     "avgdeaths_last7": "11",
     "ratedeaths_last7": "1.44",
     "avgtotal_last7": "538",
-    "numtests": ""
+    "numtests": "1476955"
   },
   {
     "numtotal_last7": "3814",
@@ -12967,8 +12967,8 @@
     "numtoday": "428",
     "numconf": "54629",
     "numrecover": "45999",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5925",
+    "ratetests": "288066",
     "prname": "British Columbia",
     "percentoday": "0.79",
     "avgincidence_last7": "10.58",
@@ -12994,7 +12994,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.40",
     "avgtotal_last7": "545",
-    "numtests": ""
+    "numtests": "1482880"
   },
   {
     "numtotal_last7": "3954",
@@ -13008,8 +13008,8 @@
     "numtoday": "625",
     "numconf": "55254",
     "numrecover": "46728",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "6054",
+    "ratetests": "289242",
     "prname": "British Columbia",
     "percentoday": "1.14",
     "avgincidence_last7": "10.97",
@@ -13035,7 +13035,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.34",
     "avgtotal_last7": "565",
-    "numtests": ""
+    "numtests": "1488934"
   },
   {
     "numtotal_last7": "4025",
@@ -13049,8 +13049,8 @@
     "numtoday": "761",
     "numconf": "56015",
     "numrecover": "47374",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9020",
+    "ratetests": "290994",
     "prname": "British Columbia",
     "percentoday": "1.38",
     "avgincidence_last7": "11.17",
@@ -13076,7 +13076,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.34",
     "avgtotal_last7": "575",
-    "numtests": ""
+    "numtests": "1497954"
   },
   {
     "numtotal_last7": "4077",
@@ -13090,8 +13090,8 @@
     "numtoday": "617",
     "numconf": "56632",
     "numrecover": "48205",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8962",
+    "ratetests": "292735",
     "prname": "British Columbia",
     "percentoday": "1.10",
     "avgincidence_last7": "11.31",
@@ -13117,7 +13117,7 @@
     "avgdeaths_last7": "12",
     "ratedeaths_last7": "1.69",
     "avgtotal_last7": "582",
-    "numtests": ""
+    "numtests": "1506916"
   },
   {
     "numtotal_last7": "4008",
@@ -13131,8 +13131,8 @@
     "numtoday": "538",
     "numconf": "57170",
     "numrecover": "48205",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9330",
+    "ratetests": "294548",
     "prname": "British Columbia",
     "percentoday": "0.95",
     "avgincidence_last7": "11.12",
@@ -13158,7 +13158,7 @@
     "avgdeaths_last7": "14",
     "ratedeaths_last7": "1.90",
     "avgtotal_last7": "573",
-    "numtests": ""
+    "numtests": "1516246"
   },
   {
     "numtotal_last7": "4015",
@@ -13172,8 +13172,8 @@
     "numtoday": "507",
     "numconf": "57677",
     "numrecover": "48205",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8525",
+    "ratetests": "296204",
     "prname": "British Columbia",
     "percentoday": "0.89",
     "avgincidence_last7": "11.14",
@@ -13199,7 +13199,7 @@
     "avgdeaths_last7": "15",
     "ratedeaths_last7": "2.02",
     "avgtotal_last7": "574",
-    "numtests": ""
+    "numtests": "1524771"
   },
   {
     "numtotal_last7": "3906",
@@ -13213,8 +13213,8 @@
     "numtoday": "430",
     "numconf": "58107",
     "numrecover": "50541",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9564",
+    "ratetests": "298062",
     "prname": "British Columbia",
     "percentoday": "0.75",
     "avgincidence_last7": "10.84",
@@ -13240,7 +13240,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.24",
     "avgtotal_last7": "558",
-    "numtests": ""
+    "numtests": "1534335"
   },
   {
     "numtotal_last7": "3924",
@@ -13254,8 +13254,8 @@
     "numtoday": "446",
     "numconf": "58553",
     "numrecover": "51144",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5719",
+    "ratetests": "299173",
     "prname": "British Columbia",
     "percentoday": "0.77",
     "avgincidence_last7": "10.89",
@@ -13281,7 +13281,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.26",
     "avgtotal_last7": "561",
-    "numtests": ""
+    "numtests": "1540054"
   },
   {
     "numtotal_last7": "3818",
@@ -13295,8 +13295,8 @@
     "numtoday": "519",
     "numconf": "59072",
     "numrecover": "51893",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5883",
+    "ratetests": "300315",
     "prname": "British Columbia",
     "percentoday": "0.89",
     "avgincidence_last7": "10.60",
@@ -13322,7 +13322,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.34",
     "avgtotal_last7": "545",
-    "numtests": ""
+    "numtests": "1545937"
   },
   {
     "numtotal_last7": "3593",
@@ -13336,8 +13336,8 @@
     "numtoday": "536",
     "numconf": "59608",
     "numrecover": "52605",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9118",
+    "ratetests": "302087",
     "prname": "British Columbia",
     "percentoday": "0.91",
     "avgincidence_last7": "9.97",
@@ -13363,7 +13363,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.32",
     "avgtotal_last7": "513",
-    "numtests": ""
+    "numtests": "1555055"
   },
   {
     "numtotal_last7": "3485",
@@ -13377,8 +13377,8 @@
     "numtoday": "509",
     "numconf": "60117",
     "numrecover": "53115",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9414",
+    "ratetests": "303915",
     "prname": "British Columbia",
     "percentoday": "0.85",
     "avgincidence_last7": "9.67",
@@ -13404,7 +13404,7 @@
     "avgdeaths_last7": "8",
     "ratedeaths_last7": "1.15",
     "avgtotal_last7": "498",
-    "numtests": ""
+    "numtests": "1564469"
   },
   {
     "numtotal_last7": "3531",
@@ -13418,8 +13418,8 @@
     "numtoday": "584",
     "numconf": "60701",
     "numrecover": "53115",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9821",
+    "ratetests": "305823",
     "prname": "British Columbia",
     "percentoday": "0.97",
     "avgincidence_last7": "9.80",
@@ -13445,7 +13445,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.26",
     "avgtotal_last7": "504",
-    "numtests": ""
+    "numtests": "1574290"
   },
   {
     "numtotal_last7": "3469",
@@ -13459,8 +13459,8 @@
     "numtoday": "445",
     "numconf": "61146",
     "numrecover": "53115",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9181",
+    "ratetests": "307607",
     "prname": "British Columbia",
     "percentoday": "0.73",
     "avgincidence_last7": "9.63",
@@ -13486,7 +13486,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.32",
     "avgtotal_last7": "496",
-    "numtests": ""
+    "numtests": "1583471"
   },
   {
     "numtotal_last7": "3340",
@@ -13500,8 +13500,8 @@
     "numtoday": "301",
     "numconf": "61447",
     "numrecover": "54656",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10621",
+    "ratetests": "309670",
     "prname": "British Columbia",
     "percentoday": "0.49",
     "avgincidence_last7": "9.27",
@@ -13527,7 +13527,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.32",
     "avgtotal_last7": "477",
-    "numtests": ""
+    "numtests": "1594092"
   },
   {
     "numtotal_last7": "3359",
@@ -13541,8 +13541,8 @@
     "numtoday": "465",
     "numconf": "61912",
     "numrecover": "55099",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5636",
+    "ratetests": "310765",
     "prname": "British Columbia",
     "percentoday": "0.76",
     "avgincidence_last7": "9.32",
@@ -13568,7 +13568,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.38",
     "avgtotal_last7": "480",
-    "numtests": ""
+    "numtests": "1599728"
   },
   {
     "numtotal_last7": "3340",
@@ -13582,8 +13582,8 @@
     "numtoday": "500",
     "numconf": "62412",
     "numrecover": "55564",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5152",
+    "ratetests": "311766",
     "prname": "British Columbia",
     "percentoday": "0.81",
     "avgincidence_last7": "9.27",
@@ -13609,7 +13609,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.42",
     "avgtotal_last7": "477",
-    "numtests": ""
+    "numtests": "1604880"
   },
   {
     "numtotal_last7": "3368",
@@ -13623,8 +13623,8 @@
     "numtoday": "564",
     "numconf": "62976",
     "numrecover": "56010",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10542",
+    "ratetests": "313814",
     "prname": "British Columbia",
     "percentoday": "0.90",
     "avgincidence_last7": "9.35",
@@ -13650,7 +13650,7 @@
     "avgdeaths_last7": "12",
     "ratedeaths_last7": "1.57",
     "avgtotal_last7": "481",
-    "numtests": ""
+    "numtests": "1615422"
   },
   {
     "numtotal_last7": "3367",
@@ -13664,8 +13664,8 @@
     "numtoday": "508",
     "numconf": "63484",
     "numrecover": "56455",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "8942",
+    "ratetests": "315551",
     "prname": "British Columbia",
     "percentoday": "0.81",
     "avgincidence_last7": "9.34",
@@ -13691,7 +13691,7 @@
     "avgdeaths_last7": "12",
     "ratedeaths_last7": "1.57",
     "avgtotal_last7": "481",
-    "numtests": ""
+    "numtests": "1624364"
   },
   {
     "numtotal_last7": "3310",
@@ -13705,8 +13705,8 @@
     "numtoday": "527",
     "numconf": "64011",
     "numrecover": "56455",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "9542",
+    "ratetests": "317404",
     "prname": "British Columbia",
     "percentoday": "0.83",
     "avgincidence_last7": "9.19",
@@ -13732,7 +13732,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.24",
     "avgtotal_last7": "473",
-    "numtests": ""
+    "numtests": "1633906"
   },
   {
     "numtotal_last7": "3336",
@@ -13746,8 +13746,8 @@
     "numtoday": "471",
     "numconf": "64482",
     "numrecover": "56455",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10297",
+    "ratetests": "319405",
     "prname": "British Columbia",
     "percentoday": "0.74",
     "avgincidence_last7": "9.26",
@@ -13773,7 +13773,7 @@
     "avgdeaths_last7": "8",
     "ratedeaths_last7": "1.07",
     "avgtotal_last7": "477",
-    "numtests": ""
+    "numtests": "1644203"
   },
   {
     "numtotal_last7": "3381",
@@ -13787,8 +13787,8 @@
     "numtoday": "346",
     "numconf": "64828",
     "numrecover": "57831",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10545",
+    "ratetests": "321453",
     "prname": "British Columbia",
     "percentoday": "0.54",
     "avgincidence_last7": "9.38",
@@ -13814,7 +13814,7 @@
     "avgdeaths_last7": "11",
     "ratedeaths_last7": "1.48",
     "avgtotal_last7": "483",
-    "numtests": ""
+    "numtests": "1654748"
   },
   {
     "numtotal_last7": "3322",
@@ -13828,8 +13828,8 @@
     "numtoday": "406",
     "numconf": "65234",
     "numrecover": "58352",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5926",
+    "ratetests": "322604",
     "prname": "British Columbia",
     "percentoday": "0.63",
     "avgincidence_last7": "9.22",
@@ -13855,7 +13855,7 @@
     "avgdeaths_last7": "11",
     "ratedeaths_last7": "1.52",
     "avgtotal_last7": "475",
-    "numtests": ""
+    "numtests": "1660674"
   },
   {
     "numtotal_last7": "3307",
@@ -13869,8 +13869,8 @@
     "numtoday": "485",
     "numconf": "65719",
     "numrecover": "58778",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "5226",
+    "ratetests": "323620",
     "prname": "British Columbia",
     "percentoday": "0.74",
     "avgincidence_last7": "9.18",
@@ -13896,7 +13896,7 @@
     "avgdeaths_last7": "10",
     "ratedeaths_last7": "1.32",
     "avgtotal_last7": "472",
-    "numtests": ""
+    "numtests": "1665900"
   },
   {
     "numtotal_last7": "3289",
@@ -13910,8 +13910,8 @@
     "numtoday": "546",
     "numconf": "66265",
     "numrecover": "59141",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11739",
+    "ratetests": "325900",
     "prname": "British Columbia",
     "percentoday": "0.83",
     "avgincidence_last7": "9.13",
@@ -13937,7 +13937,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.26",
     "avgtotal_last7": "470",
-    "numtests": ""
+    "numtests": "1677639"
   },
   {
     "numtotal_last7": "3295",
@@ -13951,8 +13951,8 @@
     "numtoday": "514",
     "numconf": "66779",
     "numrecover": "59551",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "10027",
+    "ratetests": "327848",
     "prname": "British Columbia",
     "percentoday": "0.78",
     "avgincidence_last7": "9.14",
@@ -13978,7 +13978,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.18",
     "avgtotal_last7": "471",
-    "numtests": ""
+    "numtests": "1687666"
   },
   {
     "numtotal_last7": "3176",
@@ -13992,8 +13992,8 @@
     "numtoday": "408",
     "numconf": "67187",
     "numrecover": "59551",
-    "numteststoday": "",
-    "ratetests": "",
+    "numteststoday": "11764",
+    "ratetests": "330133",
     "prname": "British Columbia",
     "percentoday": "0.61",
     "avgincidence_last7": "8.81",
@@ -14019,7 +14019,7 @@
     "avgdeaths_last7": "9",
     "ratedeaths_last7": "1.18",
     "avgtotal_last7": "454",
-    "numtests": ""
+    "numtests": "1699430"
   },
   {
     "numtotal_last7": "3178",
@@ -14033,7 +14033,7 @@
     "numtoday": "473",
     "numconf": "67660",
     "numrecover": "59551",
-    "numteststoday": "1710926",
+    "numteststoday": "11496",
     "ratetests": "332366",
     "prname": "British Columbia",
     "percentoday": "0.70",
@@ -16275,5 +16275,46 @@
     "ratedeaths_last7": "0.54",
     "avgtotal_last7": "699",
     "numtests": "2134099"
+  },
+  {
+    "numtotal_last7": "4335",
+    "numdeaths_last7": "28",
+    "ratetested": "",
+    "numtested": "",
+    "ratedeaths_last14": "0.93",
+    "date": "27-03-2021",
+    "numtestedtoday": "",
+    "numdeaths_last14": "48",
+    "numtoday": "0",
+    "numconf": "95677",
+    "numrecover": "87866",
+    "numteststoday": "9017",
+    "ratetests": "416324",
+    "prname": "British Columbia",
+    "percentoday": "0.00",
+    "avgincidence_last7": "12.03",
+    "avgratedeaths_last7": "0.08",
+    "percentdeath": "1.51",
+    "numrecoveredtoday": "0",
+    "numtotal": "95677",
+    "numdeathstoday": "0",
+    "percentrecover": "91.84",
+    "update": "0",
+    "numprob": "0",
+    "ratetotal_last14": "160.36",
+    "pruid": "59",
+    "numdeaths": "1449",
+    "ratedeaths": "28.15",
+    "numtotal_last14": "8255",
+    "numactive": "6362",
+    "percentactive": "6.65",
+    "ratetotal": "1858.63",
+    "prnameFR": "Colombie-Britannique",
+    "ratetotal_last7": "84.21",
+    "rateactive": "123.59",
+    "avgdeaths_last7": "4",
+    "ratedeaths_last7": "0.54",
+    "avgtotal_last7": "619",
+    "numtests": "2143116"
   }
 ]
