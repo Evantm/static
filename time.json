@@ -1,17 +1,17 @@
 {
   "abbreviation": "PDT",
-  "client_ip": "104.214.56.77",
-  "datetime": "2021-05-16T16:49:58.278320-07:00",
-  "day_of_week": 0,
-  "day_of_year": 136,
+  "client_ip": "137.116.58.158",
+  "datetime": "2021-05-17T16:50:35.454963-07:00",
+  "day_of_week": 1,
+  "day_of_year": 137,
   "dst": true,
   "dst_from": "2021-03-14T10:00:00+00:00",
   "dst_offset": 3600,
   "dst_until": "2021-11-07T09:00:00+00:00",
   "raw_offset": -28800,
   "timezone": "America/Vancouver",
-  "unixtime": 1621208998,
-  "utc_datetime": "2021-05-16T23:49:58.278320+00:00",
+  "unixtime": 1621295435,
+  "utc_datetime": "2021-05-17T23:50:35.454963+00:00",
   "utc_offset": "-07:00",
-  "week_number": 19
+  "week_number": 20
 }
